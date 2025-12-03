@@ -1,0 +1,668 @@
+ID_adherent,month,immatriculationNumber,full_name,nombre_jours,salaire
+49223,décembre 2023,100561391,Bouaouda Said,24,2900.04
+49223,décembre 2023,100708662,El Jaouhari Lalla Jihane,26,24195.54
+49223,décembre 2023,100908684,Alaarabi Fatima Zohra,26,3438.96
+49223,décembre 2023,101711870,El Hakimi Mustapha,26,2990.4
+49223,décembre 2023,101804624,El Bouaalayi Lamiae,26,2990.4
+49223,décembre 2023,102985639,Belchkarre Asmaa,0,0.0
+49223,décembre 2023,103987608,Essakhi Zahra,26,3289.44
+49223,décembre 2023,103987800,Bouljihal Nadia,25,3163.81
+49223,décembre 2023,103988105,Errami Najet,26,3289.47
+49223,décembre 2023,103988307,Moubariki Fatima,26,3289.47
+49223,décembre 2023,103988509,Jamali Zohra,26,3289.47
+49223,décembre 2023,103988600,Ferhati Fatiha,25,3163.81
+49223,décembre 2023,103988701,Boughanem Maryam,18,2261.83
+49223,décembre 2023,104343150,Serti Nadia,26,2990.4
+49223,décembre 2023,104343352,El Guennouni Meryam,16,1848.08
+49223,décembre 2023,104343554,Baidi Anissa,26,2990.43
+49223,décembre 2023,104343655,Boutahar Hajar,21,2419.24
+49223,décembre 2023,104499275,Shibat Mina,26,3289.47
+49223,décembre 2023,104786552,Ech Chafnaje Malika,25,2876.17
+49223,décembre 2023,104890340,Ben Jillali Kaltoum,23,5717.42
+49223,décembre 2023,105332648,Chouya Fatima,26,3438.96
+49223,décembre 2023,105334347,Kharfouch Mina,26,4948.0
+49223,décembre 2023,105412300,Boulaaouane Fatima Zahrae,26,2990.43
+49223,décembre 2023,105864287,Errachid Hayat,26,3438.96
+49223,décembre 2023,105886687,Hamidi Khadija,25,3163.79
+49223,décembre 2023,105887289,Khriref Wafae,26,3139.92
+49223,décembre 2023,105887388,Khriref Rajae,26,3139.92
+49223,décembre 2023,105887867,Dabli Hind,26,3859.61
+49223,décembre 2023,105888188,Belakhdar Kaoutar,25,3307.6
+49223,décembre 2023,105889061,Eddarkaoui Halima,26,4800.0
+49223,décembre 2023,105891264,Talaggaght Karima,25,3307.6
+49223,décembre 2023,105895860,Larhrib Zahira,26,3289.44
+49223,décembre 2023,105897569,El Assri Samira,26,3289.46
+49223,décembre 2023,105897668,El Guerma Fatima,26,3289.44
+49223,décembre 2023,105898963,El Ghazouani Rachida,26,3139.92
+49223,décembre 2023,105899169,Mazouz Rabia,26,3438.96
+49223,décembre 2023,105921061,Lefhal Hayat,0,0.0
+49223,décembre 2023,105922960,Salhi Fouzia,26,3588.48
+49223,décembre 2023,105937167,Jaid Hassania,26,3289.44
+49223,décembre 2023,106842969,El Hadadi Ouafaa,26,2990.43
+49223,décembre 2023,106843967,Limouri Fatiha,26,3588.48
+49223,décembre 2023,106878766,Reggui Hafida,26,3139.92
+49223,décembre 2023,106892964,El Boudi Hicham,26,4231.87
+49223,décembre 2023,107592448,Belfquih Fatiha,26,6480.58
+49223,décembre 2023,107694640,Khaifi Aziza,25,3163.79
+49223,décembre 2023,107868071,Aatik Jamaa,26,3438.96
+49223,décembre 2023,107902654,Benameur Jihane,26,2990.4
+49223,décembre 2023,107902755,Aallam Khadija,26,2990.4
+49223,décembre 2023,107902856,Aammar Jamal,26,2990.4
+49223,décembre 2023,107902957,Elallaoui Laila,18,2133.68
+49223,décembre 2023,108023880,Hrimich Hakima,26,2990.4
+49223,décembre 2023,108218616,Abourchad Iman,22,2533.47
+49223,décembre 2023,108219012,El Madhouni Fetoum,26,3289.44
+49223,décembre 2023,108219113,Elmoudni Hafssa,26,3289.44
+49223,décembre 2023,108437445,Ait Abri Abdeslam,26,3641.44
+49223,décembre 2023,108439186,El Arroubi Hayat,23,2912.5
+49223,décembre 2023,108619944,Aoulad Mouhand El Miki,26,3738.0
+49223,décembre 2023,108620149,Touijar Najia,26,3438.99
+49223,décembre 2023,108997806,El Baroudy Nadia,26,3289.44
+49223,décembre 2023,108998000,Khadim Errahmane Siham,26,3289.44
+49223,décembre 2023,109001505,Chraida Mina,26,3289.44
+49223,décembre 2023,109328049,Alla Salh,26,3966.48
+49223,décembre 2023,109637664,Ouikane Fatiha,26,2990.4
+49223,décembre 2023,110708253,Naji Dounia,26,2990.4
+49223,décembre 2023,110708354,Mesbah Safae,24,2761.94
+49223,décembre 2023,110708455,Ben Mhaia Mohamed,26,2990.4
+49223,décembre 2023,110708556,Himi Latifa,16,1848.09
+49223,décembre 2023,110708657,Chahidi Fatima Zahra,17,1962.33
+49223,décembre 2023,110708758,Ghanemi Oumayma,25,2876.17
+49223,décembre 2023,110973792,Hammouda Khadija,24,3038.13
+49223,décembre 2023,111483344,Badioui Samira,26,3289.44
+49223,décembre 2023,111525047,Karim Zhor,26,3139.92
+49223,décembre 2023,111528249,Barchih Mohamed,26,6709.19
+49223,décembre 2023,111667047,Boujdad El Mofadal,26,3588.48
+49223,décembre 2023,112456717,Lakhouil Rabia,22,2533.47
+49223,décembre 2023,112470212,Bouslime Zayna,26,2990.4
+49223,décembre 2023,112470515,Ben Ameur Ayoub,26,2990.43
+49223,décembre 2023,112470919,El Ouardy Morad,16,1940.51
+49223,décembre 2023,112473612,El Abdellaoui Fattouma,26,3289.44
+49223,décembre 2023,112473713,Benmira Chaimae,26,3289.44
+49223,décembre 2023,112474018,Rohani Ilhame,26,3289.44
+49223,décembre 2023,112474513,Rouchdi Hayat,26,3289.44
+49223,décembre 2023,112481619,Chouaouta Nouhaila,26,2990.4
+49223,décembre 2023,112482510,Lassaoui Souad,24,2761.94
+49223,décembre 2023,112656990,Jamali Loubna,26,3289.47
+49223,décembre 2023,112749326,Ighzafen Hakima,26,2990.4
+49223,décembre 2023,115290191,Hrimich Fatima,25,2876.17
+49223,décembre 2023,115426123,Ighzafen Khadija,26,2990.4
+49223,décembre 2023,115794350,Irizy Bouchra,26,2990.4
+49223,décembre 2023,115794451,Benachour Amina,17,1962.33
+49223,décembre 2023,115794552,Lagziri Siham,25,2876.17
+49223,décembre 2023,115794653,Hajji Hanan,25,2876.17
+49223,décembre 2023,115794754,El Mesllouhi Kaoutar,26,2990.4
+49223,décembre 2023,115807566,Nabati Lakbir,20,2305.01
+49223,décembre 2023,115886867,Hilli Nabil,26,2990.4
+49223,décembre 2023,115887063,Zaroual Aicha,26,3438.96
+49223,décembre 2023,115887865,Oubenayad Naima,26,2990.4
+49223,décembre 2023,116099344,Elfrihi Hassan,26,3798.57
+49223,décembre 2023,116424524,El Mejhed Abdelhakim,26,3139.92
+49223,décembre 2023,116600795,Boussakine Fatima Zahra,24,2761.94
+49223,décembre 2023,116937875,Es Saidyenne Halima,26,3289.44
+49223,décembre 2023,116963177,Khramaz Fatiha,26,3139.92
+49223,décembre 2023,117993157,Bourich Fatima,26,3859.61
+49223,décembre 2023,118102640,Yahyaoui Drissia,26,3722.04
+49223,décembre 2023,119080241,Belfqih Khadija,26,3438.96
+49223,décembre 2023,119855678,Rahmouni Abderahim,25,3375.32
+49223,décembre 2023,119855876,Zerouali Jaouad,26,3139.92
+49223,décembre 2023,120080417,Ganni Sara,26,3289.44
+49223,décembre 2023,120080619,El Marhnaoui Hassnae,25,3019.98
+49223,décembre 2023,120080710,El Bouny Sanae,25,3019.98
+49223,décembre 2023,120194784,Asroufo Fatima,26,3438.99
+49223,décembre 2023,120195089,El Kharraz Karim,26,5803.9
+49223,décembre 2023,120421799,Aouine Safaa,25,2876.17
+49223,décembre 2023,120437313,Hmidou Yamna,26,2990.4
+49223,décembre 2023,120858257,Ezzaoui Khadija,26,2990.4
+49223,décembre 2023,121034308,El Khoumri Hayat,26,3289.44
+49223,décembre 2023,121044309,El Gharnaji Kaoutar,26,3289.47
+49223,décembre 2023,121493440,Touijar Jamila,26,3588.48
+49223,décembre 2023,121493747,Bousbous Nezha,26,4903.4
+49223,décembre 2023,121494240,Taghzaoui Khadija,26,3738.0
+49223,décembre 2023,121521241,Ben Mahane Najat,26,3738.0
+49223,décembre 2023,122893450,Elmers Fatima Zahrae,25,2876.17
+49223,décembre 2023,122893551,El Menasefy Sanae,26,2990.4
+49223,décembre 2023,122893652,Lahyaoui Nouhaila,25,2876.17
+49223,décembre 2023,122893753,Togui Mariyam,19,2190.78
+49223,décembre 2023,122893854,Boudah Achraf,26,2990.4
+49223,décembre 2023,122893955,El Gharras Houryia,26,2990.4
+49223,décembre 2023,122894058,Marzoug Oumaima,25,2876.17
+49223,décembre 2023,122894159,Ikhlef Nouhayla,26,2990.4
+49223,décembre 2023,122894250,Ouled Sghir Zineb,26,2990.4
+49223,décembre 2023,122894351,Karma Salma,26,2990.4
+49223,décembre 2023,122894452,Abroumi Hajjar,26,2990.4
+49223,décembre 2023,122894553,Benamira Sihame,23,2647.71
+49223,décembre 2023,122986457,Saber Malika,9,1038.28
+49223,décembre 2023,122986558,Benzarrou Asmae,10,1152.51
+49223,décembre 2023,123173215,Karim Imane,25,3019.98
+49223,décembre 2023,123173417,Chtama Naima,26,3139.95
+49223,décembre 2023,123188913,Skouri Bouchra,21,2540.2
+49223,décembre 2023,123189410,Sadry Rachida,25,2876.17
+49223,décembre 2023,123190110,Hathat Fadwa,26,3139.92
+49223,décembre 2023,123190615,Eddrif Ghizlane,23,2780.1
+49223,décembre 2023,123190817,El Yamani Naima,26,3139.92
+49223,décembre 2023,123191011,Ahardouch Hasnaa,26,3139.92
+49223,décembre 2023,123191213,Loukria Hafida,23,2780.1
+49223,décembre 2023,123740469,Benboulmane Laila,26,3438.96
+49223,décembre 2023,123758462,Errachdi Rachida,26,3289.47
+49223,décembre 2023,123859731,El Jaouhari Lalla Samira,26,27258.81
+49223,décembre 2023,123903637,Mehdaoui Hassan,25,3289.55
+49223,décembre 2023,124739073,Lotfi Rahma,25,3307.6
+49223,décembre 2023,124750970,Ahmaddan Mhamed,26,3139.92
+49223,décembre 2023,124766670,Benjaaibou Sabah,26,2990.4
+49223,décembre 2023,125025463,Auzoli Nacira,26,3289.44
+49223,décembre 2023,125027162,El Houri Rachida,26,3438.96
+49223,décembre 2023,125043613,Halouane Siham,26,2990.4
+49223,décembre 2023,125538211,Zagour Fatima Zahra,25,3019.98
+49223,décembre 2023,126106712,Belfaquih Assia,26,3139.95
+49223,décembre 2023,126111612,El Bardi Farah,26,3139.92
+49223,décembre 2023,126111713,En Najy Mounim,25,3900.83
+49223,décembre 2023,126295608,Abourchad Soumaya,26,3289.44
+49223,décembre 2023,126829947,El Affari Najat,26,4177.62
+49223,décembre 2023,127010678,El Agoubi Driss,26,3139.92
+49223,décembre 2023,127018771,Benalilou Loubna,24,2761.94
+49223,décembre 2023,127022871,Araibach Saida,26,3139.92
+49223,décembre 2023,128026690,Lamimi Tarik,26,2990.4
+49223,décembre 2023,128141100,Sbaihi Saloua,24,3038.13
+49223,décembre 2023,128343789,Azouagh Loubna,26,3139.92
+49223,décembre 2023,128398002,Essekkioui Layla,24,2761.94
+49223,décembre 2023,128468941,Benjillali Khalid,26,7590.6
+49223,décembre 2023,129415215,El Abdellaoui Hind,24,2900.04
+49223,décembre 2023,129519417,El Machtoune Hanan,26,2990.4
+49223,décembre 2023,129794494,Ouhida Zineb,23,2780.1
+49223,décembre 2023,129795492,Amghar Lahcen,26,3289.44
+49223,décembre 2023,129806190,Mazragui Ikram,26,3139.94
+49223,décembre 2023,130132063,Chouika Fouzia,22,2913.49
+49223,décembre 2023,130132469,Srijaoui Mounia,26,3438.96
+49223,décembre 2023,130135661,Ait El Aamel Khadija,26,3679.46
+49223,décembre 2023,130203435,Mechouat Amal,8,924.05
+49223,décembre 2023,130285300,Serti Soukaina,26,3139.92
+49223,décembre 2023,130285603,Lazrag Fatima,26,2990.4
+49223,décembre 2023,130317764,Elassri Bahija,18,2261.83
+49223,décembre 2023,131640495,Aroua Khadija,26,2990.4
+49223,décembre 2023,132008452,Bahaj Zhor,26,3738.0
+49223,décembre 2023,132080955,Jmili Samira,26,3438.96
+49223,décembre 2023,132081151,Gueddari Nabil,26,8171.5
+49223,décembre 2023,132100720,El Mouatassim Khadija,26,2990.43
+49223,décembre 2023,132156350,Jaida Fatima,26,8097.16
+49223,décembre 2023,132160054,Addi Hanane,24,3038.13
+49223,décembre 2023,132161359,Boutamarte Itto,26,3289.44
+49223,décembre 2023,132197156,Ben Ahmadi Rachida,26,3438.96
+49223,décembre 2023,132197453,Haguour Hamid,26,2990.4
+49223,décembre 2023,132224355,Akhrabou Ilham,26,3438.96
+49223,décembre 2023,132224850,Lafjij Khadija,26,3588.48
+49223,décembre 2023,132292352,Gourram Samia,26,2990.4
+49223,décembre 2023,132300003,Kraia Nezha,26,2990.43
+49223,décembre 2023,132303753,El Jaouahari Lalla Nadia,26,37789.22
+49223,décembre 2023,132320153,El Hmim Bouchra,26,3588.48
+49223,décembre 2023,132320252,El Masnaoui Mounia,25,3451.4
+49223,décembre 2023,132323173,Jaouhari El Yass,25,3502.26
+49223,décembre 2023,132397756,Ghazlani Fatna,24,2761.94
+49223,décembre 2023,132401656,Alaoui Mina,26,3588.48
+49223,décembre 2023,132449458,Hibbi Hanane,26,3415.6
+49223,décembre 2023,132558010,Belarbi Azzedine,24,2761.96
+49223,décembre 2023,132675756,El Mnaouar Khadija,26,3438.96
+49223,décembre 2023,132712350,El Yaguouby Fatima,26,3588.48
+49223,décembre 2023,132919352,Belfquih Mohammed,26,5362.2
+49223,décembre 2023,132935655,El Ghazouani Rahma,25,3451.4
+49223,décembre 2023,133035013,Zoukrati Sakina,24,2900.04
+49223,décembre 2023,133179054,Loubbardi Habiba,26,3438.96
+49223,décembre 2023,133244154,Echcharkaoui Saida,25,3451.4
+49223,décembre 2023,133244451,Chaffoui Amina,26,3588.48
+49223,décembre 2023,133347651,El Houari Jemaa,26,5679.28
+49223,décembre 2023,133370553,Bouangua Abdellatif,26,8852.97
+49223,décembre 2023,133384257,Ben Fellah Saadia,26,3438.96
+49223,décembre 2023,133503511,Belafkih Samira,26,3139.92
+49223,décembre 2023,133503915,Amkran Laila,26,3139.92
+49223,décembre 2023,133504210,Adnane Ikrame,26,3139.92
+49223,décembre 2023,133504311,El Khairi Fouzia,26,3139.92
+49223,décembre 2023,133508713,Harmak Rajae,26,3139.92
+49223,décembre 2023,133508814,Farik Rajae,25,3019.98
+49223,décembre 2023,133509018,Michitra Majda,26,3139.92
+49223,décembre 2023,133509119,El Moutia Ghizlane,20,2420.26
+49223,décembre 2023,133509210,Khir Rania,15,1733.85
+49223,décembre 2023,133509513,Chlighim Loubna,26,3139.92
+49223,décembre 2023,133510213,Ezzarraa Ilham,26,3139.92
+49223,décembre 2023,133510516,Bouzbiba Housna,23,2780.1
+49223,décembre 2023,133820243,Moufid Roukaya,26,3289.44
+49223,décembre 2023,133836448,Azot Abdallah,25,19175.95
+49223,décembre 2023,133952637,Taouil Noura,26,2990.43
+49223,décembre 2023,133952738,Lakrait Youssra,26,2990.4
+49223,décembre 2023,134984543,Ghanmi Hanan,26,3139.92
+49223,décembre 2023,135072371,El Khatir Fatiha,26,3289.44
+49223,décembre 2023,135072579,Toummert Hannou,26,2990.4
+49223,décembre 2023,136304195,Oyassine Nadia,25,3163.79
+49223,décembre 2023,137609768,Bouaicha Mounir,26,10470.28
+49223,décembre 2023,138025322,Ait Khachba Ahlame,25,2876.17
+49223,décembre 2023,138136033,Lamaiti Larbi,26,16502.35
+49223,décembre 2023,138527349,El Fadli Widyane,22,2913.49
+49223,décembre 2023,138527448,El Khairi Abdelaziz,26,6411.43
+49223,décembre 2023,139586774,El Alami Salim,25,4225.13
+49223,décembre 2023,139612975,Amour Abdelhafid,26,5405.0
+49223,décembre 2023,139914230,El Garni Taoufik,26,21125.92
+49223,décembre 2023,140439144,El Ghazouanii Ammar,26,7487.5
+49223,décembre 2023,140658463,Ez Zaydy Achoura,26,3289.44
+49223,décembre 2023,140706890,Boukoummia Kawtar,17,1962.31
+49223,décembre 2023,141103638,Essaidi Fatima,26,2990.43
+49223,décembre 2023,141103739,Cheffoui Latifa,26,2990.43
+49223,décembre 2023,141103931,Barzani Hasna,26,2990.43
+49223,décembre 2023,141104135,Ben Hajjou Jamila,26,2990.43
+49223,décembre 2023,141104337,Ben Omar Bouchra,26,2990.4
+49223,décembre 2023,141104539,Chaabi Salma,26,2990.4
+49223,décembre 2023,141440786,Belrhali Malika,26,2990.4
+49223,décembre 2023,141482283,Es Sadiq Malika,26,3438.96
+49223,décembre 2023,141500689,Tchioucha Soumia,26,3289.44
+49223,décembre 2023,141501489,Nabaoui Ouissal,25,3163.79
+49223,décembre 2023,141540418,Raissi Nouhayla,13,1505.38
+49223,décembre 2023,141719342,Hathat Mohammed,26,2990.4
+49223,décembre 2023,141882739,Lamtoubi Madiha,26,2990.4
+49223,décembre 2023,142001621,Cheffoui Azzeddine,25,2876.19
+49223,décembre 2023,142113241,Belhafiane Mina,26,3289.44
+49223,décembre 2023,142689466,Belghazi Fouzia,26,3289.44
+49223,décembre 2023,142705163,Belghaddar Hanane,26,3438.96
+49223,décembre 2023,142705460,Amziouide Hanane,25,3307.6
+49223,décembre 2023,143006594,Ez Zaydy Fatima Zahra,26,2990.4
+49223,décembre 2023,143009291,El Aaroui Hanan,17,2060.43
+49223,décembre 2023,143009796,Souadi Hind,18,2076.54
+49223,décembre 2023,143010199,Zaamoun Nadia,24,3038.13
+49223,décembre 2023,143010595,Taouraght Zohra,7,819.98
+49223,décembre 2023,143011395,Chabib Ilham,24,2900.04
+49223,décembre 2023,143011494,Bahtat Samira,26,3289.44
+49223,décembre 2023,143012690,Baimik Hakima,26,2990.4
+49223,décembre 2023,143012997,Jouabri Laila,25,3019.98
+49223,décembre 2023,143266519,Haffoudi Chaymaa,24,2900.04
+49223,décembre 2023,143379239,Ennaassia Souad,26,2990.4
+49223,décembre 2023,144899691,Benyattou Yamna,26,3139.92
+49223,décembre 2023,144908916,Hathat Hayat,25,3020.0
+49223,décembre 2023,144909019,Mziouid Aicha,26,3139.95
+49223,décembre 2023,144909110,R Ssaim Achraf,25,3020.0
+49223,décembre 2023,144909413,Ahfour Aicha,26,3139.95
+49223,décembre 2023,144989625,Kaarouch Souad,26,3139.92
+49223,décembre 2023,145588772,Zerqui Hanane,24,3038.13
+49223,décembre 2023,145738343,Selmoun Malica,26,3139.92
+49223,décembre 2023,145984186,El Guerni Meryem,25,2876.17
+49223,décembre 2023,145984582,El Hachmi Hasnaa,25,3307.6
+49223,décembre 2023,145988089,Bouhadi Fatiha,26,3438.96
+49223,décembre 2023,146009280,El Ouahy Meryem,26,3139.92
+49223,décembre 2023,147011094,Lamraoudy Fatima Zahra,26,2990.45
+49223,décembre 2023,147291225,El Bouzaydy Hayat,26,3139.95
+49223,décembre 2023,147291326,Lahmissi Fatima Zahraa,26,3139.95
+49223,décembre 2023,147291427,Stitou Fatima,26,3139.95
+49223,décembre 2023,147902532,El Kohli Mohammed,26,5557.87
+49223,décembre 2023,148165965,Maghloub Bouchra,26,3139.92
+49223,décembre 2023,148173911,Lamliki Khaoula,25,3019.98
+49223,décembre 2023,148230507,Ouzlim Khadija,26,2990.4
+49223,décembre 2023,148230901,Achalik Jamila,5,650.67
+49223,décembre 2023,148231408,Chtouki Badia,26,3289.46
+49223,décembre 2023,148231802,Rouane Zhor,26,3289.44
+49223,décembre 2023,148232501,Diri Samira,26,3289.44
+49223,décembre 2023,148236701,Taareche Ghizlane,26,3289.44
+49223,décembre 2023,148238806,El Ajouri Chaimaa,26,3289.44
+49223,décembre 2023,148239303,El Alaoui Jamila,26,3289.44
+49223,décembre 2023,148240003,Laftah Hajar,26,4546.03
+49223,décembre 2023,148241207,Moujane Laila,25,3163.79
+49223,décembre 2023,148241803,Achalik Hanane,26,3289.44
+49223,décembre 2023,148245205,Iggua Saida,26,3139.92
+49223,décembre 2023,148245306,Zahi Naima,25,3163.79
+49223,décembre 2023,148245801,Sguiri Ilham,26,3289.44
+49223,décembre 2023,148249900,Douichi Mostafa,26,2990.4
+49223,décembre 2023,148594723,Ahmamou Amine,26,2990.4
+49223,décembre 2023,149096045,El Bekhtaoui Aicha,25,2876.19
+49223,décembre 2023,149100746,Ezzaarouri Khadija,26,3738.0
+49223,décembre 2023,149102346,Belarabi Bouchaib,0,0.0
+49223,décembre 2023,149120645,Ben Abdelmalek Maryem,26,5561.25
+49223,décembre 2023,149120843,Eziati Khadija,26,3738.0
+49223,décembre 2023,149235072,Mellouki Rabha,26,4879.17
+49223,décembre 2023,149235171,Naboulsi Bouchra,26,3490.41
+49223,décembre 2023,149235478,Jarid Zohra,26,3438.96
+49223,décembre 2023,149235973,Benabbou Wafae,26,3438.96
+49223,décembre 2023,149252042,Belmalha Mina,21,3024.05
+49223,décembre 2023,149257373,Agabli Fatima,26,3438.96
+49223,décembre 2023,149260178,Souabi Oumelaid,26,3139.92
+49223,décembre 2023,149308944,Naciri Ilham,26,3289.44
+49223,décembre 2023,149327746,Kachmor Nezha,25,3163.79
+49223,décembre 2023,149343544,Adyb Abdellah,26,6086.9
+49223,décembre 2023,149510817,Lakbib Fatima,24,2900.04
+49223,décembre 2023,149513217,Baha Hasnae,26,3139.92
+49223,décembre 2023,149607255,Akrabou Meryem,26,3139.92
+49223,décembre 2023,149670559,Elattari Rachida,26,3438.96
+49223,décembre 2023,149778551,Adbib Fatima,25,3163.79
+49223,décembre 2023,149821657,Oubella Mustapha,26,6708.85
+49223,décembre 2023,149972308,El Mostafi Khadija,25,3019.98
+49223,décembre 2023,150118994,Oubouhouche Lahcen,26,3289.44
+49223,décembre 2023,150119794,Zair Loubna,26,3289.44
+49223,décembre 2023,150120494,Akarrout Manare,26,3289.44
+49223,décembre 2023,150129339,Gouit Mostafa,26,10606.37
+49223,décembre 2023,150619752,Boumkila El Mostafa,26,6706.85
+49223,décembre 2023,150653658,Smouki Khadija,16,1848.09
+49223,décembre 2023,150765528,Echraibi Najat,25,3019.98
+49223,décembre 2023,150765821,Hassy Noura,26,3139.92
+49223,décembre 2023,150765922,Bakkar Naima,26,3139.92
+49223,décembre 2023,150766126,Chadi Naima,26,3139.95
+49223,décembre 2023,150766227,Ed Dahbi Saida,26,3139.95
+49223,décembre 2023,150766429,Ed Dahbi Bouchra,26,3139.95
+49223,décembre 2023,150766520,El Kaddouri Rhzala,26,3139.95
+49223,décembre 2023,150766823,Khoubiza Imane,13,1580.65
+49223,décembre 2023,150766924,El Mazouzi Fatiha,26,3139.92
+49223,décembre 2023,150767421,Er Rahouti Taoufik,26,3139.92
+49223,décembre 2023,150767623,Dakir Rachid,26,3139.92
+49223,décembre 2023,151605081,Ben Hallab Soukaina,8,959.57
+49223,décembre 2023,152581769,Ahrari Hanane,26,3289.44
+49223,décembre 2023,152582163,Bouhrara Malika,20,2305.01
+49223,décembre 2023,152650200,Mamouni Hasna,26,3289.47
+49223,décembre 2023,152657709,Ait Baamal Farida,22,2786.82
+49223,décembre 2023,152659905,Akikiz Othmane,24,2761.94
+49223,décembre 2023,152865890,Attabane Amina,18,2076.54
+49223,décembre 2023,152868191,Dellal Ilham,26,2990.4
+49223,décembre 2023,152949181,Atik Drissia,26,3289.44
+49223,décembre 2023,152949389,El Atteoui Nabila,0,0.0
+49223,décembre 2023,152949785,Aboudrar Laila,26,3289.44
+49223,décembre 2023,152950089,El Khemssi Khadija,25,3163.81
+49223,décembre 2023,152950287,El Barj Khadija,10,1278.95
+49223,décembre 2023,152951384,Rouchdi Ghizlane,26,3289.44
+49223,décembre 2023,152951681,Esshaili Zakariae,26,3661.76
+49223,décembre 2023,152952283,El Bouny Naima,26,3289.44
+49223,décembre 2023,152952689,Belouarat Fouzia,26,2990.4
+49223,décembre 2023,152952887,Hassane Hakima,17,2060.43
+49223,décembre 2023,152953281,Lablaini Aziza,23,2912.48
+49223,décembre 2023,152954388,Azzamouri Meryem,26,3139.92
+49223,décembre 2023,152973685,Louasiti Amal,26,3289.44
+49223,décembre 2023,152974089,Taghzaoui Hanane,14,1781.57
+49223,décembre 2023,152974980,Doukkali Ibtissam,26,3289.44
+49223,décembre 2023,152975186,Khramaz Meriam,26,3139.92
+49223,décembre 2023,152975285,Atyq Meriem,26,3289.44
+49223,décembre 2023,152975889,Mesnaoui Zahra,26,3289.44
+49223,décembre 2023,152978289,Agoul Hayat,26,3289.44
+49223,décembre 2023,153105143,Boukhadmi Aicha,26,2990.4
+49223,décembre 2023,154235430,Hafssaoui Jamila,26,2990.43
+49223,décembre 2023,154235632,Aitabdessadk Ihssane,26,2990.4
+49223,décembre 2023,154675891,Hajjaji Fouziya,20,2420.26
+49223,décembre 2023,155129095,Bakhala Khadija,26,2990.4
+49223,décembre 2023,155630605,Oukassou Nazha,24,2900.04
+49223,décembre 2023,156298814,Ait Ychou Said,26,3139.92
+49223,décembre 2023,156349064,Asbitri Souad,25,2876.17
+49223,décembre 2023,156562385,Bouloileb Najwa,25,3019.98
+49223,décembre 2023,156880282,Akrabou Rachida,26,3289.44
+49223,décembre 2023,156880688,Ait Belal Mariam,26,2990.4
+49223,décembre 2023,156880886,Ouzlim Meryem,26,2990.4
+49223,décembre 2023,156881488,Douhou Rajjaa,26,3289.44
+49223,décembre 2023,156881686,Fakhdi Jamal,24,3038.13
+49223,décembre 2023,156913083,Daldoun Meryem,23,2647.71
+49223,décembre 2023,158563258,Bargach Fatima,26,3438.96
+49223,décembre 2023,158900872,Idrissi Lamyae,26,3438.98
+49223,décembre 2023,159933343,Chater Naima,26,3438.96
+49223,décembre 2023,159956444,Souabi Khadija,26,2990.4
+49223,décembre 2023,160533463,Benzair Brahim,26,2990.4
+49223,décembre 2023,160622528,Benkhadda Noura,24,2900.04
+49223,décembre 2023,160622922,Essaigh Chaimae,26,3139.92
+49223,décembre 2023,161291234,Aissa Abderrazzak,26,18312.5
+49223,décembre 2023,161297034,El Mouatamid Abdelghani,26,8705.0
+49223,décembre 2023,161303534,Bouchari Mohamed,26,7175.49
+49223,décembre 2023,161306231,Ejjrefi Fatima,23,3309.64
+49223,décembre 2023,161307536,Zdihri Rabia,26,3289.44
+49223,décembre 2023,161447473,Ramzi Mounir,26,3509.73
+49223,décembre 2023,161492508,Semlani Rachid,26,3139.92
+49223,décembre 2023,162071608,Bourial Meryem,26,2990.43
+49223,décembre 2023,162715986,Maareft Naoual,26,3289.44
+49223,décembre 2023,162731081,El Houss Fadoua,26,2990.4
+49223,décembre 2023,162739212,Lakhbizi Khaoula,25,2876.17
+49223,décembre 2023,162739515,Assila Nezha,23,2647.71
+49223,décembre 2023,162941918,El Kessi Zineb,26,3139.92
+49223,décembre 2023,163541588,Laguid Hanane,0,0.0
+49223,décembre 2023,163672716,Lhamidi Abdelilah,15,1733.85
+49223,décembre 2023,163673011,El Hajra Abdelkhalik,26,3139.92
+49223,décembre 2023,163673516,El Hilali Imane,26,3139.92
+49223,décembre 2023,163674013,Boulaft Sara,23,2780.1
+49223,décembre 2023,163674518,El Yakoubi El Khayoubi Ihsane,26,3139.92
+49223,décembre 2023,163675217,Badad Asmae,26,3139.92
+49223,décembre 2023,163675510,Houmman Halima,23,2780.1
+49223,décembre 2023,163675611,Rhyat Meryem,26,3139.92
+49223,décembre 2023,163676219,El Massoudi Nouhaila,24,2761.94
+49223,décembre 2023,163677110,Michtra Housna,26,3139.92
+49223,décembre 2023,163678011,El Oualid Meryem,24,2900.04
+49223,décembre 2023,164086308,Battach Hayat,26,3139.92
+49223,décembre 2023,164103609,Azghal Hafida,25,3019.98
+49223,décembre 2023,164104308,Laassri Idrissiya,22,2660.14
+49223,décembre 2023,164163744,Belaghzel Nouhaila,26,2990.4
+49223,décembre 2023,164163845,Leghouazi Amina,23,2647.71
+49223,décembre 2023,164163946,Ait Lahcen Ouardia,26,2990.4
+49223,décembre 2023,164164049,Laguedani Houda,25,2876.17
+49223,décembre 2023,164164140,Tayak Fatima,26,2990.4
+49223,décembre 2023,164164342,Daou Hasnae,26,2990.4
+49223,décembre 2023,164164443,Belkrim Hind,25,2876.17
+49223,décembre 2023,164164645,Jeghalef Abdellatif,26,2990.4
+49223,décembre 2023,164164847,Boukhars Fatiha,26,4189.87
+49223,décembre 2023,164165041,Ouddouche Rachida,24,2761.96
+49223,décembre 2023,164165142,Ennasri Zahra,26,2990.43
+49223,décembre 2023,164165243,Hathat Sanaa,26,2990.43
+49223,décembre 2023,164165445,Lamraoudi Saida,26,2990.43
+49223,décembre 2023,164165546,Ez Zaky Latifa,25,2876.19
+49223,décembre 2023,164707015,Bakaoua Zaineb,26,3139.95
+49223,décembre 2023,164707116,El Maach Khadija,26,3139.95
+49223,décembre 2023,164715877,Chatto Fatima Zahra,15,1820.54
+49223,décembre 2023,165562053,Oudani Lahcen,26,3289.44
+49223,décembre 2023,166252869,Aziz Khayra,26,3438.96
+49223,décembre 2023,166350212,El Badry Ahmed,26,3139.92
+49223,décembre 2023,166551903,Yousri Chaymaa,26,3139.92
+49223,décembre 2023,166807122,Nidam Ayoub,26,3139.92
+49223,décembre 2023,167354052,Lamnaouer Oumhani,26,3289.44
+49223,décembre 2023,167368954,Lazrak Ahmed,26,6857.88
+49223,décembre 2023,167408453,Ben Krita Redouane,26,5901.62
+49223,décembre 2023,167439052,Bouzekra Ahmed,26,3588.48
+49223,décembre 2023,167543655,Bettiche Lahcen,26,5818.38
+49223,décembre 2023,167580350,Karim Hafida,24,3038.13
+49223,décembre 2023,167606859,El Haddadi Souad,26,4693.88
+49223,décembre 2023,167618151,Belkassemi Asma,26,3588.48
+49223,décembre 2023,168022765,Ramzi Mohamed,26,3139.92
+49223,décembre 2023,168120486,Masnaoui Saida,26,3289.44
+49223,décembre 2023,168120585,El Ghachami Rababe,26,3289.44
+49223,décembre 2023,168124389,Es Sebban Najoua,26,3289.44
+49223,décembre 2023,168682801,El Hachimi Aycha,26,2990.4
+49223,décembre 2023,168683308,Ennassiri Ibtissam,24,2900.06
+49223,décembre 2023,168683803,Jaddou Imane,25,2876.17
+49223,décembre 2023,169116702,El Khassal Youssef,26,3139.92
+49223,décembre 2023,169500846,Taouil Adil,26,2990.4
+49223,décembre 2023,169500947,Haddadi Hicham,26,2990.43
+49223,décembre 2023,169501242,Messaouadi Youness,26,2990.4
+49223,décembre 2023,169699894,Ezzarraa Hayat,25,3019.98
+49223,décembre 2023,169700394,En Naouy Loubna,22,2533.47
+49223,décembre 2023,169700691,Ouabout Najat,26,3289.44
+49223,décembre 2023,169701491,Chaoui Ouafae,23,2780.1
+49223,décembre 2023,170044409,Elkaissi Assia,26,3139.95
+49223,décembre 2023,170126670,Bouabane Fatima,26,3438.96
+49223,décembre 2023,170126779,Sraidi Hadda,26,2990.4
+49223,décembre 2023,170153772,En Nasery Souad,26,3438.96
+49223,décembre 2023,171994266,Oppele Mina,26,3289.44
+49223,décembre 2023,172035762,Oujabli Layla,26,3438.96
+49223,décembre 2023,172533612,Homi Lekbira,25,2876.17
+49223,décembre 2023,172786688,Labiad Malika,26,3139.92
+49223,décembre 2023,173287115,Slimani Ratiba,24,2761.94
+49223,décembre 2023,173358189,Moujane Layla,0,0.0
+49223,décembre 2023,173358288,Bouallak Naima,26,3289.44
+49223,décembre 2023,173360184,Kbibih Naima,26,3289.44
+49223,décembre 2023,173361786,Shifi Hicham,25,3019.98
+49223,décembre 2023,173362180,Sadki Meryem,22,2533.47
+49223,décembre 2023,173362685,El Madani Hassaniya,25,3163.81
+49223,décembre 2023,173363188,Essafi Soukaina,26,3289.44
+49223,décembre 2023,174157639,Mouhoussef Jamal,22,2533.47
+49223,décembre 2023,174852130,El Faouah Kacemia,26,3139.92
+49223,décembre 2023,175053232,El Hatimi Zahra,26,2990.43
+49223,décembre 2023,175141119,Oullahou Nabila,26,2990.4
+49223,décembre 2023,175219298,El Mansoury Abdellah,26,3139.92
+49223,décembre 2023,175410086,Ftouhi Nasreddine,26,2990.4
+49223,décembre 2023,175490017,Marichane Maryam,26,2990.43
+49223,décembre 2023,175582101,Atroussi Fatima Ezzahraa,23,2780.1
+49223,décembre 2023,175677868,Grouh Fatima,25,2876.19
+49223,décembre 2023,175976310,El Outmani Hind,25,2876.17
+49223,décembre 2023,175976714,Safi Khadija,23,2780.1
+49223,décembre 2023,175976815,Eddou Fouzia,26,3139.92
+49223,décembre 2023,175976916,Bouloileb Hakima,26,3139.92
+49223,décembre 2023,175977110,M Chichou Soukaina,25,3019.98
+49223,décembre 2023,176516519,Amzian Rekia,26,3139.95
+49223,décembre 2023,176895345,Tifazouine Zineb,26,2990.43
+49223,décembre 2023,176895446,Mankour Souad,26,2990.4
+49223,décembre 2023,177712706,Ben Hallab Najoua,15,1820.54
+49223,décembre 2023,177919627,Labeibie Sanae,25,3020.0
+49223,décembre 2023,179103265,El Hadi Abbess,26,7356.55
+49223,décembre 2023,179120665,Rizki Khadija,26,3289.44
+49223,décembre 2023,179230480,El Mejhed Latifa,26,3289.44
+49223,décembre 2023,179392429,Mouth Zineb,26,2990.4
+49223,décembre 2023,179445523,Bouchareb Ahlam,11,1276.91
+49223,décembre 2023,179501206,Hajjaj Soukayna,22,2660.14
+49223,décembre 2023,179501307,Benzekri Hajar,25,3019.98
+49223,décembre 2023,180225131,Sellal Khalid,26,8776.59
+49223,décembre 2023,180513669,Sghiri Redouane,26,3289.44
+49223,décembre 2023,180961645,Ben Hamed Kaoutar,26,2990.4
+49223,décembre 2023,180961746,Chamkhi Nisrine,5,628.3
+49223,décembre 2023,181610076,Tanjir Samira,26,3438.96
+49223,décembre 2023,181610571,Rouaissi Aicha,25,3163.79
+49223,décembre 2023,181610779,Moujane Mouna,25,3307.6
+49223,décembre 2023,181639274,El Houri Meryem,26,3289.44
+49223,décembre 2023,181639878,Bahssaine Sanae,26,3139.92
+49223,décembre 2023,182123135,Filali Belhabib Hosna,26,4296.97
+49223,décembre 2023,182146038,Chalabi Ahmed,26,8611.8
+49223,décembre 2023,182148935,El Barj Saida,26,6991.93
+49223,décembre 2023,182159338,Hrifa Khadija,26,11820.0
+49223,décembre 2023,182163834,Khouili Fatima,26,3139.92
+49223,décembre 2023,182202533,El Goumri Khalid,26,10617.09
+49223,décembre 2023,182210635,Sakine Najat,26,3438.96
+49223,décembre 2023,182287337,Bennani Zeroual Said,26,4953.81
+49223,décembre 2023,182336499,Boubtait Samia,8,980.95
+49223,décembre 2023,182336796,Dahane Najat,26,3289.44
+49223,décembre 2023,182337596,El Haouzi Nouhaila,26,2990.4
+49223,décembre 2023,182338693,Aguida Hanan,2,251.34
+49223,décembre 2023,182338792,Belkharraf Meryem,26,3885.56
+49223,décembre 2023,182369573,Bendani Hasnae,12,1507.89
+49223,décembre 2023,183305408,Mouaffak Othmane,26,2990.4
+49223,décembre 2023,183333205,Fareh Khadija,14,1619.61
+49223,décembre 2023,183334963,Ikbliane Samira,26,3289.44
+49223,décembre 2023,183343509,Slaoui Wassima,15,1799.21
+49223,décembre 2023,183343701,Ennaciri Majda,26,3289.44
+49223,décembre 2023,183343903,El Hasany Soumia,26,3139.92
+49223,décembre 2023,183344006,Darkaoui Merieme,26,2990.4
+49223,décembre 2023,183344107,Chtouki Aziza,26,3289.44
+49223,décembre 2023,183344602,Yacou Rachida,26,3289.44
+49223,décembre 2023,183345008,Amharref Soukaina,26,3289.44
+49223,décembre 2023,183345301,Bouhig Fatima,26,3289.44
+49223,décembre 2023,183346808,Daldoun Fouzia,26,3289.44
+49223,décembre 2023,183346909,Oulad Belhaj Amal,25,3019.98
+49223,décembre 2023,183699211,Zaaboun Fatima,26,3139.94
+49223,décembre 2023,184051095,El Khammar Rachida,25,3163.81
+49223,décembre 2023,184051194,Belkharraf Zohra,26,3289.47
+49223,décembre 2023,184051293,Rouan Rachida,26,3289.47
+49223,décembre 2023,184051392,El Hadaf Atika,26,3289.47
+49223,décembre 2023,184051491,El Askouri Fatima,25,3163.81
+49223,décembre 2023,184051590,Ounaha Bouchra,26,3289.47
+49223,décembre 2023,184051699,Nidouissaden Rahma,26,3289.47
+49223,décembre 2023,184051897,Zitouni Saadia,26,3289.47
+49223,décembre 2023,184052093,El Maazouzi Sfia,26,3289.47
+49223,décembre 2023,184052192,El Arrag Fatna,25,3163.81
+49223,décembre 2023,184052291,Oyassine Essediya,26,3289.47
+49223,décembre 2023,184052390,Boudrafte Mina,26,3289.47
+49223,décembre 2023,184052499,Bazin Fatima,26,3289.47
+49223,décembre 2023,184052598,El Barche Rachida,26,3289.47
+49223,décembre 2023,184052697,Ejjouad Fatiha,18,2159.02
+49223,décembre 2023,184052796,Aloui Houria,25,3163.81
+49223,décembre 2023,184052895,Medhoun Khadija,26,3289.47
+49223,décembre 2023,184052994,Bellazrak Halima,0,0.0
+49223,décembre 2023,184053299,Sif Litihad Fatima,26,3289.47
+49223,décembre 2023,184053398,Errazi Fatima,26,3289.47
+49223,décembre 2023,184053497,Belakhdar Saadia,0,0.0
+49223,décembre 2023,184053596,Rahouss Fatima,26,3289.47
+49223,décembre 2023,184053695,El Aatar Nadia,26,3289.47
+49223,décembre 2023,185381020,El Abbassi Kawtar,7,861.0
+49223,décembre 2023,185545237,Naanai Abdesselam,26,7549.13
+49223,décembre 2023,185577339,Bakaoua Fadma,26,3438.96
+49223,décembre 2023,185588336,Boudounit Malika,26,6391.25
+49223,décembre 2023,186224939,Jebbari Ahmed,26,12972.68
+49223,décembre 2023,186284645,El Ouajjae Nadia,26,2990.43
+49223,décembre 2023,186558271,El Kadiri Najma,26,3438.96
+49223,décembre 2023,187171902,Ait Nacer Latifa,8,959.57
+49223,décembre 2023,187217462,Oulaaidi Samira,26,4765.7
+49223,décembre 2023,187217561,Benalilou Khadija,24,2900.04
+49223,décembre 2023,187380839,Berrada Faiza,23,2912.48
+49223,décembre 2023,187706325,Ouadjou Hamza,21,2419.26
+49223,décembre 2023,187707404,Ezzahiri Saadia,26,3139.95
+49223,décembre 2023,187876680,Bakhouch Fatna,25,2876.17
+49223,décembre 2023,187886986,Bel Afia Mohamed Amine,26,3845.79
+49223,décembre 2023,187903842,El Kotbi Nadia,26,2990.4
+49223,décembre 2023,188297149,Jikni Said,15,1733.85
+49223,décembre 2023,188850584,Elfaidi Hafida,23,2647.71
+49223,décembre 2023,188864030,El Assal Rachid,24,3881.8
+49223,décembre 2023,189022372,Bouloileb Driss,26,2990.4
+49223,décembre 2023,189271474,Filali Bel Habib Ghizlane,26,3438.99
+49223,décembre 2023,189273272,Hajjaoui Fatna,26,3438.96
+49223,décembre 2023,189273371,El Kadily Latifa,26,3139.92
+49223,décembre 2023,189273470,El Omayry Ilham,26,3289.44
+49223,décembre 2023,189426501,El Handaoui Fatima Ezzahraa,26,2990.4
+49223,décembre 2023,189427008,Khir Milouda,26,2990.4
+49223,décembre 2023,190088660,Oulaaidi Farida,26,3438.96
+49223,décembre 2023,190134463,Slaoui Rachida,26,3749.46
+49223,décembre 2023,190453715,Hinnech Hassania,18,2056.21
+49223,décembre 2023,190746502,N Ait Addi Fadma,26,3289.44
+49223,décembre 2023,190766504,Khouda Mohammed,26,3570.42
+49223,décembre 2023,191057122,Belkhadra Fatima Zahra,15,1713.51
+49223,décembre 2023,191337417,Saf Saloua,25,3019.98
+49223,décembre 2023,191409941,Elalami Idrissi Chaimae,26,2990.4
+49223,décembre 2023,191410045,El Filali Houria,18,2076.54
+49223,décembre 2023,191410146,Rhani Fatima,26,2990.4
+49223,décembre 2023,191410247,Douib Halima,26,2990.4
+49223,décembre 2023,192020082,El Bouayadi Said,24,2761.94
+49223,décembre 2023,192796922,El Jaouhari Sidi Mohammed,26,67675.2
+49223,décembre 2023,192813726,Boussouis Rachida,26,4671.68
+49223,décembre 2023,193347683,Dahhan Khadija,25,3019.98
+49223,décembre 2023,193574773,Amoum Fetou,26,3139.95
+49223,décembre 2023,193806402,Saber Saida,19,2300.32
+49223,décembre 2023,193806604,Tiyane Kanza,26,3139.92
+49223,décembre 2023,195013821,Bel Fakir Wafae,26,2990.4
+49223,décembre 2023,195013922,Ben Daoued Hajiba,26,2990.4
+49223,décembre 2023,195014025,Boussakine Chaimae,25,2876.17
+49223,décembre 2023,195014126,Benaabed Nouhaila,18,2076.54
+49223,décembre 2023,195014227,Ben Daoued Bouchra,25,2876.17
+49223,décembre 2023,195014328,Darkaoui Israe,26,2990.4
+49223,décembre 2023,195056183,El Khadiri Brahim,26,4156.9
+49223,décembre 2023,195082584,Lamtilaa Fatiha,25,3163.79
+49223,décembre 2023,195193498,Ed Dazza Hanane,26,3139.92
+49223,décembre 2023,195563899,Boulahri Aziza,14,1619.63
+49223,décembre 2023,195575498,Bouda Touria,26,3289.44
+49223,décembre 2023,195672411,Zaytouni Rahma,21,2540.2
+49223,décembre 2023,195816102,Bouzian Karima,23,2647.71
+49223,décembre 2023,195883949,Raji Adnane,26,2990.4
+49223,décembre 2023,195884042,El Amrani Zaina,0,0.0
+49223,décembre 2023,196596568,Mernissi Imane,26,27946.86
+49223,décembre 2023,196910099,Es Slimani Fadoua,26,3289.44
+49223,décembre 2023,196910297,Rkizat Fatima Zahrae,26,2990.4
+49223,décembre 2023,196910396,Atyq Aicha,26,3289.44
+49223,décembre 2023,196910693,Harati Souhaila,26,2990.4
+49223,décembre 2023,196914398,Hajjia Ghizlane,10,1152.51
+49223,décembre 2023,198476099,El Akkaoui Fatima,25,3163.79
+49223,décembre 2023,198477592,Falahi Fouzia,21,2661.16
+49223,décembre 2023,198477790,Azizi Fatiha,26,3289.44
+49223,décembre 2023,198478897,Essaddik Saliha,26,3289.44
+49223,décembre 2023,198479895,Elkabous Safae,26,3289.44
+49223,décembre 2023,198480694,Boufrakach Atika,26,3139.92
+49223,décembre 2023,198480892,Lamrabet Hajar,26,3289.44
+49223,décembre 2023,198481296,Chaabi Hanane,26,2990.4
+49223,décembre 2023,198481692,Dahmani Sara,0,0.0
+49223,décembre 2023,198482096,El Bekhtaoui Hanane,26,3289.44
+49223,décembre 2023,198482393,El Bekhtaoui Meryeme,26,3139.92
+49223,décembre 2023,198488627,Bentayb Driss,25,2876.17
+49223,décembre 2023,198521993,El Maaini Soukaina,25,2876.17
+49223,décembre 2023,198686333,Lakraa Orchia,26,3289.44
+49223,décembre 2023,198695136,Bahi Mohammed,26,5425.88
+49223,décembre 2023,198695839,Jlida Rachida,26,4150.05
+49223,décembre 2023,198697033,Karim Zhor,23,2647.71
+49223,décembre 2023,198719738,El Fakkih Souad,26,3738.0
+49223,décembre 2023,198754536,Chabbat Fouzia,26,3289.47
+49223,décembre 2023,199060420,Diourane Saida,25,2876.17
+49223,décembre 2023,199060521,El Azzouz Asmae,24,2761.94
+49223,décembre 2023,199061220,Iouiri Nezha,25,2876.17
+49223,décembre 2023,199061422,Ben Ammi Naima,26,2990.4
+49223,décembre 2023,199584800,Elati Asmae,25,2876.17
+49223,décembre 2023,904201908,Rahali Kaoutar,24,2761.94
+49223,décembre 2023,910804916,Afrou Hanane,24,2761.94
+49223,décembre 2023,923797700,Cherkaoui Laila,26,2990.4
+49223,décembre 2023,937484905,Cherdoud Fatima,26,2990.4
+49223,décembre 2023,940514703,Ennhiri Khaoula,26,2990.4
+49223,décembre 2023,957032104,Idrissi Mesbahi Laila,23,2647.71
+49223,décembre 2023,986225603,El Maskine Khadija,26,2990.4

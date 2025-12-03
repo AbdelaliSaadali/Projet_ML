@@ -1,0 +1,893 @@
+ID_adherent,month,immatriculationNumber,full_name,nombre_jours,salaire
+1212,décembre 2023,100395956,Majd Abdelmounaime,26,6582.5
+1212,décembre 2023,100406670,Boutaleb Samir,24,4983.56
+1212,décembre 2023,100436172,Baydi Sanaa,26,8215.5
+1212,décembre 2023,100469941,El Andaloussi Sanae,24,7620.92
+1212,décembre 2023,100498148,Boudrif Mohamed,26,13836.53
+1212,décembre 2023,100622300,Ait Salm Meriem,26,5111.81
+1212,décembre 2023,100667001,Berrajaa Hamza,26,6200.5
+1212,décembre 2023,100702995,Ezzouine Achraf,26,11376.18
+1212,décembre 2023,100945959,El Amrani El Hanchi Badreddine,26,12165.75
+1212,décembre 2023,101013755,Darij Ahmed,26,15316.75
+1212,décembre 2023,101193490,Hajri Youssef,15,4149.72
+1212,décembre 2023,101289942,Bichri Abdelali,26,5203.93
+1212,décembre 2023,101448259,Echiheb Laila,26,5109.52
+1212,décembre 2023,101454462,Et Taouti Mourad,26,14316.08
+1212,décembre 2023,101483247,Chakir Menabhi Mouna,26,43388.75
+1212,décembre 2023,101672361,Ouadrhiri Youssef,26,48800.0
+1212,décembre 2023,101684267,Guennoune Mohammed,25,5164.12
+1212,décembre 2023,101752171,Mouhcine Fayrouz,26,7629.0
+1212,décembre 2023,101756876,Nassib Khalid,26,4033.88
+1212,décembre 2023,101786873,Hanoune Youssef,26,4813.18
+1212,décembre 2023,101805582,Naanaa Oussama,26,7578.02
+1212,décembre 2023,102043842,Chahib Khadija,26,8726.26
+1212,décembre 2023,102054162,Azmi Ghizlane,26,44300.0
+1212,décembre 2023,102332915,Errabahy Otman,26,11868.61
+1212,décembre 2023,102424365,El Ouafiq Halima,26,7977.0
+1212,décembre 2023,102484567,El Rhadfi Mohammed,26,5508.33
+1212,décembre 2023,102722975,Dorhmi Fatima,26,5545.9
+1212,décembre 2023,102739459,Kamal Hanane,26,9635.75
+1212,décembre 2023,102813511,Elqadi Wiam,24,4967.29
+1212,décembre 2023,102836776,Nassim Nadia,26,10717.1
+1212,décembre 2023,102890657,Zita Aziza,26,4992.77
+1212,décembre 2023,103109519,Amejgar El Mehdi,26,7442.81
+1212,décembre 2023,103241156,Farah Anas,26,12973.22
+1212,décembre 2023,103323277,Jaarane Widad,15,4166.22
+1212,décembre 2023,103437565,Bougataya Latifa,26,5076.06
+1212,décembre 2023,103776856,Hamouti Najat,26,10690.21
+1212,décembre 2023,103907766,Rayadi Ghizlane,26,9319.5
+1212,décembre 2023,103978197,Azbiri Rachid,26,17400.0
+1212,décembre 2023,104062999,Lattaf Karima,22,5072.28
+1212,décembre 2023,104091814,Semmour Tarik,26,6410.39
+1212,décembre 2023,104536452,Bennis Reda,26,73200.0
+1212,décembre 2023,104546068,Jalaledine Tahar,26,6095.65
+1212,décembre 2023,104561462,Moughaoui Abdelghani,26,34702.25
+1212,décembre 2023,104660298,Benaouda Mohammed Amine,26,7487.5
+1212,décembre 2023,104683183,Abouzraa Nezha,26,7726.75
+1212,décembre 2023,104685387,Moudif Abderrahim,25,3698.35
+1212,décembre 2023,104792851,Belmouden Saaid,26,8083.25
+1212,décembre 2023,105137866,Ben Khraba Hana,17,4322.67
+1212,décembre 2023,105171385,Moukhir Hind,20,4807.15
+1212,décembre 2023,105209210,Tsouli Kamal Ahmed,26,72300.0
+1212,décembre 2023,105436672,Moubaraki Arbia,24,4603.07
+1212,décembre 2023,105436771,Chaib Hanane,26,4995.76
+1212,décembre 2023,105523875,Mnahaj Rachid,26,4845.07
+1212,décembre 2023,105868289,Najah Ibrahim,26,58600.0
+1212,décembre 2023,105943990,Nabili El Mehdi,26,7003.17
+1212,décembre 2023,106096450,Mennai Nadia,21,4276.84
+1212,décembre 2023,106152269,Dakir Lahoucine,26,6335.51
+1212,décembre 2023,106232582,Rahmoune Fahd,25,4240.21
+1212,décembre 2023,106276366,El Khoudi Hakim,25,4552.71
+1212,décembre 2023,106364054,Marrakchi Nabil,26,15542.0
+1212,décembre 2023,106917503,Takoui Hasnae,26,7655.0
+1212,décembre 2023,107512074,Adnani Asmaa,26,6126.66
+1212,décembre 2023,107514161,Nafil Mbarek,26,9503.86
+1212,décembre 2023,107761275,Mourar Mustapha,26,14177.92
+1212,décembre 2023,107872163,Rami Aziz,26,10458.0
+1212,décembre 2023,107940796,Fassis Khalid,26,16684.6
+1212,décembre 2023,108129745,Boukhadmi Fatima,25,7699.43
+1212,décembre 2023,108236673,Touijer El Idrissi Ali,26,5697.27
+1212,décembre 2023,108739966,Ait Kassi Adil,26,20108.0
+1212,décembre 2023,108772263,Ben Mouna Miloud,25,5449.02
+1212,décembre 2023,108863156,El Bahja Nouhaila,20,3424.73
+1212,décembre 2023,108866556,Jarmouni Idrissi Youssef,26,9120.0
+1212,décembre 2023,109176756,El Idrissi El Awad Maha,26,21400.0
+1212,décembre 2023,109941651,Ouarmouch Fatima,26,5899.27
+1212,décembre 2023,110196766,Louada Khadija,24,4460.97
+1212,décembre 2023,110690057,Amri Mohamed,26,6185.0
+1212,décembre 2023,110789090,Ouadghiri Zineb,26,6200.5
+1212,décembre 2023,110927559,Khalli Ilham,26,5460.97
+1212,décembre 2023,111067750,Bouchajra Abdelilah,26,5560.74
+1212,décembre 2023,111191442,El Asraoui Hicham,21,5436.7
+1212,décembre 2023,111191541,Khaddan Abdeljabbar,26,7763.34
+1212,décembre 2023,111198547,Mabrour Youssef,26,22200.0
+1212,décembre 2023,111230745,Ait Taleb Fatima,25,6598.77
+1212,décembre 2023,111230844,El Anjadi Khadija,26,6642.96
+1212,décembre 2023,111231040,Bouiddi Bahija,26,5466.4
+1212,décembre 2023,111243946,Channani Amal,22,4904.26
+1212,décembre 2023,111484350,Seffar Andaloussi Daria,26,26856.0
+1212,décembre 2023,111525998,Zerhouni Idriss,26,25800.0
+1212,décembre 2023,111544675,Fechtal Zouhir,26,5255.67
+1212,décembre 2023,111937829,Makkal Said,19,4258.97
+1212,décembre 2023,111945188,Essaidi Abderrahim,26,7102.29
+1212,décembre 2023,111986911,Benlamkaddem El Mostafa,26,4930.87
+1212,décembre 2023,112033677,Samad Rachid,19,4428.26
+1212,décembre 2023,112387298,El Jihad Youssef,26,8177.8
+1212,décembre 2023,112611548,El Matni Houssameddine,26,9251.25
+1212,décembre 2023,112685593,Ait Lhaj Rachid,26,3884.0
+1212,décembre 2023,112731913,Hatab Oussama,24,5019.65
+1212,décembre 2023,112732016,El Afghani Hassnaa,23,4958.42
+1212,décembre 2023,112732117,Berkaoui Imane,18,4242.37
+1212,décembre 2023,112745215,El Khadiri Abdellah,24,3450.38
+1212,décembre 2023,112850378,Bennouna Kaoutar,26,15120.1
+1212,décembre 2023,112968999,Halim Ghita,23,5083.07
+1212,décembre 2023,112974871,Aboulamane Imane,26,4574.48
+1212,décembre 2023,113027562,Akirane Amina,26,3968.47
+1212,décembre 2023,113084505,Fatih Jihane,21,4827.54
+1212,décembre 2023,113174102,Mallas Yassine,26,5569.37
+1212,décembre 2023,113174777,Lekouis Naima,23,4320.43
+1212,décembre 2023,113494807,Es Seddiq Sghir,26,3758.76
+1212,décembre 2023,113739175,Ettigi Hanaa,26,6326.5
+1212,décembre 2023,113759280,Dbibrha Sanaa,25,4535.29
+1212,décembre 2023,114225173,Karzab Abdelmajid,26,13325.49
+1212,décembre 2023,114237566,Ouadaa Abdelali,26,20223.53
+1212,décembre 2023,114419081,Khalil Abderazzak,26,7040.8
+1212,décembre 2023,114639241,Delhi Mohamed,26,10627.39
+1212,décembre 2023,114649547,Khalil Najat,26,16007.86
+1212,décembre 2023,114700448,Mourai Fatima,26,43548.0
+1212,décembre 2023,114759487,El Haskouri Noura,26,7253.97
+1212,décembre 2023,114800025,Haddou Mouna,26,5521.4
+1212,décembre 2023,114815669,Fouad Redouane,26,6277.51
+1212,décembre 2023,114881455,Frikhi Mohamed Naoufal,26,7000.0
+1212,décembre 2023,114881743,Rouane Said,26,21489.22
+1212,décembre 2023,114983704,Lallam Mariem,26,8441.0
+1212,décembre 2023,115056775,Kerroumy Khadija,25,4576.23
+1212,décembre 2023,115236971,Sraidi Jamila,26,5311.28
+1212,décembre 2023,115468079,Koumiti Karima,26,8439.35
+1212,décembre 2023,115572672,Dahni Rabia,12,3806.85
+1212,décembre 2023,115672910,Elgadzi Moussa,26,5019.5
+1212,décembre 2023,115696042,Ouaghi Mohamed,26,10376.97
+1212,décembre 2023,115951066,Hartout Zineb,26,4276.87
+1212,décembre 2023,116025706,Bnouaffane Hajar,20,4483.07
+1212,décembre 2023,116112245,Handi Driss,26,11602.25
+1212,décembre 2023,116201072,Talibi Abdellah,26,5780.7
+1212,décembre 2023,116204266,Moudnib Abdeljabare,26,7589.11
+1212,décembre 2023,116303141,El Bouazzaoui Abdelilah,26,11222.75
+1212,décembre 2023,116404444,El Brijani Brahim,26,30660.0
+1212,décembre 2023,116406846,Hammouch Ali,26,16973.75
+1212,décembre 2023,116427025,El Ouazzani Imad Eddine,26,8010.0
+1212,décembre 2023,116472178,Mounadi Oussama,26,7971.5
+1212,décembre 2023,116811929,Glim Zineb,25,5105.85
+1212,décembre 2023,116828769,Bator Ilham,25,4980.72
+1212,décembre 2023,116846274,Erbia Mohamed,26,10200.0
+1212,décembre 2023,116985486,El Khaldi Abdellatif,26,3856.18
+1212,décembre 2023,116985684,Ghoussi Zineb,26,5662.76
+1212,décembre 2023,116995612,Gounti Yassine,23,4951.23
+1212,décembre 2023,117007487,El Bassil Asmae,26,13536.56
+1212,décembre 2023,117007586,Aboussoufian Youssef,26,9670.25
+1212,décembre 2023,117441867,Sindar Hassan,26,5978.0
+1212,décembre 2023,117441966,Laafia Imad,26,10070.0
+1212,décembre 2023,117442063,Yaka Aicha,26,13310.0
+1212,décembre 2023,117613502,Benhania Chaimaa,23,4966.74
+1212,décembre 2023,117741994,Moussahim Zineb,26,5948.44
+1212,décembre 2023,117910312,Benjeddi Dounia,18,3639.39
+1212,décembre 2023,118005597,El Oumari Assia,24,5277.03
+1212,décembre 2023,118093899,Benssy Ibtissam,26,50300.0
+1212,décembre 2023,118094551,Asad El Mehdi,26,4110.93
+1212,décembre 2023,118237653,Kharmouche Fatima,26,4670.97
+1212,décembre 2023,118281577,Ben Rais Anouar,24,5017.28
+1212,décembre 2023,118352659,Essalimi Habiba,26,10700.0
+1212,décembre 2023,118359449,Niss Zohra,24,5321.51
+1212,décembre 2023,118407066,Lemsouni Mohamed,26,9664.5
+1212,décembre 2023,118596265,Rhazali Bouchra,26,4926.91
+1212,décembre 2023,118604706,Arif Ryad,26,7340.0
+1212,décembre 2023,118671687,Tours Ikram,25,5138.35
+1212,décembre 2023,118738800,Yasali Soumia,20,4798.26
+1212,décembre 2023,118738901,Zerd Mouna,22,5014.91
+1212,décembre 2023,118744500,El Gadi Noureddine,26,8359.0
+1212,décembre 2023,118781056,Tahmani Jaouad,26,6103.97
+1212,décembre 2023,118801854,Bouhria Maryam,26,31820.35
+1212,décembre 2023,119032276,Amli Tarik,26,5598.61
+1212,décembre 2023,119056953,El Mrini Reda,26,18764.0
+1212,décembre 2023,119244756,Farmi Rachid,26,9641.0
+1212,décembre 2023,119248344,Laftah Moulay Smail,26,3695.5
+1212,décembre 2023,119325259,Berrada Saad,26,7420.92
+1212,décembre 2023,119369380,El Mouhami El Mahdi,26,10280.0
+1212,décembre 2023,119439878,Ettalbi Fatima Zahra,26,7823.6
+1212,décembre 2023,119461160,Hannoune Hafsa,26,7602.56
+1212,décembre 2023,119500158,Ichchou Rachid,25,6348.68
+1212,décembre 2023,119519167,Eddarouich Btissam,26,10998.5
+1212,décembre 2023,119575557,Bemzagh Khadija,26,25400.0
+1212,décembre 2023,119675357,El Alami Youssef,26,15176.0
+1212,décembre 2023,119790890,Mouid Halima,25,5179.71
+1212,décembre 2023,119825952,Maraji Youssef,26,17760.55
+1212,décembre 2023,120031313,Lakhdadri Bouchra,21,4399.54
+1212,décembre 2023,120073277,Khiali Nora,26,6222.51
+1212,décembre 2023,120079358,Tarhrani Karim,26,19023.39
+1212,décembre 2023,120091852,Gharby Zineb,24,2897.88
+1212,décembre 2023,120143187,Bouayadi Abderrahim,26,15477.9
+1212,décembre 2023,120220753,Hamidi Ahmed,26,6624.0
+1212,décembre 2023,120226884,Kherdi Naouale,26,6701.0
+1212,décembre 2023,120389308,Yakine Mourad,24,4741.02
+1212,décembre 2023,120449395,El Moudny Hana,26,8600.0
+1212,décembre 2023,120588019,El Kabaili Mouad,26,4275.86
+1212,décembre 2023,120658703,Esseriyea Khadija,19,2472.52
+1212,décembre 2023,120758754,Znibi Hicham,26,8615.01
+1212,décembre 2023,120764652,Ghazlane Fatiha,26,5661.74
+1212,décembre 2023,120765056,Marjane Fatiha,25,5994.28
+1212,décembre 2023,120765155,Gruche Soumia,26,6992.64
+1212,décembre 2023,120881753,Skandar Hicham,26,11582.0
+1212,décembre 2023,121066940,Mourchid Abdelaziz,26,14762.5
+1212,décembre 2023,121068441,Ibrahimi Nouzha,26,11631.26
+1212,décembre 2023,121111175,Bengmah Noura,25,3936.87
+1212,décembre 2023,121126158,Hrimech Badia,26,6884.87
+1212,décembre 2023,121222105,Lhaoui Imane,21,4477.29
+1212,décembre 2023,121258373,Janati Ferdaous,26,8514.5
+1212,décembre 2023,121358751,Affari Abdelaziz,26,23600.0
+1212,décembre 2023,121411351,Mounaji Abdelkrim,26,6165.61
+1212,décembre 2023,121444550,Hafssi Abderrahim,26,7038.6
+1212,décembre 2023,121611159,Barkich Said,26,5531.91
+1212,décembre 2023,121811949,Houti Bouchaib,26,9590.65
+1212,décembre 2023,121950549,Karim El Alaoui My Abdellah,26,35651.15
+1212,décembre 2023,122010756,Karim Meryem,26,11586.1
+1212,décembre 2023,122025458,Razki Souad,26,19331.0
+1212,décembre 2023,122071188,Mour Mohamed,26,5973.16
+1212,décembre 2023,122280846,Leguachmi Karima,26,12122.0
+1212,décembre 2023,122382759,Nassik Si Mohamed,26,6224.0
+1212,décembre 2023,122486957,Bouserdane Brahim,26,23120.0
+1212,décembre 2023,122514758,Barsis Mourad,26,18817.48
+1212,décembre 2023,122606836,Btarni Driss,26,12748.02
+1212,décembre 2023,122613154,El Hamidi Si Mohamed,26,6224.0
+1212,décembre 2023,122784195,Bentouila Zhore,26,4810.44
+1212,décembre 2023,122788767,Imadjarn Mohcine,26,8954.95
+1212,décembre 2023,122788866,Akdim Hassan,26,6275.86
+1212,décembre 2023,122806890,Bouzidi Idrissi Othmane,26,7009.0
+1212,décembre 2023,122852257,Houmairi Hanane,26,12470.5
+1212,décembre 2023,122870806,Azhary Bahya,26,6123.5
+1212,décembre 2023,122880373,Zahar Hanane,26,5205.73
+1212,décembre 2023,122932158,Ennaily Mariama,26,4318.97
+1212,décembre 2023,122937174,Chahbi Fatima,24,4281.8
+1212,décembre 2023,122937372,Roudane Awatif,26,5070.06
+1212,décembre 2023,122937471,Haymane Sanaa,15,2483.88
+1212,décembre 2023,122951257,Messaoudi Moussi Moulay Ali,26,6780.16
+1212,décembre 2023,122955150,Rhazi Nabil,26,19357.36
+1212,décembre 2023,122955358,Chorouk Brahim,26,6610.43
+1212,décembre 2023,122955457,Zahid Hicham,26,5630.23
+1212,décembre 2023,123121437,Darouiche Mustapha,14,8810.48
+1212,décembre 2023,123256440,Agoub Abdelkarim,26,6854.01
+1212,décembre 2023,123266150,Taleb Ali El Hassan,26,6700.0
+1212,décembre 2023,123287651,Boutaskaout Saida,25,5337.4
+1212,décembre 2023,123354054,Hadar Si Mohamed,26,5047.55
+1212,décembre 2023,123402043,Bendimrad Abdelmalek,26,21156.25
+1212,décembre 2023,123412753,Sifaoui Youness,26,5441.28
+1212,décembre 2023,123443758,Khouribiche Hicham,26,8815.26
+1212,décembre 2023,123500350,Koudri Noureddine,26,5580.02
+1212,décembre 2023,123597381,Chakir Mohamed,26,6520.0
+1212,décembre 2023,123847687,Soukayaha Hayat,23,5089.89
+1212,décembre 2023,123911549,Harrazi Adnane,26,11975.0
+1212,décembre 2023,123922190,Hamza Aouid,22,4930.51
+1212,décembre 2023,123974696,El Jabbar Youssef,26,15257.82
+1212,décembre 2023,124035942,Setti Ilham,26,43806.25
+1212,décembre 2023,124183981,Nour Soukaina,20,4103.97
+1212,décembre 2023,124256986,El Haddaoui Issam,26,9960.0
+1212,décembre 2023,124393671,Raouiha Othman,26,13610.15
+1212,décembre 2023,124790364,Aouisse Younes,26,11434.3
+1212,décembre 2023,124932544,Lemzabi Nabila,26,13304.0
+1212,décembre 2023,124956974,El Alamy Halima,22,5020.79
+1212,décembre 2023,125002445,Ouichou Fatiha,26,9904.4
+1212,décembre 2023,125130205,El Adi Said,26,5111.81
+1212,décembre 2023,125148736,Mellouk Aissa,26,23560.0
+1212,décembre 2023,125218141,Oubada Mina,26,10832.0
+1212,décembre 2023,125236292,Jodar Fatima Ezzahra,26,6420.5
+1212,décembre 2023,125237894,Fadil Youssef,9,3344.5
+1212,décembre 2023,125283558,Achmoul Mounia,26,74686.5
+1212,décembre 2023,125335458,Gueddar Hanane,26,13787.53
+1212,décembre 2023,125466097,Regragui Mohamed,26,3832.93
+1212,décembre 2023,125696991,Abderafiai Saida,22,4820.45
+1212,décembre 2023,125833577,Dbaich Ghizlane,25,5133.06
+1212,décembre 2023,125857419,Fimare Hadi,26,8133.51
+1212,décembre 2023,125886740,Ouakour Mohamed,26,10358.0
+1212,décembre 2023,126038093,Farid Merieme,20,3972.89
+1212,décembre 2023,126055790,Grirane Assia,17,4362.25
+1212,décembre 2023,126055899,Aziz Loubna,4,2278.86
+1212,décembre 2023,126060294,Ait Abdelmalk Saida,26,5905.68
+1212,décembre 2023,126264242,Ouboukhlik Mohammed,26,24600.0
+1212,décembre 2023,126384470,Naamane Jihad,26,5905.68
+1212,décembre 2023,126534984,Snida El Mehdi,26,13988.5
+1212,décembre 2023,126536782,Aslama El Hassan,26,12318.92
+1212,décembre 2023,126537681,Derdaf Kawtar,26,9498.83
+1212,décembre 2023,126748163,Echihi Samira,26,9860.2
+1212,décembre 2023,126765274,Khalafa Amine,24,4374.68
+1212,décembre 2023,126767981,Bouzari Mounir,26,11847.65
+1212,décembre 2023,127027037,Khadim Latifa,26,6570.0
+1212,décembre 2023,127241404,Hayal Halima,26,6022.99
+1212,décembre 2023,127363895,Wifak Merieme,26,6518.5
+1212,décembre 2023,127975963,Ougha El Houcine,26,7337.5
+1212,décembre 2023,128097408,El Hassari Halima,14,3628.95
+1212,décembre 2023,128167543,El Warrass Larbi,26,7852.07
+1212,décembre 2023,128350216,Atoui Ayoub,26,6707.51
+1212,décembre 2023,128639511,Nadif Mohamed,15,3932.3
+1212,décembre 2023,128906013,Kasmane Zineb,16,4110.36
+1212,décembre 2023,128906316,Targui Sanaa,21,4673.55
+1212,décembre 2023,129315779,Rzikat Mustapha,26,10568.37
+1212,décembre 2023,129828119,Bouaouam Asmaa,13,3692.87
+1212,décembre 2023,130113245,Ezzouate Amina,26,6627.62
+1212,décembre 2023,130113550,Dalil Laila,26,7555.0
+1212,décembre 2023,130228367,El Aoufy Nadia,25,4391.41
+1212,décembre 2023,130288508,Boukioudi Ayoub,18,4481.65
+1212,décembre 2023,130327805,Zhim Yassine,26,6200.5
+1212,décembre 2023,130327906,Kella Bennani Ismail,26,10507.0
+1212,décembre 2023,130644646,El Ouadifi Ahmed,26,8300.0
+1212,décembre 2023,130654794,Arjane Fatima Zahra,20,4755.67
+1212,décembre 2023,130677499,Gatrani Ibtissam,18,4559.64
+1212,décembre 2023,130705201,Dhaibi Hicham,26,3498.12
+1212,décembre 2023,130726205,Raguig Issmail,23,4901.92
+1212,décembre 2023,131065031,Elkhlifi Abdelwadoud,26,55893.76
+1212,décembre 2023,131326136,Saber Hassan,26,10163.12
+1212,décembre 2023,131370373,Kabab Az Eddine,26,10490.0
+1212,décembre 2023,132151756,Chari Naima,26,7376.0
+1212,décembre 2023,132270008,Boutaleb Dounia,22,5004.37
+1212,décembre 2023,132284805,Ezzaouia Meriem,26,11550.0
+1212,décembre 2023,132303504,Wahbi Nezha,22,4731.16
+1212,décembre 2023,132324306,Rakib Hajar,22,4558.95
+1212,décembre 2023,132568504,Sebbata Nisrine,26,6967.5
+1212,décembre 2023,132737907,Bennani Ilias,26,6972.5
+1212,décembre 2023,132823876,Idmoussa Mounia,26,5667.65
+1212,décembre 2023,132889878,Chafiqi Hicham,26,6024.2
+1212,décembre 2023,132963862,Araqi Houssaini Mehdi,26,8802.0
+1212,décembre 2023,132983314,Wahim Dounia,26,28800.0
+1212,décembre 2023,133017767,El Maarri Adil,25,5517.42
+1212,décembre 2023,133026148,Sahrane Karima,26,15883.79
+1212,décembre 2023,133031741,Khattane Redouane,26,12556.25
+1212,décembre 2023,133109845,Ziyani Rachid,26,7906.71
+1212,décembre 2023,133303976,Bennaoui Rabab,26,21090.0
+1212,décembre 2023,133539886,Zouhri Aadil,26,11595.67
+1212,décembre 2023,133690365,Sadouk Zahra,26,5112.8
+1212,décembre 2023,133863566,El Mir Rabii,24,6194.28
+1212,décembre 2023,133927693,El Khattabi Ali,26,9184.85
+1212,décembre 2023,133994712,Doumi Chaymaa,23,4717.54
+1212,décembre 2023,134139461,Fakar Karima,26,7655.01
+1212,décembre 2023,134729832,Ennajih Fatima,26,8742.06
+1212,décembre 2023,135126491,Essekkari Adnane,26,9005.5
+1212,décembre 2023,135367006,Meskaoui Wissal,21,4911.24
+1212,décembre 2023,135367107,Mouhallil Zineb,25,5406.51
+1212,décembre 2023,135414896,Aloul Najim,26,8698.22
+1212,décembre 2023,135432690,Achoubi Majda,21,4919.02
+1212,décembre 2023,135477943,Nachit Najat,26,5173.09
+1212,décembre 2023,135540146,Laraichi Asmaa,26,18512.0
+1212,décembre 2023,135574137,Helhiba Aicha,26,6905.2
+1212,décembre 2023,135586447,Ezzakraoui Latifa,26,7619.22
+1212,décembre 2023,135910795,Assoujaa Mohamedyassir,26,9230.0
+1212,décembre 2023,135978347,Sekkat Radia,26,7928.0
+1212,décembre 2023,136136628,El Khamsi Yassine,26,6961.06
+1212,décembre 2023,136216077,Zarhouni Abdelghani,26,7703.34
+1212,décembre 2023,136254921,Adib Lamiae,26,5544.5
+1212,décembre 2023,136348284,Chaouki Salah,26,7519.33
+1212,décembre 2023,136393913,Mounir Hamza,26,6311.0
+1212,décembre 2023,136594233,Zoubir Abdelfattah,26,6835.19
+1212,décembre 2023,136594291,El Masbahi Aziza,24,4733.24
+1212,décembre 2023,136608381,Zakari Mohamed,26,6624.0
+1212,décembre 2023,136713833,Khalfi Fouad,26,19794.92
+1212,décembre 2023,136825011,El Mafhoum Ayoub,16,3990.58
+1212,décembre 2023,137111458,Najm Karim,26,10054.75
+1212,décembre 2023,137247386,Khloufi Touria,26,8153.0
+1212,décembre 2023,137317650,Benchara Yassine,26,14736.0
+1212,décembre 2023,137348340,Azzi Soumia,26,9572.0
+1212,décembre 2023,137457448,Karim Lalla Sakina,26,5730.14
+1212,décembre 2023,137523778,Yazzourh Moundir,26,6118.0
+1212,décembre 2023,137529643,Magamane Mouna,26,18200.0
+1212,décembre 2023,137570068,Akrikar Kaoutar,26,15459.0
+1212,décembre 2023,137624732,Dafaa Zitouni,23,4885.21
+1212,décembre 2023,137634658,Diouani Abdellatif,26,11028.9
+1212,décembre 2023,137643547,Magour Nadia,22,3621.88
+1212,décembre 2023,137666859,Ouardi Bahaa,26,18596.0
+1212,décembre 2023,137669548,Barnoussi Abdellatif,26,14425.96
+1212,décembre 2023,137673333,Ait Bella Mohamed,26,6686.46
+1212,décembre 2023,137678151,Lafriti Fatima,26,8446.25
+1212,décembre 2023,137679430,Bardouni Abdelmejid,26,8488.75
+1212,décembre 2023,137694842,Darif Hicham,26,5978.0
+1212,décembre 2023,137821255,Nassih Redouane,26,6088.36
+1212,décembre 2023,138114279,Chergui Ali,26,8614.9
+1212,décembre 2023,138121266,El Kamel Tarik,26,4846.59
+1212,décembre 2023,138690948,Raoui Abdellatif,26,36300.75
+1212,décembre 2023,138748185,Bayene Wafaa,26,3936.11
+1212,décembre 2023,138823211,Kabrane Yassine,26,5593.07
+1212,décembre 2023,138988207,Gharbaoui Mhammed,26,7000.0
+1212,décembre 2023,139163402,Ghalami Salma,22,4817.2
+1212,décembre 2023,139624309,Ettaqy Wissal,20,4103.97
+1212,décembre 2023,139659009,Lahloumi Fatimaezzahra,24,5251.88
+1212,décembre 2023,139661138,Belahsen Soumia,26,14813.75
+1212,décembre 2023,139753539,Chakri Zoubida,26,7586.25
+1212,décembre 2023,139785631,El Amraoui Abdeslem,26,8126.51
+1212,décembre 2023,140130338,Merroun Hamid,26,8140.0
+1212,décembre 2023,140269484,Amenzou Mustapha,26,10271.6
+1212,décembre 2023,140652671,Nabili Halla,26,4245.22
+1212,décembre 2023,140654776,Azerkela Abdessamad,18,4568.36
+1212,décembre 2023,140706801,Hajmi Dounia,19,4611.83
+1212,décembre 2023,140991136,El Harrad Isaad,26,6689.2
+1212,décembre 2023,141073328,Bardouni Amine,26,3797.94
+1212,décembre 2023,141333733,El Amrani Abdellatif,26,30087.51
+1212,décembre 2023,141403883,Kroumi Fatima,26,4840.84
+1212,décembre 2023,141432139,Abou Naim Nadia,26,11312.5
+1212,décembre 2023,141489519,Afallah Safaa,26,5890.0
+1212,décembre 2023,141522451,Sabir Abdellatif,26,12278.0
+1212,décembre 2023,141613276,Laouija Amine,26,6974.3
+1212,décembre 2023,141740107,Benlakhdar Abdelaziz,26,3855.0
+1212,décembre 2023,142005290,Sihan Amina,18,4474.11
+1212,décembre 2023,142035099,Arfe Khadija,24,5264.49
+1212,décembre 2023,142216946,Ait Daddali Hassania,26,5307.33
+1212,décembre 2023,142658594,Khyari Kenza,26,35475.0
+1212,décembre 2023,142710319,Louargui Rokaya,26,3574.43
+1212,décembre 2023,142712879,Igue Asmaa,24,4220.16
+1212,décembre 2023,142757002,Ait Ahmad Fatima,19,4572.25
+1212,décembre 2023,142780607,Grine Chaimaa,22,4986.76
+1212,décembre 2023,142782702,Aoultit Hasnaa,21,4935.27
+1212,décembre 2023,142782803,Elabied Meriem,21,4867.36
+1212,décembre 2023,142782904,Habou Ibtisam,24,5251.88
+1212,décembre 2023,142800476,Essaili Youssef,25,4620.32
+1212,décembre 2023,142801292,Kachkach Soukaina,26,13125.01
+1212,décembre 2023,142934548,El Gartaoui Samira,26,11215.84
+1212,décembre 2023,143430040,Mounir Hicham,26,13640.07
+1212,décembre 2023,143452789,Soulaimani Saida,23,4562.03
+1212,décembre 2023,143993981,Nouhas Houda,21,4436.07
+1212,décembre 2023,144041044,Radi Saida,26,6262.74
+1212,décembre 2023,144041242,Soussi Hanane,26,6523.2
+1212,décembre 2023,144041549,Kaddari Milouda,26,6726.58
+1212,décembre 2023,144092550,Ouahbi Abdelhafid,26,6668.75
+1212,décembre 2023,144127399,Mahfoudh Imane,26,6805.5
+1212,décembre 2023,144283175,Moussani Abdelghani,26,4627.0
+1212,décembre 2023,144555136,Raji Abdellatif,26,23763.58
+1212,décembre 2023,144616673,Baddou Abderrahman,15,4123.47
+1212,décembre 2023,144655259,Marhraoui Nadia,26,13333.06
+1212,décembre 2023,144832469,Chouhaidi Sanaa,19,4611.13
+1212,décembre 2023,144847393,Chahbouni Marouane,26,24828.0
+1212,décembre 2023,144940494,Bennani Bouchiba Mehdi,26,11326.5
+1212,décembre 2023,144978594,Ferhani Khadija,26,5584.92
+1212,décembre 2023,144978792,El Mouden Assia,22,5021.73
+1212,décembre 2023,144980995,Belbachir Hanane,26,4560.37
+1212,décembre 2023,144986894,Chouihab Zouhra,20,4784.77
+1212,décembre 2023,145005776,Slib Nabil,26,6738.66
+1212,décembre 2023,145006394,El Kasiti Meriem,20,4807.15
+1212,décembre 2023,145402422,El Moussaoui El Idrissi Rachid,26,3714.34
+1212,décembre 2023,145509428,Id Iken Mohamed,26,5711.76
+1212,décembre 2023,145520584,Anaanaa Youness,26,8887.36
+1212,décembre 2023,145532167,Echchouaibi Fatima,24,4779.98
+1212,décembre 2023,145546301,Benzidane Mohamed,26,13800.0
+1212,décembre 2023,145659771,Nazih Said,25,4313.55
+1212,décembre 2023,145665372,Azzaankra Najoua,26,6670.26
+1212,décembre 2023,145859850,Abdou Salima,18,8107.35
+1212,décembre 2023,145939363,Rachih Yassine,26,5881.5
+1212,décembre 2023,146438976,Bahassine Azzeddine,26,8117.42
+1212,décembre 2023,146455136,Fikri Mostafa,26,5484.62
+1212,décembre 2023,146934180,Ben Ayad Yassine,26,5800.1
+1212,décembre 2023,146961807,Aslouj Yasser,26,8590.0
+1212,décembre 2023,147015308,Naciri Nada,26,11058.06
+1212,décembre 2023,147125382,Ben Ahmed Nabil,26,6805.0
+1212,décembre 2023,147153680,Aski Nezha,25,5364.62
+1212,décembre 2023,147198941,Frid Hassan,26,5410.86
+1212,décembre 2023,147214838,Rhallab Said,26,8472.59
+1212,décembre 2023,147281616,Bouya Achraf,26,9120.0
+1212,décembre 2023,147379411,Nacer Houda,26,4300.0
+1212,décembre 2023,147496676,Sahiha Nawal,23,5098.62
+1212,décembre 2023,147515377,El Atrach Mohamed,26,12143.11
+1212,décembre 2023,147526845,Abderrazik Ahmed,26,44661.26
+1212,décembre 2023,147549574,Achalkh Mohammed,25,5246.43
+1212,décembre 2023,147584992,El Mokri Lamiae,26,43400.0
+1212,décembre 2023,147638195,Wahdani Nezha,26,5548.45
+1212,décembre 2023,147784903,Drissi Dounia,26,19020.0
+1212,décembre 2023,147841889,Ben Charef Soufiane,22,4678.85
+1212,décembre 2023,147921152,Bouyachou Samira,26,8708.19
+1212,décembre 2023,148291041,Hanessoul Khalid,26,7203.5
+1212,décembre 2023,148395231,Azzam Rahali Aicha,26,6695.33
+1212,décembre 2023,148395330,Jahid Khadija,26,8145.59
+1212,décembre 2023,148396536,Lakouichi Samira,26,8069.77
+1212,décembre 2023,148396635,Bakadir Naima,26,7322.78
+1212,décembre 2023,148403737,Mellal Lahcen,26,10702.83
+1212,décembre 2023,148415039,Achibane Saadia,26,3896.26
+1212,décembre 2023,148415237,Fikri Malika,24,5852.78
+1212,décembre 2023,148415732,Douby Khadija,26,8357.13
+1212,décembre 2023,148472039,Lafrouji Abdelmajid,26,9162.77
+1212,décembre 2023,148488987,Biallach Lahoucine,26,9100.31
+1212,décembre 2023,148647476,Jouali Youssef,26,6701.0
+1212,décembre 2023,148681896,Daoudi Kawtar,23,5175.25
+1212,décembre 2023,148813647,Laqbili Abdelali,26,5719.25
+1212,décembre 2023,148921846,El Jazouli Amina,19,7915.19
+1212,décembre 2023,148929072,Aarab Hicham,26,15499.9
+1212,décembre 2023,148967345,Eddourdouri Samira,26,16813.64
+1212,décembre 2023,149113997,Saihane Youness,26,7454.57
+1212,décembre 2023,149367925,Kaiss Souad,23,4943.45
+1212,décembre 2023,149370225,Hilmi Kaoutar,25,5114.89
+1212,décembre 2023,149372128,Essardi Achraf,21,4713.66
+1212,décembre 2023,149374627,Boukra Ali,1,99.23
+1212,décembre 2023,149497292,Taraka Imane,26,5600.0
+1212,décembre 2023,149716478,El Bahja Ghizlane,26,9092.41
+1212,décembre 2023,149801713,Zerroudi Mohammed,17,4176.28
+1212,décembre 2023,149960132,Hamani Driss,26,7271.26
+1212,décembre 2023,150251439,Taoujni Fatiha,26,8601.91
+1212,décembre 2023,150289141,El Kachani Saaid,26,5116.85
+1212,décembre 2023,150317257,Berrada Adil,26,38770.8
+1212,décembre 2023,150702078,Adri Nabila,20,3514.58
+1212,décembre 2023,150702375,Ouatine Hajar,0,0.0
+1212,décembre 2023,150702474,Ait Salh Ghizlane,26,4930.32
+1212,décembre 2023,150702573,El Bahi Imane,26,5367.88
+1212,décembre 2023,150708977,El Azouazi Ibtissam,26,4440.09
+1212,décembre 2023,150713075,Fattah Drissia,26,4937.01
+1212,décembre 2023,150914483,Fatih Rida,26,4789.06
+1212,décembre 2023,150927949,Choukri Kamal,26,5166.44
+1212,décembre 2023,150986581,Bahi Abderrahime,26,7867.0
+1212,décembre 2023,151047639,Qaf Khadija,26,5470.0
+1212,décembre 2023,151370246,Fardaoussi Bouchra,26,57240.0
+1212,décembre 2023,151648891,Elmasdagui Jihane,26,9905.3
+1212,décembre 2023,151660043,Azouzi Fatima,26,14758.9
+1212,décembre 2023,151660142,Lahmar Meriem,26,8138.0
+1212,décembre 2023,151758749,Boudhaine Lahcen,26,10258.76
+1212,décembre 2023,151813147,Badioui Ouissal,26,19800.0
+1212,décembre 2023,152157065,Ifegh Samira,26,10793.54
+1212,décembre 2023,152230895,Khanati Abdelhadi,22,5032.53
+1212,décembre 2023,152461937,Lokmane Fatima,22,5532.94
+1212,décembre 2023,152485276,Bouhrida Bouchra,26,4892.91
+1212,décembre 2023,152492031,Lagrissi Abdesslam,26,8958.49
+1212,décembre 2023,152550350,Zaanouni Rachid,26,7741.63
+1212,décembre 2023,152829961,Benayad Abdelmounaim,26,8896.31
+1212,décembre 2023,152830158,Ghizlane Otmani,20,3409.42
+1212,décembre 2023,152924456,Mhairich Fatiha,24,5165.18
+1212,décembre 2023,153033256,Regragui Nezha,26,5043.41
+1212,décembre 2023,153199751,Frikh Khalid,26,10382.01
+1212,décembre 2023,153227164,Msaad Adil,26,16671.77
+1212,décembre 2023,153308865,El Mankiby Nezha,26,4852.0
+1212,décembre 2023,153330636,Louizi Fatima,23,6845.69
+1212,décembre 2023,153680883,Mortada Chaimaa,26,5543.24
+1212,décembre 2023,153780028,Gueji Fatimazahra,26,5742.02
+1212,décembre 2023,153800952,Rachdane Salwa,26,6609.4
+1212,décembre 2023,153802247,Faiz Abdennaji,26,15820.17
+1212,décembre 2023,153824630,Ouadoun Khaoula,20,4683.21
+1212,décembre 2023,153877922,Ouasfi Fatima,23,4710.23
+1212,décembre 2023,153971076,Ounsi Wissal,11,3278.85
+1212,décembre 2023,154004751,Alouk Aziz,26,6077.75
+1212,décembre 2023,154078350,El Maimouni Khalid,26,13983.29
+1212,décembre 2023,154284902,Achboun Achraf,26,10000.0
+1212,décembre 2023,154482452,El Fadil Abdelfattah,26,6542.25
+1212,décembre 2023,154516483,Bakir Nawal,23,4861.26
+1212,décembre 2023,154618792,Hayeg Meriem,24,5303.37
+1212,décembre 2023,154683571,Ezzardi Abdelkabir,26,13818.76
+1212,décembre 2023,154745126,Manoune Mehdi,4,2229.66
+1212,décembre 2023,154842573,Wafqui Hamid,26,11955.14
+1212,décembre 2023,155027843,Rakhimi Mahfoud,20,4233.15
+1212,décembre 2023,155319403,Mourad Ali,21,4564.07
+1212,décembre 2023,155573359,Aissam Khaoula,26,12166.9
+1212,décembre 2023,155727146,Lemkadem Bouchra,26,54300.0
+1212,décembre 2023,155773644,El Bahi Nadia,26,13775.01
+1212,décembre 2023,155934246,Mataoui Hamid,24,18554.62
+1212,décembre 2023,156006019,Samih Chaimaa,20,3419.73
+1212,décembre 2023,156120403,Samri Fatima Zahra,21,4935.27
+1212,décembre 2023,156120504,Warid Tarik,24,5243.16
+1212,décembre 2023,156138107,Nasri Soumia,22,4762.81
+1212,décembre 2023,156139907,Moussaffi Hajar,26,6538.1
+1212,décembre 2023,156175903,Badri Khadija,20,4103.97
+1212,décembre 2023,156206280,Radwan Abdessamed,26,3410.65
+1212,décembre 2023,156266599,Ouled El Housseine Yassine,26,12485.01
+1212,décembre 2023,156312376,Laatabi Brahim,26,12410.0
+1212,décembre 2023,156377388,Edmane Safaa,26,13654.1
+1212,décembre 2023,156465068,Rzini Ahlam,26,6368.15
+1212,décembre 2023,156483060,Benzekri Merieme,26,7300.1
+1212,décembre 2023,156509436,Abou El Fath Wafaa,26,9933.75
+1212,décembre 2023,156556073,Souarti Rabia,26,5009.69
+1212,décembre 2023,156609137,Rafik Zeroual,26,35887.5
+1212,décembre 2023,156670237,Bahaj Mohamed,26,85300.0
+1212,décembre 2023,156803367,Aboulayad Mohamed,26,6077.25
+1212,décembre 2023,156810437,Bhayer Nadia,26,10879.9
+1212,décembre 2023,156902672,Maadi Jamal,26,8732.17
+1212,décembre 2023,157339270,Hamdouchi Wessal,26,9991.1
+1212,décembre 2023,157353874,Sayah Mouhieddine,26,9835.09
+1212,décembre 2023,157762125,Habitou Mohamed,26,3698.79
+1212,décembre 2023,157960786,Jairane Abdellah,26,12476.15
+1212,décembre 2023,158142630,Abbassi Driss,26,9136.59
+1212,décembre 2023,158150633,Jabir Nadia,26,6038.63
+1212,décembre 2023,158198641,Lahrach Mustapha,26,8137.08
+1212,décembre 2023,158217798,Moussadik Ghizlane,26,6197.11
+1212,décembre 2023,158243339,Ouhabi Rachid,26,28031.26
+1212,décembre 2023,158513948,Sribi Yassir,26,52380.0
+1212,décembre 2023,158848668,Ezraidi Adil,26,10327.25
+1212,décembre 2023,158914237,Es Salehy Amina,26,7375.58
+1212,décembre 2023,158914633,Mimouni Khadija,26,6228.82
+1212,décembre 2023,158921415,El Azzaoui Abdessamad,26,8843.55
+1212,décembre 2023,159083026,Beniazza Imane,26,7025.01
+1212,décembre 2023,159274143,Khair Allah Nadia,19,4566.6
+1212,décembre 2023,159323711,Rouhi Ayoub,25,3255.84
+1212,décembre 2023,159798086,Hoummane Hajar,26,7459.5
+1212,décembre 2023,160008086,Belhaj Abdelhafid,16,4235.08
+1212,décembre 2023,160291649,Taouil Fatiha,26,4802.36
+1212,décembre 2023,160418412,Saad Mohammed,16,4196.5
+1212,décembre 2023,160536285,Aafifi Fatima Zahra,26,8685.41
+1212,décembre 2023,160827048,Laaouj Abdelkhaleq,26,6767.4
+1212,décembre 2023,160837831,Aassou Mohamed,26,23655.74
+1212,décembre 2023,161045996,Jaibar Miloudi,26,3738.84
+1212,décembre 2023,161053692,Nassih Mohammed,26,42300.0
+1212,décembre 2023,161551448,Lasri Nawale,26,5556.07
+1212,décembre 2023,161595149,El Hamri Chafika,26,4640.91
+1212,décembre 2023,162063322,Belgarrab Nada,26,3574.43
+1212,décembre 2023,162189587,Tijahi Rachida,26,7673.56
+1212,décembre 2023,162195980,El Baridi Redouane,26,5564.52
+1212,décembre 2023,162365219,Marri Fatima,26,5036.0
+1212,décembre 2023,162378734,Sajid Khalid,25,7431.09
+1212,décembre 2023,162379138,Beggar Ouafa,26,8190.59
+1212,décembre 2023,162389393,Laaroussi Mohammed,24,5264.49
+1212,décembre 2023,162389492,Belghazal Anass,26,3894.71
+1212,décembre 2023,162441474,Abou Saif Aziz,26,7586.5
+1212,décembre 2023,162490033,Labni Fatima,26,7316.76
+1212,décembre 2023,162495950,El Habchaoui Imane,26,10148.0
+1212,décembre 2023,162686322,Mouhaddab Oumaima,22,3621.88
+1212,décembre 2023,162717338,Laaziz Samira,25,4664.91
+1212,décembre 2023,163218773,El Ouarzaqui Radouane,26,20032.5
+1212,décembre 2023,163298116,Kamal Wiam,19,4477.37
+1212,décembre 2023,163298801,Marouat Ibrahim,22,5048.95
+1212,décembre 2023,163775286,Elmisri Nadia,0,0.0
+1212,décembre 2023,163834032,Amghane Kacem,26,28751.0
+1212,décembre 2023,164216156,Choukry Abdelkrim,26,9294.21
+1212,décembre 2023,164589230,Taib Hassan,26,9272.25
+1212,décembre 2023,164837879,Abarouche Mustapha,26,5036.69
+1212,décembre 2023,164898475,Hamdi Houda,26,5921.0
+1212,décembre 2023,164985912,El Kharba Chaima,26,5050.0
+1212,décembre 2023,165064570,Chohaili Khoubaib,26,75375.0
+1212,décembre 2023,165067513,Rbaiti Zahra,24,2905.96
+1212,décembre 2023,165231411,Razzouk Jihane,24,5001.05
+1212,décembre 2023,165265037,Guenoun Najat,26,14956.25
+1212,décembre 2023,165269939,El Warrak Khadija,26,5075.81
+1212,décembre 2023,165920537,Taki Wafaa,22,4593.91
+1212,décembre 2023,166137133,Abdelisser Inssaf,26,7415.42
+1212,décembre 2023,166142630,Boutzadoua Lahoussine,26,8509.25
+1212,décembre 2023,166142739,Fannane Mohammed,26,11831.91
+1212,décembre 2023,166192305,Zaouia Fatima Zahra,26,4694.88
+1212,décembre 2023,166282733,Koudad Khadija,26,11131.25
+1212,décembre 2023,166388557,El Ouakili Bouchaib,26,6865.77
+1212,décembre 2023,166479950,Benziza Fatima,26,5259.25
+1212,décembre 2023,166665043,Mahtar Rihab,19,3967.9
+1212,décembre 2023,166734875,Yatoub Khalid,26,5845.75
+1212,décembre 2023,166753014,Zyane Abdellah,26,6500.0
+1212,décembre 2023,166797857,Bennouna Tarik,26,125800.0
+1212,décembre 2023,166990352,Tobias Danielle,26,43944.0
+1212,décembre 2023,167026255,Bounaim Younes,26,6460.9
+1212,décembre 2023,167034951,Tabit Abdelaziz,26,15966.06
+1212,décembre 2023,167045156,Halfya Fatima,26,5754.92
+1212,décembre 2023,167115751,El Idrissi Omar,26,12116.31
+1212,décembre 2023,167220534,Arras Hakima,26,6841.74
+1212,décembre 2023,167396997,Aoubid Yaazza Fatima Zahra,26,7531.6
+1212,décembre 2023,167444853,Belahcen Abdelillah,26,76125.0
+1212,décembre 2023,167497807,Laghoui Ikram,26,20960.0
+1212,décembre 2023,167688386,Meknassi Souad,0,0.0
+1212,décembre 2023,167751821,Ouinkhir Hasnaa,20,4251.5
+1212,décembre 2023,167878932,Es Sebaiy Fadwa,25,4935.24
+1212,décembre 2023,167958437,El Mellah Achraf,25,4889.36
+1212,décembre 2023,167968402,Lebkiri Abdelouahed,26,9310.0
+1212,décembre 2023,168045973,Sadeq Brahim,26,6503.6
+1212,décembre 2023,168495929,Aitba Siham,26,6520.0
+1212,décembre 2023,168515158,Azad Mohamed,26,10199.25
+1212,décembre 2023,168521155,Chaik Noureddine,26,7703.75
+1212,décembre 2023,168590729,Abakkal Aymane,26,5229.54
+1212,décembre 2023,168847197,Tazi Nabil,26,8453.0
+1212,décembre 2023,168860371,Chaker Khadija,21,4844.91
+1212,décembre 2023,168895345,Touhi Abdelfatah,20,4290.57
+1212,décembre 2023,168900094,Echaabi Samya,26,7655.0
+1212,décembre 2023,168986185,Rzane Samih,26,5920.76
+1212,décembre 2023,169391333,Ben Nour Nadia,26,35901.5
+1212,décembre 2023,169569576,Slimani Lalla Kawtar,26,7851.7
+1212,décembre 2023,169783438,Nahi Assia,26,4000.0
+1212,décembre 2023,169944538,El Assaad Najat,26,8020.01
+1212,décembre 2023,169968808,Chihab Abdelhak,21,4799.68
+1212,décembre 2023,170102589,Barkaoui Malika,26,4627.0
+1212,décembre 2023,170157493,Amcassou Ayoub,20,4665.37
+1212,décembre 2023,170158095,Elmaziri Hasnaa,20,4782.0
+1212,décembre 2023,170218196,El Amouri Mohsine,22,5063.38
+1212,décembre 2023,170218899,Adaghour Jamal,26,16533.42
+1212,décembre 2023,171005766,Chrifi Alaoui Hatim,26,8704.25
+1212,décembre 2023,171327741,Aguezzoul Asma,26,5400.0
+1212,décembre 2023,171333047,Karoumi Boutayna,26,6904.53
+1212,décembre 2023,171347743,Azaoum Ikram,26,7176.5
+1212,décembre 2023,171453700,Ganga Meryem,16,3846.58
+1212,décembre 2023,171458551,Boullah Said,26,5216.0
+1212,décembre 2023,171713161,El Boudi Fatima,26,4664.32
+1212,décembre 2023,171714953,Marsli Hiba,26,9699.0
+1212,décembre 2023,172123310,Rahmane Soukaina,25,5105.85
+1212,décembre 2023,172490560,Halloumi Wahiba,26,15250.0
+1212,décembre 2023,172493853,Lahjomri Najoua,26,51750.3
+1212,décembre 2023,172938635,Berrada Moumen,26,9063.0
+1212,décembre 2023,173180780,Najeh Khalil Brahim,26,4314.25
+1212,décembre 2023,173315379,Rachidy Abderrahman,26,4949.29
+1212,décembre 2023,173475264,Naoui Khadija,24,4056.71
+1212,décembre 2023,173582978,Ait Abdelali Fadoua,26,7655.0
+1212,décembre 2023,173660873,Nhili Nezha,24,4951.74
+1212,décembre 2023,174012172,Al Tahan Al Zaaim Zaineb,26,9805.2
+1212,décembre 2023,174343508,Maazouz Mina,23,4846.26
+1212,décembre 2023,174411952,Aissi Fouad,26,7485.26
+1212,décembre 2023,174487458,Tabai Amal,26,8704.26
+1212,décembre 2023,174575170,Lakbir Safae,20,4774.22
+1212,décembre 2023,174637107,Mekouar Lahcen,26,8600.0
+1212,décembre 2023,174657224,Badi Omar,24,5295.05
+1212,décembre 2023,174677202,Tallali Meriem,26,12225.89
+1212,décembre 2023,175214868,Khaldouni Hicham,26,15673.25
+1212,décembre 2023,175629778,Benradi Khadija,16,2329.2
+1212,décembre 2023,175750359,Fatioui Said,26,18736.12
+1212,décembre 2023,175888259,Karkour Hanane,26,13786.4
+1212,décembre 2023,176069999,Ouakchamou Soufiane,26,5292.58
+1212,décembre 2023,176159097,Khachi Mohammed,25,4211.72
+1212,décembre 2023,176196461,Majdi Youssef,26,9626.56
+1212,décembre 2023,176198501,Labied Wissal,26,4106.18
+1212,décembre 2023,176254962,Haddouch Nessrine,24,4924.68
+1212,décembre 2023,176355202,Tahiri Karim,15,3938.6
+1212,décembre 2023,176613176,Adhir Abderrazak,26,5454.75
+1212,décembre 2023,177271650,Faez Samir,26,16686.59
+1212,décembre 2023,177317652,Chami Khazraji Mohammed Yassine,26,17402.01
+1212,décembre 2023,178065375,Gourch Abdelilah,26,8231.59
+1212,décembre 2023,178067660,Belhajjam Noredine,26,7590.5
+1212,décembre 2023,178238138,Darroussi Aicha,26,26737.5
+1212,décembre 2023,178372212,El Bettal Fatima Zahra,26,5530.67
+1212,décembre 2023,178407419,Abdou Rabbih Asmaa,26,4300.0
+1212,décembre 2023,178411734,Lokmane Said,26,5866.87
+1212,décembre 2023,178689365,Abdelkouddousse Fouad,26,100100.0
+1212,décembre 2023,178959388,Chaffai Jaouad,26,4660.83
+1212,décembre 2023,178959586,Safiri Ayoub,26,8071.0
+1212,décembre 2023,179193201,Moukit Hamza,23,5109.16
+1212,décembre 2023,179193706,Makkak Aymen,20,4430.49
+1212,décembre 2023,179289709,Moummad Malika,24,4985.5
+1212,décembre 2023,179416577,Abhaj Yassine,26,6613.0
+1212,décembre 2023,179652288,Abazid Imane,22,5011.76
+1212,décembre 2023,179733207,Housni Meriam,22,4538.87
+1212,décembre 2023,179991058,Elyasghi Ezzohni Hicham,26,12246.18
+1212,décembre 2023,180183694,Lagnioui Abir,26,8212.2
+1212,décembre 2023,180183793,Aitelamrani Amine,23,5157.63
+1212,décembre 2023,180257861,Adhiri Alae,26,10128.87
+1212,décembre 2023,180368668,Aarab Hajiba,26,4435.03
+1212,décembre 2023,180422133,Khyati Mohamed,26,8990.29
+1212,décembre 2023,180422331,Chajai Brahim,26,7561.07
+1212,décembre 2023,180528508,Elkhattabi Ghizlane,20,3765.28
+1212,décembre 2023,180547407,Bahri Kenza,26,34215.01
+1212,décembre 2023,180811774,Abdeljaouad Ghizlane,26,6370.51
+1212,décembre 2023,180880315,Kamasse Mohamed,26,7575.05
+1212,décembre 2023,180924030,Eloutati Abdelkader,26,50910.0
+1212,décembre 2023,180968038,Nait Hammou Khadija,26,9222.61
+1212,décembre 2023,180984542,Slimani Soufiane,26,4130.37
+1212,décembre 2023,181046750,Kounidry Nadia,26,16109.1
+1212,décembre 2023,181200158,El Haddad Mohammed,26,8837.26
+1212,décembre 2023,181292931,Foutih Rachid,26,93487.5
+1212,décembre 2023,181380778,Faoussi Rajaa,26,6742.95
+1212,décembre 2023,181469374,Arbaoui Maryem,26,10792.65
+1212,décembre 2023,181658779,Goumri Hind,26,11477.09
+1212,décembre 2023,181688461,Belkacemi Noureddine,26,32300.0
+1212,décembre 2023,182064454,Saji Hamid,26,6946.67
+1212,décembre 2023,182216758,Chebrag Ghizlane,26,14339.25
+1212,décembre 2023,182430806,Lakhlil Abdellah,26,8820.0
+1212,décembre 2023,182527030,Sahrani Malika,25,6592.7
+1212,décembre 2023,182607337,Yacoubi Khadija,26,19243.39
+1212,décembre 2023,182617039,Nkhaili Latifa,23,6449.95
+1212,décembre 2023,182617534,Lemrouni Samira,26,6012.85
+1212,décembre 2023,182621238,Fougrach Khalid,26,33025.0
+1212,décembre 2023,182908678,Diouri Karim,24,6200.42
+1212,décembre 2023,183112179,Benkhouya Zitouni,26,5719.05
+1212,décembre 2023,183122400,Hammam Ayoub,26,12248.16
+1212,décembre 2023,183305237,Mziouq Mustapha,26,27802.98
+1212,décembre 2023,183359036,Benjelloun Badreddine,26,26628.75
+1212,décembre 2023,183458300,Sfiri Fatima Zahra,19,3674.38
+1212,décembre 2023,183709851,Hamil Zakaria,26,6128.75
+1212,décembre 2023,183858916,Cherkaoui Chaimae,26,24250.0
+1212,décembre 2023,183934146,Hafid Abderrahman,20,4673.49
+1212,décembre 2023,184112178,Ramzi Khalid,23,5141.38
+1212,décembre 2023,184146573,Bennani Youness,26,5772.7
+1212,décembre 2023,184659039,Bahyaoui Aziz,26,12508.45
+1212,décembre 2023,184800492,Laaid Adnane,26,11700.0
+1212,décembre 2023,185179987,Mouanis Abdelali,26,12339.31
+1212,décembre 2023,185240580,Bammou Souad,25,6466.51
+1212,décembre 2023,185482257,Rhaili Hanane,18,3641.6
+1212,décembre 2023,185482356,Tanbourti Fatima,26,5923.36
+1212,décembre 2023,185482455,Akari Fatna,25,4933.63
+1212,décembre 2023,185482554,Bougrine Houda,0,0.0
+1212,décembre 2023,185763970,Alaoui Sosse Moulay Driss Kamal,26,6701.0
+1212,décembre 2023,185904703,Lmouden Kaouthar,26,12225.9
+1212,décembre 2023,186096750,Kanou Karim,26,4947.77
+1212,décembre 2023,186096859,El Khayate Hicham,26,5046.5
+1212,décembre 2023,186097253,Nacimi Yassine,26,4994.75
+1212,décembre 2023,186097352,Assali Bouazza,25,5655.72
+1212,décembre 2023,186097451,Oubouhou Saida,23,4483.6
+1212,décembre 2023,186131853,Labadal Badia,26,8333.5
+1212,décembre 2023,186150986,Sadak Hajar,13,3501.38
+1212,décembre 2023,186181056,Zamzoum Rabia,26,6199.3
+1212,décembre 2023,186432657,Khouady Hasnaa,26,14289.36
+1212,décembre 2023,186554659,Sadour Mouna,25,5227.11
+1212,décembre 2023,186635699,Chbouki Mohamed Yassine,26,6624.0
+1212,décembre 2023,186694934,Bahzad Rkia,25,3718.48
+1212,décembre 2023,186745894,Barakat Amine,26,4080.0
+1212,décembre 2023,186891663,Barrima Khadija,26,4642.15
+1212,décembre 2023,187228576,Laklalech Meryem,26,13453.9
+1212,décembre 2023,187367008,Imrani Wahiba,24,4975.07
+1212,décembre 2023,187462471,Barhili Brahim,26,31810.0
+1212,décembre 2023,187610939,Abarkane Mohamed,26,45552.5
+1212,décembre 2023,187714880,Sahir Laila,26,6738.85
+1212,décembre 2023,187742782,Zoubir Ghita,17,4193.19
+1212,décembre 2023,187906164,El Mechaty Karim,26,10574.0
+1212,décembre 2023,187942861,Chabakou Maria,26,4359.14
+1212,décembre 2023,188212734,El Guettabi Abdelghani,26,22420.0
+1212,décembre 2023,188407955,Akdim Hamid,26,8604.0
+1212,décembre 2023,188483476,Chouiakh Yasmine,26,8778.5
+1212,décembre 2023,188513786,Lamnaouar Fatima,24,4632.05
+1212,décembre 2023,188516699,Kerniss Mohamed,26,3656.34
+1212,décembre 2023,188524585,Loukra Fatima Zahra,26,7867.0
+1212,décembre 2023,188607852,Zitouli Hanane,26,5241.5
+1212,décembre 2023,188697978,Cherki Mohamed,21,4631.99
+1212,décembre 2023,188829737,El Malek Kamal,26,16535.75
+1212,décembre 2023,188895887,Masret Fouad,26,8532.0
+1212,décembre 2023,188913093,Es Sarti Yassine,19,4406.56
+1212,décembre 2023,188968436,Chaina Said,26,5701.2
+1212,décembre 2023,189019569,Bouchnaief Asmae,26,9612.75
+1212,décembre 2023,189057296,Sahil Soukaina,20,3977.61
+1212,décembre 2023,189077963,Fathi Mokhtar,26,4991.1
+1212,décembre 2023,189290052,Barkhane Hassan,26,17264.0
+1212,décembre 2023,189507358,Amine El Hassan,26,5298.24
+1212,décembre 2023,189927168,Baguenchich Mustapha,26,8704.26
+1212,décembre 2023,189927671,El Kharrat Safae,26,7900.0
+1212,décembre 2023,190095804,El Kouch Mariam,18,4314.3
+1212,décembre 2023,190147672,Marzak Hanane,26,4582.2
+1212,décembre 2023,190181092,Belomaria Sara,26,4300.0
+1212,décembre 2023,190318869,Bentaleb Mohammed,25,5115.76
+1212,décembre 2023,190415459,Bjij Bouchra,25,4563.77
+1212,décembre 2023,190415558,Zahrane Zahira,26,6738.9
+1212,décembre 2023,190452485,Khawla Mesrar,25,4927.26
+1212,décembre 2023,190465131,Laalam Mustapha,26,7050.86
+1212,décembre 2023,190563555,Abalil Mohammed,26,184275.0
+1212,décembre 2023,190617063,Nader Noureddine,26,10092.67
+1212,décembre 2023,191086085,Khoumri Imad,26,35685.0
+1212,décembre 2023,191180598,Samhal Halima,18,4273.47
+1212,décembre 2023,191347990,Tahiri Mohamed El Habib,26,6387.51
+1212,décembre 2023,191349087,Bensehli Othmane,26,71700.0
+1212,décembre 2023,191642717,Mokhlis Othmane,20,4634.61
+1212,décembre 2023,191719032,Hajlani Khalid,26,14087.5
+1212,décembre 2023,191881253,Zahid Tarik,26,6838.49
+1212,décembre 2023,192556186,Es Skali Imane,26,6967.5
+1212,décembre 2023,192682759,Lakhal Khalid,26,8267.25
+1212,décembre 2023,192723850,Guessous Nadia,26,6883.8
+1212,décembre 2023,193236282,Malouf Othmane,26,5235.96
+1212,décembre 2023,193342774,Fazzani Ahmed,26,10090.1
+1212,décembre 2023,193437864,Aski Rachid,26,11515.3
+1212,décembre 2023,193450104,Chouri Mostafa,26,7000.0
+1212,décembre 2023,193585077,El Baied Younes,26,6162.0
+1212,décembre 2023,193852137,Bahani Abdellatif,26,7738.75
+1212,décembre 2023,194089540,Ounejjar Yahya,15,3715.34
+1212,décembre 2023,194114646,El Khiat Ahmed,26,4370.0
+1212,décembre 2023,194272516,Hachi Malika,21,4643.67
+1212,décembre 2023,194717911,Aitoune Zahra,26,5392.5
+1212,décembre 2023,194851394,Arfi Nabila,26,6417.1
+1212,décembre 2023,194965062,Ouamer Said,26,4838.44
+1212,décembre 2023,195061538,Berrada Younes,26,24256.25
+1212,décembre 2023,195122356,Moutaouif Nadia,26,4679.63
+1212,décembre 2023,195156777,El Asraoui Saadia,26,4607.8
+1212,décembre 2023,195177872,Boustta Hamza,26,6200.5
+1212,décembre 2023,195181550,Oubaala Khadija,26,6047.2
+1212,décembre 2023,195181857,Mouafir Khaddouj,26,5262.3
+1212,décembre 2023,195181956,Zahir Hicham,24,4221.07
+1212,décembre 2023,195189356,Sellami Malika,26,5379.05
+1212,décembre 2023,195189455,Bouhrara Karima,25,4734.53
+1212,décembre 2023,195205855,Salami Tarik,26,5855.28
+1212,décembre 2023,195207000,Ougoummad Khadija,26,4980.06
+1212,décembre 2023,195415834,Moujahidi Abderrahim,26,6743.61
+1212,décembre 2023,195446277,Rabichi Otman,26,95800.0
+1212,décembre 2023,195467835,Fettah Majida,26,8183.18
+1212,décembre 2023,195468031,Jamhour Aicha,26,6873.05
+1212,décembre 2023,195508738,Boulghard Lahcen,26,5219.82
+1212,décembre 2023,195509736,Lahsini El Haj,26,7681.65
+1212,décembre 2023,195576710,Rezzouki Anas,26,6197.16
+1212,décembre 2023,195590157,Fatih Khadija,26,6224.0
+1212,décembre 2023,195885889,Bahaddou Sanaa,4,2257.86
+1212,décembre 2023,195901418,Essounaini Hajar,24,4725.47
+1212,décembre 2023,196261591,Boujellal Youness,26,4905.52
+1212,décembre 2023,196283933,Fakhsi Leila,26,9735.0
+1212,décembre 2023,196394839,Braik Oum El Kheire,26,7233.0
+1212,décembre 2023,196408937,Zaoua Khalid,26,7051.04
+1212,décembre 2023,197293650,Lamnouar Hanane,6,1430.9
+1212,décembre 2023,197541923,Najib Kenza,23,4647.87
+1212,décembre 2023,197546620,El Gourii Oumaima,21,4481.51
+1212,décembre 2023,197551722,Houala Badr,23,4718.31
+1212,décembre 2023,197558423,Amrani Zerrifi Najlae,26,5043.78
+1212,décembre 2023,197563222,En Nayry Rachida,25,4966.18
+1212,décembre 2023,197759363,El Adlani Mohamed,24,5251.88
+1212,décembre 2023,197764263,Adamich Soumia,26,4980.34
+1212,décembre 2023,197791266,Ait Tazzart Brahim,26,4132.31
+1212,décembre 2023,197931375,Atik Abdelhakim,26,19029.83
+1212,décembre 2023,198136560,Amiqadir Naima,25,5379.04
+1212,décembre 2023,198239341,Afrad Mohamed,19,3877.84
+1212,décembre 2023,198248542,Baidchar Zakaria,26,4250.0
+1212,décembre 2023,198262860,Mourchid Ahmed,26,14178.66
+1212,décembre 2023,198290267,Berred Nabil,20,4510.41
+1212,décembre 2023,198367355,Abdelbassit Aziz,26,4627.0
+1212,décembre 2023,198369161,Akrikar Adnan,26,4701.67
+1212,décembre 2023,198384603,Bousseba Nadia,26,20900.0
+1212,décembre 2023,198502563,El Jaouahiri Asmaa,26,4721.04
+1212,décembre 2023,198813952,Aboulhaoul Hayat,26,7234.11
+1212,décembre 2023,198999992,Wadi Saad,21,3870.1
+1212,décembre 2023,199168116,Ben Boujida Rachida,26,14725.01
+1212,décembre 2023,199318688,Agtaib Abdelbasset Abdessamad,26,6600.9
+1212,décembre 2023,199474571,Ben Hamdia Imad Eddine,26,7997.6
+1212,décembre 2023,199627295,Laaraj Ayoub,26,4945.06
+1212,décembre 2023,199654102,Moutia Mouna,26,21600.0
+1212,décembre 2023,199793179,El Khiari Omar,26,9627.0
+1212,décembre 2023,199819058,Lalaoui Issam,26,43455.01
+1212,décembre 2023,199877634,Loukili Said,26,19000.0
+1212,décembre 2023,199883730,Mehdaoui Alaoui Mustapha,26,6400.79
+1212,décembre 2023,199884134,Chtioui Adil,26,81637.5

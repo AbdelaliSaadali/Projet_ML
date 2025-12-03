@@ -1,0 +1,519 @@
+ID_adherent,month,immatriculationNumber,full_name,nombre_jours,salaire
+44705,décembre 2023,100114202,Saidi Hassan,24,4994.52
+44705,décembre 2023,100145207,Mourhiya Siham,26,4008.78
+44705,décembre 2023,101038480,Et Targuy Meriem,24,4458.11
+44705,décembre 2023,101170857,Isaad Oussama,21,2493.29
+44705,décembre 2023,101608402,Jdig Oualid,25,11543.94
+44705,décembre 2023,101684069,Ben Driouch Hassan,25,13529.93
+44705,décembre 2023,101687826,M Karchi Amine,26,4101.41
+44705,décembre 2023,101688424,Boulidam Hassan,26,3741.13
+44705,décembre 2023,101810375,El Kadachi Abdelhaq,26,19537.74
+44705,décembre 2023,102069179,Tahiri Youssef,26,7798.21
+44705,décembre 2023,102070176,El Majraoui Abderrahim,25,8620.52
+44705,décembre 2023,102318063,Najjar Ouafaa,26,36450.0
+44705,décembre 2023,102508920,Mountassir Hiba,18,2100.62
+44705,décembre 2023,102581256,El Baine Abdelati,26,17669.88
+44705,décembre 2023,103231355,Tijani Abdelmoula,26,22309.93
+44705,décembre 2023,103537453,Aouissa Abdellah,26,3509.95
+44705,décembre 2023,103797655,Chouaf Hamza,26,3882.76
+44705,décembre 2023,103863911,Tammary Mohamed,26,5659.21
+44705,décembre 2023,103864014,Nadri Mhamed,23,5343.2
+44705,décembre 2023,103864115,Chouiba Aicha,24,4108.67
+44705,décembre 2023,103872112,Aainousse Aicha,26,3741.13
+44705,décembre 2023,103892710,Hmimid Lahcen,26,4510.6
+44705,décembre 2023,104055452,Attab Ayoub,22,2494.19
+44705,décembre 2023,104435691,Lahlali Zakaria,25,4939.78
+44705,décembre 2023,104513695,Nadaoui Hasna,11,2384.1
+44705,décembre 2023,104641181,Bermime Abdelmonaim,26,6572.86
+44705,décembre 2023,104641280,Bouhafsa Idris,25,5961.08
+44705,décembre 2023,104988550,Drioua Said,16,1927.55
+44705,décembre 2023,105320586,El Bassel Sami,25,8858.47
+44705,décembre 2023,105462966,Missa Hayat,25,9748.31
+44705,décembre 2023,105697023,Cheikh Abdelhak,26,3869.76
+44705,décembre 2023,105890571,Dinari Youness,25,7218.14
+44705,décembre 2023,106476297,Ouali Rachid,25,7640.8
+44705,décembre 2023,106497450,El Moudden Karima,22,2619.85
+44705,décembre 2023,106497551,Bnine Laila,24,2745.51
+44705,décembre 2023,107198104,Hassouni Khalid,23,7301.82
+44705,décembre 2023,107555793,Allam Ayoub,23,5060.78
+44705,décembre 2023,108197768,Loudini Mohammed,25,14485.51
+44705,décembre 2023,108233447,Zaroualy Mohammed,25,8730.14
+44705,décembre 2023,109545850,Slaoui Anas,22,2572.44
+44705,décembre 2023,109687495,Atifi Hossam,24,7572.45
+44705,décembre 2023,109734890,Riad Loubna,26,5548.98
+44705,décembre 2023,109920580,Oudhdhahy Amine,26,5846.22
+44705,décembre 2023,110528605,Behlaouane Khalid,25,6803.87
+44705,décembre 2023,110738713,El Bahraoui Abdelhak,26,4238.23
+44705,décembre 2023,110785750,Ait Bouzid Youssef,22,2930.76
+44705,décembre 2023,110785851,Zouinga Khadija,20,2273.7
+44705,décembre 2023,110792879,Hamouch El Hassan,26,5401.5
+44705,décembre 2023,110958140,Talaalout Yassir,24,11530.59
+44705,décembre 2023,111214308,Chouaaibi Tarik,26,4487.3
+44705,décembre 2023,111498765,Jnah Najat,25,11928.66
+44705,décembre 2023,111529305,El Haiba Mohamed,26,3564.81
+44705,décembre 2023,111533868,Tchoubi Sabah,23,5032.93
+44705,décembre 2023,111588566,Laadraoui Souad,26,7647.98
+44705,décembre 2023,111830152,Masnaoui Oussama,26,3077.59
+44705,décembre 2023,111830253,Maknassi Abdelaziz,19,2226.28
+44705,décembre 2023,112143815,Chakour Amine,26,3649.36
+44705,décembre 2023,112169258,Et Toumani Aziz,26,22290.57
+44705,décembre 2023,112317980,El Badry Jamal,23,6896.09
+44705,décembre 2023,112477925,Mezouak El Mehdi,26,4564.96
+44705,décembre 2023,112872454,Jalyl Achraf,16,1865.01
+44705,décembre 2023,112927057,Rabbah Idrissi Rida,16,1896.14
+44705,décembre 2023,112977841,Housni Abdelkader,26,6158.7
+44705,décembre 2023,113024206,El Ouafi Hassan,26,4751.54
+44705,décembre 2023,113237904,El Falaki Ahmed,25,5203.83
+44705,décembre 2023,113287214,Blal El Houssine,26,4279.41
+44705,décembre 2023,113355411,El Fakir Sara,12,1556.19
+44705,décembre 2023,113355613,El Khiyat Halima,26,3869.76
+44705,décembre 2023,113355815,Gartoumi Safae,26,3852.95
+44705,décembre 2023,113487751,El Hail Ikram,14,1578.2
+44705,décembre 2023,113564200,Sellouk Ibtissam,26,5118.92
+44705,décembre 2023,113564301,El Haou Mouna,25,4804.88
+44705,décembre 2023,113564402,Saber Zahra,26,6017.46
+44705,décembre 2023,113564503,Bourekadi Rajae,10,2356.08
+44705,décembre 2023,113564604,Feryadi Youness,26,7817.05
+44705,décembre 2023,114431250,Kadmiri Hafsa,19,2210.57
+44705,décembre 2023,114601023,El Ouardy Noureddine,26,3898.69
+44705,décembre 2023,114604524,Ehsaini Nouhaila,26,3741.13
+44705,décembre 2023,114605829,Abou Srouj Fatima Zahrae,26,3741.13
+44705,décembre 2023,115217997,Chbika Abderrahmane,25,12958.09
+44705,décembre 2023,115279459,Touil Hamza,24,2936.72
+44705,décembre 2023,115889572,Ragouba Hakima,26,6645.32
+44705,décembre 2023,116424726,Belkarradi El Mahdi,26,3639.09
+44705,décembre 2023,116486260,El Marni Zouhair,25,10650.22
+44705,décembre 2023,116502298,Tikni Abderazzak,20,3152.1
+44705,décembre 2023,116507561,Ouarda Ghizlane,25,4950.85
+44705,décembre 2023,116847417,Hilal Naoufal,25,6170.77
+44705,décembre 2023,117006893,El Kabbach Mohammed,26,3869.76
+44705,décembre 2023,117554924,Arar Ayoub,18,2053.21
+44705,décembre 2023,117847317,Sellami Sokaina,26,3786.34
+44705,décembre 2023,117931758,Aboulhaoul Chaimae,16,1927.55
+44705,décembre 2023,117931950,Talab Omar,20,2320.22
+44705,décembre 2023,118513258,Ezzaoui Fatima Zahra,4,463.95
+44705,décembre 2023,118513258,Ezzaoui Fatima Zahra,0,0.0
+44705,décembre 2023,118513359,Halib Siham,16,1817.6
+44705,décembre 2023,118513450,Belkeroum Mohammed,16,1817.6
+44705,décembre 2023,118523716,Bel Qruch Zakaria,25,9271.82
+44705,décembre 2023,118597867,Gourmaje Younes,26,41150.0
+44705,décembre 2023,118614257,Amadou Abdessamad,26,5224.54
+44705,décembre 2023,118657858,Chouaf Khadija,16,1801.89
+44705,décembre 2023,118657959,L Otfi Fatimazahra,0,0.0
+44705,décembre 2023,118657959,L Otfi Fatimazahra,4,463.95
+44705,décembre 2023,118658052,Kilouli Nissrine,16,1817.6
+44705,décembre 2023,118718656,Hilali Hicham,24,2873.11
+44705,décembre 2023,118718757,Elafsa Zhour,0,0.0
+44705,décembre 2023,118718757,Elafsa Zhour,3,346.15
+44705,décembre 2023,119288313,Kasbi Wafae,20,2273.7
+44705,décembre 2023,119549263,Aribou Hasna,26,5871.98
+44705,décembre 2023,119549461,Marjani Mina,26,5673.05
+44705,décembre 2023,119549669,Najjar Touria,24,5531.35
+44705,décembre 2023,119549867,Dahhany Nezha,0,0.0
+44705,décembre 2023,119553363,Ait Addi Souad,25,5761.1
+44705,décembre 2023,119564261,El Hakki Naima,20,4446.61
+44705,décembre 2023,119564360,Askari Hanane,25,5672.1
+44705,décembre 2023,119564766,Achbou Sihame,26,5673.05
+44705,décembre 2023,119565160,Boutarga Zohra,26,5607.77
+44705,décembre 2023,119565467,Erroudany Houda,23,5032.93
+44705,décembre 2023,119569568,El Wardi Ahmed,25,11068.65
+44705,décembre 2023,119593260,Boum Nezha,25,7173.56
+44705,décembre 2023,119594466,Hammouda Nezha,23,5032.93
+44705,décembre 2023,119674324,Nasraoui Hamza,26,4089.9
+44705,décembre 2023,119675629,El Khoujlani Saad,22,2555.83
+44705,décembre 2023,120003555,Miftah Maria,26,6822.41
+44705,décembre 2023,120657188,Zine Kamal,25,13367.04
+44705,décembre 2023,120677412,Barradah Abdelati,26,4342.44
+44705,décembre 2023,120985993,Yadelhaj Zakia,26,4939.78
+44705,décembre 2023,120986397,Moustaqim Sanae,0,0.0
+44705,décembre 2023,120986496,Rhoudda Maryam,26,4774.43
+44705,décembre 2023,120986793,Idouabane Milouda,26,4939.78
+44705,décembre 2023,120987395,Bousbae Salwa,22,4265.19
+44705,décembre 2023,120987692,El Aiane Milouda,26,4835.24
+44705,décembre 2023,121082293,Saadi Tarik,26,4316.91
+44705,décembre 2023,121442618,Badane Soukaina,16,1927.55
+44705,décembre 2023,121512605,Bachar Zineb,4,2391.42
+44705,décembre 2023,121644895,El Fahmy Kawtar,26,6968.95
+44705,décembre 2023,121994357,Rokki Abdellah,26,104991.28
+44705,décembre 2023,122236485,Bouhdida Rachid,26,5935.21
+44705,décembre 2023,122258174,El Hajji Karame,26,5224.54
+44705,décembre 2023,122371570,Elkaimech Bahija,26,5487.41
+44705,décembre 2023,122371976,Znati Siham,25,7030.52
+44705,décembre 2023,122372172,Tarkane Fatima,26,5741.8
+44705,décembre 2023,122372578,Karaman Kamal,26,6212.08
+44705,décembre 2023,122372974,Garmoue Hicham,26,41900.0
+44705,décembre 2023,122373576,Dardar Zineb,26,5737.88
+44705,décembre 2023,122373774,Sarhrhour Saadia,26,5741.29
+44705,décembre 2023,122373873,Ezaouaoui Monir,26,8204.71
+44705,décembre 2023,122496016,Dardari Hamza,26,4341.13
+44705,décembre 2023,122819067,Ez Zidani Said,26,8176.52
+44705,décembre 2023,122907552,El Aissioui Meriem,21,4057.33
+44705,décembre 2023,123258777,El Malki Laila,26,5477.39
+44705,décembre 2023,123375908,Azzardi Fatima Zahra,26,4180.06
+44705,décembre 2023,123376405,Marnani Imane,26,3991.35
+44705,décembre 2023,123377104,Khachchani Soukaina,26,4308.28
+44705,décembre 2023,123378106,Fathi Abderrahim,26,4491.14
+44705,décembre 2023,123379805,Azzab Naima,25,4143.42
+44705,décembre 2023,123380606,El Falhani Mohamed,26,5015.19
+44705,décembre 2023,123380909,El Mahfoudy Soufiane,26,4532.85
+44705,décembre 2023,123394977,Ibgha Souad,22,4835.0
+44705,décembre 2023,123491096,El Ghalabi Adam,24,6966.98
+44705,décembre 2023,123613054,El Hamidi Nadia,26,5827.22
+44705,décembre 2023,123836391,Ghezzaz Nabil,26,8995.55
+44705,décembre 2023,123883756,Khaddoumi Abdelilah,26,51960.01
+44705,décembre 2023,123937751,Ed Dbali Mohamed,26,49950.0
+44705,décembre 2023,124581324,El Ghalami Abdelkarim,25,5206.54
+44705,décembre 2023,124590828,Chaanoun Hamza,25,3418.59
+44705,décembre 2023,124917721,Mastouri Marouane,14,1666.73
+44705,décembre 2023,124933964,Zaklouf Nadia,26,5741.8
+44705,décembre 2023,125089422,Bote Mohammed,24,4438.11
+44705,décembre 2023,125089624,Id Bida Yassmine,26,4027.32
+44705,décembre 2023,125435977,En Nia Meryem,26,5335.84
+44705,décembre 2023,125480477,Ez Zobayr Malika,26,5577.08
+44705,décembre 2023,126224611,Abidar Achraf,26,4325.63
+44705,décembre 2023,126281205,En Nami Mohamed,26,4549.52
+44705,décembre 2023,127172874,El Hamidi Younes,25,12335.67
+44705,décembre 2023,127291799,Haidara Salah,26,6777.77
+44705,décembre 2023,128029561,El Badry Mohammed,26,10366.65
+44705,décembre 2023,128087003,Lamrabt Hamza,26,4142.18
+44705,décembre 2023,128348502,Naenai Yousra,25,5999.1
+44705,décembre 2023,128353325,Saieb Ahmed,26,4153.37
+44705,décembre 2023,130205349,Hanbali Hakima,26,6086.63
+44705,décembre 2023,130289145,Machrouh Mina,26,5999.16
+44705,décembre 2023,130289343,Benrahmoune Meriem,25,9149.4
+44705,décembre 2023,130292247,Essaadi Zahra,26,26865.0
+44705,décembre 2023,130297841,Zehwane Khadija,26,10912.95
+44705,décembre 2023,130298849,Karbousse Fatima,22,4852.07
+44705,décembre 2023,130300040,Sarhrany Samira,26,6924.18
+44705,décembre 2023,130518479,Wahib Ghizlane,26,5745.7
+44705,décembre 2023,130656814,El Yousfi Ilham,14,1557.69
+44705,décembre 2023,130706607,Lkharoussi Abdellatif,25,6512.25
+44705,décembre 2023,131111621,El Hossayny Mouhsine,24,4671.13
+44705,décembre 2023,131140172,Mastour Zakaria,26,6225.43
+44705,décembre 2023,131193825,Elhassany Youssef,26,3961.71
+44705,décembre 2023,131737108,Nasarelah Soukaina,26,4549.52
+44705,décembre 2023,131737209,Rochdi Amal,26,4722.01
+44705,décembre 2023,131737401,Bouky Karim,26,5294.93
+44705,décembre 2023,131737502,Charki Mohamed,25,5405.09
+44705,décembre 2023,131737603,El Ouarrak Khadija,24,4000.16
+44705,décembre 2023,131987681,Loubid Imad,22,11507.67
+44705,décembre 2023,131987780,Jabouri Mohamed,25,14819.27
+44705,décembre 2023,132006662,El Cadi Hicham,26,27700.01
+44705,décembre 2023,132051826,Haddadi Soukaina,26,3724.32
+44705,décembre 2023,132059529,Moustakil Jalal,26,3869.76
+44705,décembre 2023,132243520,Chibiby Hayat,26,4027.32
+44705,décembre 2023,132419477,Layachi Nabila,25,14097.86
+44705,décembre 2023,132847405,Lekhedimi Fatima,16,3001.08
+44705,décembre 2023,132847506,Benkhayi Ali,24,6094.3
+44705,décembre 2023,132847607,El Hasnaoui Ilham,26,4400.58
+44705,décembre 2023,132872131,Khoudidir Khalid,26,4335.66
+44705,décembre 2023,133827679,Noussair Mohammed,26,5824.0
+44705,décembre 2023,133932460,Bourig Abdelali,26,8828.66
+44705,décembre 2023,133941420,Lahmidi Zakia,26,4247.24
+44705,décembre 2023,134494232,Sarhan Fatima Ez Zahrae,18,2163.75
+44705,décembre 2023,134626221,Moughazi Salma,26,3588.04
+44705,décembre 2023,134787625,Marouf Anas,26,4091.11
+44705,décembre 2023,135043721,El Hboub Anass,26,4800.57
+44705,décembre 2023,135271551,Mouaky Rabie,26,15940.11
+44705,décembre 2023,135380758,Lakhuit Jamila,25,5407.1
+44705,décembre 2023,135521129,Aggui Siham,26,3724.32
+44705,décembre 2023,135533448,Essabri Nadia,26,18012.76
+44705,décembre 2023,135672890,Lamkhantar Mostafa,25,5203.96
+44705,décembre 2023,136596180,Khammoum Mohammed,26,5016.02
+44705,décembre 2023,136663423,El Jarmouni Zineb,25,3606.68
+44705,décembre 2023,136865609,Rakhila Radouan,22,9327.08
+44705,décembre 2023,136892644,Serhane Mounssif,26,3297.71
+44705,décembre 2023,137249069,Siki Salah Eddine,26,21123.2
+44705,décembre 2023,137424442,El Hibari Wissal,25,4675.97
+44705,décembre 2023,137470716,Nori Sara,26,3881.88
+44705,décembre 2023,137564525,Boukhris Meryem,26,3529.14
+44705,décembre 2023,138200829,Boufatass Salaheddine,26,4294.91
+44705,décembre 2023,138494729,Touiki Rafika,26,3869.76
+44705,décembre 2023,139019874,Biar Yassine,25,5556.2
+44705,décembre 2023,139062701,El Mourabite Maryem,26,3639.09
+44705,décembre 2023,139093100,Merrass Anass,26,5618.12
+44705,décembre 2023,139093504,Sadik Elmehdi,24,10260.42
+44705,décembre 2023,139266436,Benchlih Sana,26,3697.99
+44705,décembre 2023,139397379,Jmaili Nour Eddine,26,7973.68
+44705,décembre 2023,139397973,Mar Rhade Brahim,26,4939.26
+44705,décembre 2023,139507438,Charbane Mohammed,26,3324.85
+44705,décembre 2023,139961238,Zaklouf Fatima Zahrae,25,3497.73
+44705,décembre 2023,140237527,Imelouane Kaoutar,18,2163.75
+44705,décembre 2023,140317465,Ghardi Mohamed,26,22105.56
+44705,décembre 2023,140584840,Srhir Fatima,23,5777.97
+44705,décembre 2023,140586440,Jazouli Khadija,26,7169.79
+44705,décembre 2023,140766844,Benchmal Lahcen,26,7208.81
+44705,décembre 2023,140989734,Hninaouy Salma,26,3633.65
+44705,décembre 2023,140994057,Elguasir Rabia,25,13699.58
+44705,décembre 2023,141026156,Hamdane Abdelfattah,26,5137.92
+44705,décembre 2023,141127475,El Gouach Youness,22,6601.23
+44705,décembre 2023,141220129,Attouch Ayoub,20,6822.46
+44705,décembre 2023,141556637,Rafik Asmaa,26,3837.38
+44705,décembre 2023,141841786,Moumen Mourad,26,4925.77
+44705,décembre 2023,141926265,Mar Rhad Zahra,26,6103.73
+44705,décembre 2023,142074333,Drif Ayoub,26,4208.92
+44705,décembre 2023,142367409,Bellaeraje Oumnia,26,8892.01
+44705,décembre 2023,142766811,Ait Walaid Chaimae,24,3451.2
+44705,décembre 2023,143212136,Zahhaf Imane,26,3529.14
+44705,décembre 2023,143212237,Touili Assya,26,3649.36
+44705,décembre 2023,143224378,Ballouchy Rhita,26,5597.79
+44705,décembre 2023,143256876,Outadrart Mehdi,26,5515.26
+44705,décembre 2023,143260075,Raoui Fouzia,26,5745.7
+44705,décembre 2023,143260174,Amrane Sanaa,26,5453.8
+44705,décembre 2023,143260372,Tibari Khadija,25,5404.04
+44705,décembre 2023,143571732,Zohari Soukaina,26,3649.36
+44705,décembre 2023,143903624,Hosni Marouane,26,3961.71
+44705,décembre 2023,143940901,Jafari Aicha,20,5987.63
+44705,décembre 2023,143941004,Bouanani Anas,26,6628.38
+44705,décembre 2023,144004528,Mennane Noureddine,26,3718.51
+44705,décembre 2023,144410976,Lamkimel Abdellatif,26,26768.9
+44705,décembre 2023,144688920,Nahhar Ayoub,18,5211.38
+44705,décembre 2023,144921736,Ait Abdellah Saida,26,3617.94
+44705,décembre 2023,144922233,Mabrouk Omar,26,5633.08
+44705,décembre 2023,144940676,Badri Abdelhak,26,6465.56
+44705,décembre 2023,145444982,Rsioui Bouchra,25,12663.33
+44705,décembre 2023,145450613,Habib Allah Malik Abdelalim,26,3587.79
+44705,décembre 2023,145500594,Blibel Youssef,25,11183.36
+44705,décembre 2023,145528992,Dinari Dalila,26,4936.48
+44705,décembre 2023,145538264,Souaf Abdelilah,25,9598.24
+44705,décembre 2023,145558478,Massaad Bouchra,22,4866.95
+44705,décembre 2023,145796276,Makrouni Hanane,26,5459.4
+44705,décembre 2023,145861905,Essadek Abdeladim,25,4133.79
+44705,décembre 2023,146130861,Kamal Touria,26,4823.61
+44705,décembre 2023,146268415,Idmkhaich Asmaa,24,5822.18
+44705,décembre 2023,146300326,Fatihi Fatima Zahra,26,3529.14
+44705,décembre 2023,146402377,Moti Yassine,25,10197.89
+44705,décembre 2023,146761524,Miry Laila,26,3858.77
+44705,décembre 2023,146911016,Hajjab Yassine,24,3481.12
+44705,décembre 2023,147025045,Cherkaoui Noura,26,26965.65
+44705,décembre 2023,147025441,Marzouk Fatiha,24,5245.69
+44705,décembre 2023,147027942,Dzouzi El Yakoute,26,7336.66
+44705,décembre 2023,147287810,Ait Wakrim Jmia,26,4948.96
+44705,décembre 2023,147352910,Mahboub Bouchaib,25,5209.47
+44705,décembre 2023,147422176,Soulami Mostafa,26,6381.82
+44705,décembre 2023,147429127,Bouakil Zakaria,21,5869.1
+44705,décembre 2023,147429228,Larouchi Omrane,25,4919.35
+44705,décembre 2023,147752312,Sahiri Fouziya,26,3724.32
+44705,décembre 2023,147790466,Ennour Adil,25,10944.68
+44705,décembre 2023,148040795,Dahbi Ibrahim,26,6474.82
+44705,décembre 2023,148635893,Arar Abdenbi,26,5894.37
+44705,décembre 2023,148676368,Boulafkhouda Maria,21,39865.39
+44705,décembre 2023,148676566,Bouda Rabia,0,0.0
+44705,décembre 2023,148948246,Aboutahir Khadija,25,13497.91
+44705,décembre 2023,148964953,Lahrech Siham,25,46903.85
+44705,décembre 2023,149017777,Najjad Anwar,26,6787.22
+44705,décembre 2023,149081491,Faris Fatna,26,4939.35
+44705,décembre 2023,149108749,Mafti Sara,24,6693.65
+44705,décembre 2023,149108840,Gourmaje Oussama,25,4675.2
+44705,décembre 2023,149404026,Talib Ali,26,3869.76
+44705,décembre 2023,149681527,Ibn Oueddas El Mehdi,26,3869.76
+44705,décembre 2023,149743265,El Mlouk Youssef,26,6537.09
+44705,décembre 2023,149847618,Fadeli Abdeladim,26,3582.87
+44705,décembre 2023,150457703,Ait Bahloul Marwane,26,3914.41
+44705,décembre 2023,150681248,Moulhssine Keltouma,26,8241.09
+44705,décembre 2023,150830259,Madih Ilham,26,21915.32
+44705,décembre 2023,150988553,Karkour Jamila,24,5229.92
+44705,décembre 2023,152914426,Attar Sahar,20,3224.82
+44705,décembre 2023,153268224,Kaouthar Karima,18,2815.17
+44705,décembre 2023,153344911,Rammouhi Zakaria,26,3903.37
+44705,décembre 2023,153886426,Moumine Oumaima,25,12998.38
+44705,décembre 2023,153951300,Bounasser Rajaa,25,4637.68
+44705,décembre 2023,154125425,Yasyn Mohamed,26,4010.51
+44705,décembre 2023,154125526,Kacimi Youssef,26,3961.71
+44705,décembre 2023,154308369,Ben Taleb Khadija,25,8724.19
+44705,décembre 2023,154334923,Takifi Rachid,26,4317.26
+44705,décembre 2023,154335198,Soulaimani Khadija,25,4664.41
+44705,décembre 2023,154335495,Bouliali Salima,24,4454.82
+44705,décembre 2023,154335594,Addoubiani Oussama,26,6811.67
+44705,décembre 2023,154335693,Sayel Laila,26,4939.78
+44705,décembre 2023,155862543,Hanyn Hind,26,3513.43
+44705,décembre 2023,155898346,Bady Oussama,14,1557.69
+44705,décembre 2023,156667514,Lemouda Oumaima,24,3861.36
+44705,décembre 2023,156725328,Arifi Oumaima,26,3852.95
+44705,décembre 2023,157281695,El Korchi Asmae,26,4939.78
+44705,décembre 2023,157485216,Belhamra Tarik,26,3987.81
+44705,décembre 2023,157597427,Hraima Rachid,26,4459.03
+44705,décembre 2023,157609828,Fourad Khadija,26,3678.42
+44705,décembre 2023,157615643,Belkhala Salma,18,2053.21
+44705,décembre 2023,157651043,Marzaq Zakaria,25,3608.88
+44705,décembre 2023,157676906,Maziane Abderrazzak,25,4723.15
+44705,décembre 2023,157722376,Katir Amina,26,18297.24
+44705,décembre 2023,158377360,Lahmam Siham,24,6303.06
+44705,décembre 2023,158913317,Zougar Ilham,26,4136.56
+44705,décembre 2023,158984215,Rhalmi Oumaima,26,4121.85
+44705,décembre 2023,159879845,Aitajnane Saliha,23,3182.98
+44705,décembre 2023,159879946,Elhabyb Imane,24,3440.18
+44705,décembre 2023,159880040,Sadraoui Zineb,24,3440.18
+44705,décembre 2023,159880141,Lahlali Najlae,25,3418.59
+44705,décembre 2023,160076618,Lahmidi Khadija,26,3786.34
+44705,décembre 2023,160581126,Chafai Dounia,26,3633.65
+44705,décembre 2023,160593602,Nadif Soufia,26,4710.57
+44705,décembre 2023,160765847,Benobida Ihssane,17,1974.96
+44705,décembre 2023,161154920,Houraiba Salima,26,3649.36
+44705,décembre 2023,161155023,Mynti Salma,26,3649.36
+44705,décembre 2023,161247218,Tijijt Zakaria,0,0.0
+44705,décembre 2023,161247218,Tijijt Zakaria,10,1108.24
+44705,décembre 2023,161957403,Benchalh Amine,26,5355.15
+44705,décembre 2023,162213146,Boujaada Abdelkader,26,11793.91
+44705,décembre 2023,162992016,Glil Manal,25,3606.68
+44705,décembre 2023,162994717,Hamri Hanane,26,4121.85
+44705,décembre 2023,163647016,El Bahil Nouhaila,26,3869.76
+44705,décembre 2023,163967560,Lhoum Hicham,26,5037.92
+44705,décembre 2023,164063019,Haddoumi Nada,26,3999.92
+44705,décembre 2023,164152311,Barmaky Fatima Ezzahra,18,2037.5
+44705,décembre 2023,164596665,Latif Soufiane,26,7935.7
+44705,décembre 2023,164741904,Koudri Chaimae,24,3451.2
+44705,décembre 2023,164742108,Khyati Hajar,26,4142.18
+44705,décembre 2023,164744708,Hakimi Kaoutar,26,3564.81
+44705,décembre 2023,164747502,Haida Soukaina,16,2444.78
+44705,décembre 2023,164747603,Khallad Zineb,26,3564.81
+44705,décembre 2023,164832358,El Kej Asma,15,20269.23
+44705,décembre 2023,164867058,El Aaid Fatiha,24,5510.64
+44705,décembre 2023,164868353,Khelfi Zohra,23,5336.86
+44705,décembre 2023,164923058,Jayar Nadia,25,5866.27
+44705,décembre 2023,164950313,Hefiani Walid,26,4852.27
+44705,décembre 2023,165836211,Boughanbour Mustafa,25,4131.4
+44705,décembre 2023,165948039,Tabi Rabha,26,5963.25
+44705,décembre 2023,166154317,Cheddani Fatima Ezzahra,25,4959.29
+44705,décembre 2023,166174790,Ait Taourirt Jamal,26,3944.9
+44705,décembre 2023,166177808,Tarfaoui Bouchra,26,3898.69
+44705,décembre 2023,166398818,El Ouali Nabil,26,3747.22
+44705,décembre 2023,166401615,Ghazi Hassan,24,5554.95
+44705,décembre 2023,166446619,Achnade Kaouthar,25,5299.81
+44705,décembre 2023,166448310,Boumehdi Saida,14,1579.45
+44705,décembre 2023,166448310,Boumehdi Saida,0,0.0
+44705,décembre 2023,166448411,Sabri Yassine,24,6157.24
+44705,décembre 2023,166449413,Bal Aslouj El Mehdi,26,3869.76
+44705,décembre 2023,166463918,Jaoui Hamza,26,3919.34
+44705,décembre 2023,166474012,El Maimouni Mohamed,26,4341.13
+44705,décembre 2023,166478818,Elassfari Mustapha,26,3961.71
+44705,décembre 2023,166807918,Khanchari Abdessamad,18,2148.04
+44705,décembre 2023,167059959,Hedda Youssef,26,170487.51
+44705,décembre 2023,167079320,Missaoui Noura,26,3869.76
+44705,décembre 2023,167157112,Naoui Mehdi,25,3617.67
+44705,décembre 2023,167173957,Bouchta Tarik,25,5881.29
+44705,décembre 2023,167293953,Ouakafi Aicha,23,5760.81
+44705,décembre 2023,167517611,Mounaji Hadj,26,3869.76
+44705,décembre 2023,167935969,Traifi Abderrahim,26,5547.23
+44705,décembre 2023,168161302,Garmoue Imad Eddine,26,5956.56
+44705,décembre 2023,168172103,Annab Meryem,24,3451.2
+44705,décembre 2023,168575018,Latif Imane,25,5121.15
+44705,décembre 2023,169162406,Outaleb Soukayna,26,3869.76
+44705,décembre 2023,169282842,Aitlhadjlamin Mouhssine,26,3471.36
+44705,décembre 2023,169996009,Atti El Mehdi,26,3735.31
+44705,décembre 2023,170017663,Ibba Saida,25,5748.59
+44705,décembre 2023,170068591,Bouballouk Kenza,26,4939.78
+44705,décembre 2023,170068690,Tamskint Said,26,7093.95
+44705,décembre 2023,170742308,Ait Ameur Mohammed,26,4237.54
+44705,décembre 2023,171330551,El Guasir Hassan,24,7835.69
+44705,décembre 2023,171574314,El Bouazizi Ghzilane,20,2399.36
+44705,décembre 2023,171731767,Saoui Nadia,25,9394.99
+44705,décembre 2023,172036125,El Mhali Soumia,26,3649.36
+44705,décembre 2023,172806407,Abderrazzak Naima,26,3741.13
+44705,décembre 2023,173015664,Lamnabhi Zakaria,25,5765.28
+44705,décembre 2023,173407301,Ben Yazza Lamyae,26,3529.14
+44705,décembre 2023,173992391,Boussalem Imane,0,0.0
+44705,décembre 2023,174025718,Serhan Bahija,26,3858.77
+44705,décembre 2023,175123349,Es Sadafy Mohammed,18,2053.21
+44705,décembre 2023,175128945,Essabil Youssef,9,1052.49
+44705,décembre 2023,175128945,Essabil Youssef,0,0.0
+44705,décembre 2023,175185109,Hamdi Tarek,26,4242.2
+44705,décembre 2023,175796748,El Fench El Mehdi,23,3226.78
+44705,décembre 2023,176162215,Ben Ahmad Saida,26,3869.76
+44705,décembre 2023,177114470,Lamnouri Nadia,25,8477.43
+44705,décembre 2023,177152102,En Nia Zakariae,25,3295.89
+44705,décembre 2023,177260992,Guedari Yassine,26,23498.71
+44705,décembre 2023,178004047,Taiab Abdessadek,26,4411.51
+44705,décembre 2023,178144658,El Hamamssi Rachida,26,5864.48
+44705,décembre 2023,178161058,Tanfali Hadda,26,5830.26
+44705,décembre 2023,178162551,Aouaj Touria,24,5220.72
+44705,décembre 2023,178185058,Marjani Rachida,26,5666.91
+44705,décembre 2023,178207213,Fouad Sokaina,26,4008.78
+44705,décembre 2023,178577651,El Hafdi Ghizlane,25,5747.98
+44705,décembre 2023,179001042,Aboussad Amina,26,3649.36
+44705,décembre 2023,179388901,Tabila Halima,25,3617.67
+44705,décembre 2023,180142872,Lekbari Zakaria,26,12450.38
+44705,décembre 2023,180143979,Madih Abdellatif,26,9219.72
+44705,décembre 2023,180144373,Touti Ghizlane,26,5597.79
+44705,décembre 2023,180773859,Oussayd Mina,26,5895.54
+44705,décembre 2023,180982548,Zaklouf Ilyas,26,4181.74
+44705,décembre 2023,181133449,Rghioui Billal,24,2921.01
+44705,décembre 2023,181247440,Touil Amal,26,3529.14
+44705,décembre 2023,181778700,Ouriouer Ayoub,26,4176.84
+44705,décembre 2023,181793904,Elasely Aicha,26,3564.81
+44705,décembre 2023,181798207,Fazaz Fatima,26,3741.13
+44705,décembre 2023,181829388,Madane Rachida,26,4939.78
+44705,décembre 2023,181829586,Elfedyly Fadwa,26,4918.36
+44705,décembre 2023,181829685,Chibiby Asmaa,26,5889.57
+44705,décembre 2023,181829784,Benziane Awatif,26,4961.59
+44705,décembre 2023,181830583,El Marni Walid,26,14915.54
+44705,décembre 2023,182756291,El Ommari Aicha,24,44681.5
+44705,décembre 2023,182919138,Gouria Nezha,26,6025.6
+44705,décembre 2023,182980064,Fouaili Fatiha,22,4687.28
+44705,décembre 2023,183121509,Oubenali Kamal,26,4325.3
+44705,décembre 2023,183724418,Amine Youness,19,2336.23
+44705,décembre 2023,184843512,Oubbaomar Ali,26,4068.36
+44705,décembre 2023,185354167,Yassani Fatima Zahra,26,4870.94
+44705,décembre 2023,185534912,Zaouine Omaima,24,3451.2
+44705,décembre 2023,185604543,Ould Hnini Omaima,22,3009.9
+44705,décembre 2023,186104983,Maniar Mohammed,26,10918.17
+44705,décembre 2023,186105080,Sghir Hassnaa,26,5425.32
+44705,décembre 2023,186138040,Adlani Chouaib,0,0.0
+44705,décembre 2023,186138040,Adlani Chouaib,14,1557.69
+44705,décembre 2023,186138141,Ouaaouch Ahlam,26,3649.36
+44705,décembre 2023,186759907,Ouisran Aicha,26,4723.28
+44705,décembre 2023,186760001,Sabbar Hamza,26,5081.22
+44705,décembre 2023,186760203,El Khouldi Oumaima,26,4549.52
+44705,décembre 2023,186995275,Hadari Mohammed,26,6107.21
+44705,décembre 2023,187902143,Ballaj Omar,25,3604.96
+44705,décembre 2023,187902244,Khattabi Amine,26,4105.61
+44705,décembre 2023,188241759,El Azizi Rima,26,5832.79
+44705,décembre 2023,188501221,Addoubiani Hamza,26,6349.35
+44705,décembre 2023,188516590,El Abidi Mohamed,25,4884.17
+44705,décembre 2023,188661551,Khalil Kamal,26,26113.91
+44705,décembre 2023,188784609,Chakir Abdelfattah,26,4583.18
+44705,décembre 2023,189472270,Rafik Achraf,25,13852.36
+44705,décembre 2023,189709448,El Haddad El Mahdi,26,3780.9
+44705,décembre 2023,189784154,Mahrach Milouda,26,5644.49
+44705,décembre 2023,190387260,Khyati Ayoub,26,5547.14
+44705,décembre 2023,190552376,Bouchouari Abdelilah,26,9486.04
+44705,décembre 2023,190556667,Ezzamrani Asma,26,5688.18
+44705,décembre 2023,190657960,Khannar Mehdi,25,17967.72
+44705,décembre 2023,191033425,El Fahli Oussama,17,1990.67
+44705,décembre 2023,191048887,El Bahraoui Aziz,25,14634.23
+44705,décembre 2023,191091555,Ouadaf Fatima,21,4629.7
+44705,décembre 2023,191174997,Sarraj Mohamed,23,3758.42
+44705,décembre 2023,191187099,Ouakannou Zakaria,26,32000.0
+44705,décembre 2023,191415854,M Ragbane Laila,26,5871.2
+44705,décembre 2023,191528392,Darek Soumia,17,1990.67
+44705,décembre 2023,191876320,Legmiri Rajae,18,2163.75
+44705,décembre 2023,191879124,Khouira Mohamed,26,4061.67
+44705,décembre 2023,191954908,Boulahya Khawla,22,3343.68
+44705,décembre 2023,192403407,Saaouf Fadwa,25,3759.71
+44705,décembre 2023,192427866,Driouche Youssef,26,7086.43
+44705,décembre 2023,192673964,Mouktad Hayat,26,4987.86
+44705,décembre 2023,192710469,Hamdi Yassine,25,13902.41
+44705,décembre 2023,192812992,Dahbi Driss,20,5909.95
+44705,décembre 2023,192953426,El Kalchani Kaoutar,26,3796.61
+44705,décembre 2023,193661166,Kbibou Az Eddine,26,9801.28
+44705,décembre 2023,193915696,Hamdan Ilias,26,4427.2
+44705,décembre 2023,194163029,Fakhr Eddine Fadel,17,1974.96
+44705,décembre 2023,194176115,Nouira Oumaima,26,3678.42
+44705,décembre 2023,194176519,Laabousse Houda,26,3741.13
+44705,décembre 2023,194179515,Mtahhaf Mehdi,26,4451.67
+44705,décembre 2023,194622191,Allaoui Imad,25,8374.4
+44705,décembre 2023,195448182,Ben Mouina Hamid,26,4549.52
+44705,décembre 2023,195655946,Mezrou Mustapha,25,4999.93
+44705,décembre 2023,195672916,Mansouri Ahmed,26,4441.13
+44705,décembre 2023,195731013,Talbaoui Younes,26,4379.13
+44705,décembre 2023,196043217,Lehroud Youssef,26,4087.76
+44705,décembre 2023,196410141,El Afi Noura,19,2226.28
+44705,décembre 2023,197064366,El Braoui Hanan,25,5360.41
+44705,décembre 2023,197867822,Tijani Mohammed,26,3936.0
+44705,décembre 2023,198380860,Midane Youssef,25,12483.42
+44705,décembre 2023,198561825,Charrat Samir,25,6767.56
+44705,décembre 2023,198561926,Chakir Adam,19,3365.44
+44705,décembre 2023,198922427,Banoury Hamza,26,3788.75
+44705,décembre 2023,198923823,Goubi Chaimaa,24,3293.54
+44705,décembre 2023,199174981,El Bannad Rajaa,23,4340.38
+44705,décembre 2023,948997905,Bouzity Wafae,18,2163.75

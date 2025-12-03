@@ -1,0 +1,667 @@
+ID_adherent,month,immatriculationNumber,full_name,nombre_jours,salaire
+19701,décembre 2023,100151043,Ihcine Hafida,7,1014.74
+19701,décembre 2023,100172445,Bouloudene Aicha,8,1112.83
+19701,décembre 2023,100201541,Naim Touria,7,945.09
+19701,décembre 2023,100209743,Sarsar Hassan,26,5422.43
+19701,décembre 2023,100215641,El Aouayna Fatima,3,456.21
+19701,décembre 2023,100216045,Saadouni Aicha,11,1697.68
+19701,décembre 2023,100216342,Ennore Aicha,8,1291.82
+19701,décembre 2023,100216649,Et Tyzaouy Fatiha,9,1516.13
+19701,décembre 2023,100217241,Boumour Youssef,26,3712.56
+19701,décembre 2023,100232348,El Aoud Saadia,7,907.18
+19701,décembre 2023,100717986,Chatibi Kebira,16,1990.4
+19701,décembre 2023,100720880,El Moutawakil Fatima,26,3288.83
+19701,décembre 2023,100921967,Youssfi Touria,9,1238.55
+19701,décembre 2023,102129015,Rahmaoui Fatiha,8,995.2
+19701,décembre 2023,102205640,Nich Khadija,11,1595.66
+19701,décembre 2023,102215243,Tayb Naima,5,610.69
+19701,décembre 2023,102279744,Chebba Rachida,5,597.46
+19701,décembre 2023,102330041,Graitisse Aicha,9,1374.27
+19701,décembre 2023,102331049,Farih Malika,7,880.57
+19701,décembre 2023,102331247,Belkir Aicha,9,1277.66
+19701,décembre 2023,102331544,Farid Moulouda,9,1319.27
+19701,décembre 2023,102331940,Zadim Khadija,9,1238.28
+19701,décembre 2023,102332047,Najouh Najma,9,1335.32
+19701,décembre 2023,102332146,Boumahcen Naima,4,594.13
+19701,décembre 2023,102332344,Najouh Aicha,10,1435.28
+19701,décembre 2023,102332948,Zouine Zahra,8,1261.24
+19701,décembre 2023,102333045,Fatahi Fatima,4,554.76
+19701,décembre 2023,102542720,Dbiri Nezha,3,279.9
+19701,décembre 2023,102639162,Bouboul Fatima,3,382.81
+19701,décembre 2023,103184645,Taki Khaddouj,11,1785.15
+19701,décembre 2023,103184843,Motya Fatima,4,574.19
+19701,décembre 2023,103188944,Akkacha Naima,9,1414.66
+19701,décembre 2023,103189645,Ait Ahmed Oubella Keltouma,8,1105.24
+19701,décembre 2023,103205540,Miftah Fatna,10,1369.27
+19701,décembre 2023,103619543,El Khiba Mina,9,1328.42
+19701,décembre 2023,103621241,Hamdouch Mina,11,1660.93
+19701,décembre 2023,104023850,Dafir Rabia,10,1368.55
+19701,décembre 2023,104049450,Nounou Ilham,11,1368.4
+19701,décembre 2023,104052255,Ajdar Fatima,9,1299.52
+19701,décembre 2023,104060852,Okayl Lekbira,9,1292.54
+19701,décembre 2023,104061058,El Mouncharih Saadia,10,1454.21
+19701,décembre 2023,104061553,Sedraoui Khaddouj,10,1367.29
+19701,décembre 2023,104061850,Echrraki Zoubida,10,1369.8
+19701,décembre 2023,104062155,El Ankoud Nazha,9,1288.61
+19701,décembre 2023,104062353,Khaissar Malika,4,573.31
+19701,décembre 2023,104068153,Jaayt Amina,10,1455.1
+19701,décembre 2023,104069052,Kannouz El Hajja,10,1542.54
+19701,décembre 2023,104075950,Dabi Aicha,9,1129.1
+19701,décembre 2023,104130457,Django Hanae,8,1194.02
+19701,décembre 2023,104171857,El Khabar Khadija,10,1366.04
+19701,décembre 2023,104178150,Atrouch Fatima,8,1052.03
+19701,décembre 2023,104179166,Abdourabih Najat,12,1751.42
+19701,décembre 2023,104183357,Marjane Fatna,9,1306.49
+19701,décembre 2023,104184652,Bahajjoub Malika,5,773.09
+19701,décembre 2023,104213155,Essadik Ezzohra,21,2542.43
+19701,décembre 2023,104220258,Boutayeb Khadija,8,1053.5
+19701,décembre 2023,104220563,El Meguedouly Hmad,10,1375.42
+19701,décembre 2023,104232055,El Jamghili Halima,10,1288.35
+19701,décembre 2023,104261559,Amchak Mimouna,4,550.48
+19701,décembre 2023,104261757,Er Rara Milouda,10,1556.05
+19701,décembre 2023,104262052,El Atifi Saida,7,997.01
+19701,décembre 2023,104262250,Tisakfi Khadija,8,1075.01
+19701,décembre 2023,104262359,Tamem Rkia,6,873.29
+19701,décembre 2023,104262557,Bouadi Aicha,4,581.45
+19701,décembre 2023,104262755,Tafquirt Jamila,6,1204.13
+19701,décembre 2023,104262854,Ouaicha Itto,4,545.44
+19701,décembre 2023,104262953,Boulamkane Itto,9,1407.53
+19701,décembre 2023,104281953,Tahiri Lalla Fadma,10,1618.01
+19701,décembre 2023,104362365,Moubarik Lekbira,2,312.33
+19701,décembre 2023,104364650,Mourchid El Ghalia,4,485.86
+19701,décembre 2023,104478659,Karboub Fatiha,10,1439.44
+19701,décembre 2023,104480852,Ouzzine Fatima,9,1330.46
+19701,décembre 2023,104481058,Eddouha Fatima,9,1392.8
+19701,décembre 2023,104481454,Zrifi Saliha,10,1459.6
+19701,décembre 2023,104516350,Amachate Aicha,9,1335.32
+19701,décembre 2023,104531556,Benza Khadija,10,1501.25
+19701,décembre 2023,104569151,Amrij Kaboura,10,1358.36
+19701,décembre 2023,104618859,Agezzoum Rkia,10,1362.29
+19701,décembre 2023,104643856,Jdia Hadda,10,1423.8
+19701,décembre 2023,104681658,Bejtit Hamid,26,3864.18
+19701,décembre 2023,104706050,Khouya Itto,7,1030.97
+19701,décembre 2023,104706159,Handour Hafida,4,589.85
+19701,décembre 2023,104706258,Ben Chamsy Rachida,9,1402.67
+19701,décembre 2023,104706357,Mangual Fatima,10,1489.46
+19701,décembre 2023,104706555,Miraoui Zhor,9,1257.32
+19701,décembre 2023,104724151,Erribi Zahra,10,1369.8
+19701,décembre 2023,104775550,El Quasmi Kaltoum,10,1466.18
+19701,décembre 2023,104823755,Fathi Horria,9,1274.66
+19701,décembre 2023,104922151,Elmadah Aycha,10,1313.49
+19701,décembre 2023,104931657,Ait Azzouz Fadma,10,1385.0
+19701,décembre 2023,105045358,El Bahlouli Mina,7,920.06
+19701,décembre 2023,105111753,Zaitar Rabia,26,3117.78
+19701,décembre 2023,105149853,Qatibi Mahjouba,10,1322.95
+19701,décembre 2023,105151650,Chalib Khadija,7,1006.42
+19701,décembre 2023,105154159,Oulhaj Laila,7,906.57
+19701,décembre 2023,105197050,Naciry Khadija,7,976.74
+19701,décembre 2023,105212155,Outaleb Abdellah,26,8999.99
+19701,décembre 2023,105278470,Riadi Samir,26,3712.56
+19701,décembre 2023,105282471,Charif Mina,2,231.61
+19701,décembre 2023,105304754,Id Abella Ou Said Fadma,19,2651.28
+19701,décembre 2023,105344859,Housni Khellaf,26,3712.53
+19701,décembre 2023,105400552,Akbour Fadma,10,1581.18
+19701,décembre 2023,105403150,Chaggouri Najia,8,1062.94
+19701,décembre 2023,105406055,Bairat Sfia,9,1228.18
+19701,décembre 2023,105420451,Moumou Aicha,12,1739.25
+19701,décembre 2023,105429453,Tafrout Aziz,26,4289.05
+19701,décembre 2023,105451258,Hanzaz Fatima,5,607.65
+19701,décembre 2023,105570355,Ouhad Saadia,9,1258.94
+19701,décembre 2023,105575850,Bbayh Fatna,9,1242.12
+19701,décembre 2023,105610557,Bouyacoubi Yamna,9,1238.55
+19701,décembre 2023,105627255,El Housaini Fatima,9,1152.37
+19701,décembre 2023,105651353,Assiki Rabiaa,10,1458.72
+19701,décembre 2023,105652559,Ait Lahcen Fatima,9,1245.76
+19701,décembre 2023,105686251,Mazouzi Ezzouhra,4,524.49
+19701,décembre 2023,105691359,Chokri Saadia,8,1006.07
+19701,décembre 2023,105702453,Koussayer Fatiha,7,1064.01
+19701,décembre 2023,105747855,Larrgue Lahsen,26,3267.06
+19701,décembre 2023,105761459,Echemli Fatima,8,1133.76
+19701,décembre 2023,105866051,Zraf Nadia,11,1516.79
+19701,décembre 2023,105866655,El Aissi Nazha,8,1107.83
+19701,décembre 2023,105873452,Bensaada El Kbira,3,402.72
+19701,décembre 2023,105910353,Agni Malika,2,174.13
+19701,décembre 2023,105919454,El Fermi Halima,10,1481.92
+19701,décembre 2023,105923356,El Mailoudi Fatima,9,1255.54
+19701,décembre 2023,105965952,Boulid Said,26,4328.65
+19701,décembre 2023,106010558,Bihide Khaddouj,10,1501.77
+19701,décembre 2023,106014451,Echakf Hnia,6,759.12
+19701,décembre 2023,106035754,El Mekkaoui Rabia,10,1378.02
+19701,décembre 2023,106036158,Alilou Fatima,10,1334.39
+19701,décembre 2023,106044953,Allali Fatima,8,1157.89
+19701,décembre 2023,106064555,Ellaouhy Naima,9,1190.44
+19701,décembre 2023,106072152,Debdoubi Ghdayfa,10,1330.46
+19701,décembre 2023,106111140,El Jaaydy Mina,10,1371.05
+19701,décembre 2023,106123054,Oumami Atika,6,731.92
+19701,décembre 2023,106123559,Ak Hayl Malika,25,2993.38
+19701,décembre 2023,106155354,Essaghyr Echybia,10,1367.29
+19701,décembre 2023,106218954,Essaber Latifa,10,1333.68
+19701,décembre 2023,106241054,El Harchaoui Milouda,10,1335.64
+19701,décembre 2023,106242656,Mermouch Amina,10,1364.07
+19701,décembre 2023,106243753,Oujaa Fadna,7,1038.62
+19701,décembre 2023,106243852,Boulamtafi Fouzia,9,1289.86
+19701,décembre 2023,106245254,El Gharrabi Mina,8,1279.49
+19701,décembre 2023,106260856,Nmich Mahjouba,24,3086.68
+19701,décembre 2023,106960756,Bounaji Milouda,24,2915.63
+19701,décembre 2023,106997681,Meskouk Keltouma,26,3117.78
+19701,décembre 2023,107440553,En Nyle Marwa,21,2495.78
+19701,décembre 2023,107440654,Benachich Yassine,26,4011.9
+19701,décembre 2023,108613863,Elissaoui Hanane,4,497.6
+19701,décembre 2023,109007014,Ezzouly Noureddine,1,31.1
+19701,décembre 2023,109318710,Ait Ouchfi Fatima,25,3040.03
+19701,décembre 2023,109367641,Tafroute Mohamed,26,9551.75
+19701,décembre 2023,109401845,Oukarrs Khadija,9,1229.6
+19701,décembre 2023,109497631,El Mokhas Halima,1,124.4
+19701,décembre 2023,110058841,Joudar Fatima,9,1203.67
+19701,décembre 2023,110079917,Shibi Aicha,26,3288.83
+19701,décembre 2023,110080617,Kninaf Nazha,21,2519.1
+19701,décembre 2023,110281827,Semman Ismail,26,3949.7
+19701,décembre 2023,110285027,Sabiq Noreddine,13,1889.33
+19701,décembre 2023,110286726,Alaamam Ghizelane,23,3102.23
+19701,décembre 2023,110288528,Ennassi Asma,15,1858.23
+19701,décembre 2023,110565044,El Fallah Zahra,9,1366.48
+19701,décembre 2023,110565747,El Aamoumi Fatima,6,853.32
+19701,décembre 2023,111701647,El Kamely Khalid,26,4108.46
+19701,décembre 2023,111914034,Louqimi Rabia,10,1394.41
+19701,décembre 2023,112466100,Bouafoud R Kia,9,1119.6
+19701,décembre 2023,113245850,El Hadi Khadija,15,1788.25
+19701,décembre 2023,113406568,Ait Otmane Layachi,10,1411.68
+19701,décembre 2023,113440258,Bikourrane Latifa,16,1943.75
+19701,décembre 2023,113575950,Laamim Noura,18,2153.68
+19701,décembre 2023,114250948,Boulahdadane Mina,4,602.46
+19701,décembre 2023,114286745,Erribi M Bareka,9,1241.05
+19701,décembre 2023,114309547,Tahir Naima,8,1162.91
+19701,décembre 2023,114430412,Fekkak Keltoum,18,2239.2
+19701,décembre 2023,114734911,Elmetred Siham,26,3296.6
+19701,décembre 2023,115025465,Chaoui Rabha,7,898.19
+19701,décembre 2023,115027560,Hafidy Khaddouj,9,1151.35
+19701,décembre 2023,115091044,Karam Rachida,1,148.43
+19701,décembre 2023,115136048,Fariz Khaddouj,10,1359.07
+19701,décembre 2023,115406342,Oularou Biha,11,1562.03
+19701,décembre 2023,115681957,Ounis Asma,26,3215.99
+19701,décembre 2023,115682050,Nait Lahcen Fatima Zahra,13,1593.88
+19701,décembre 2023,115682151,Mennane Mhamed,26,4377.33
+19701,décembre 2023,115682555,Elabbak Maryam,24,2985.6
+19701,décembre 2023,115792750,Otfi Aymane,4,489.83
+19701,décembre 2023,115792851,El Jylali Soukaina,26,3444.33
+19701,décembre 2023,115792952,Ait Taib Rachida,26,3351.03
+19701,décembre 2023,115793055,Amantague Fatima,25,3133.33
+19701,décembre 2023,116241259,Tazouli Mohamed,25,3615.38
+19701,décembre 2023,116445266,Oumhani Rtaimi,13,1640.53
+19701,décembre 2023,116456643,Ourrou Nadia,8,1156.73
+19701,décembre 2023,116458045,Chafiq Brahim,26,3999.0
+19701,décembre 2023,116481046,Fjadi Fatna,4,490.88
+19701,décembre 2023,116514045,Mghari Elhassania,7,1120.16
+19701,décembre 2023,116514243,Ghazy Fatima,6,681.69
+19701,décembre 2023,116514441,Hamid Fatima,8,1040.41
+19701,décembre 2023,116516348,Bazfarra Fatima,8,1080.99
+19701,décembre 2023,116516447,Sabir Hlima,6,827.76
+19701,décembre 2023,116516744,Dourti Ijja,7,1128.38
+19701,décembre 2023,117559991,Ech Chammakh Hafida,1,124.4
+19701,décembre 2023,117633042,Berdaj Mbark,22,3236.02
+19701,décembre 2023,117671448,Erribi Khadija,10,1342.61
+19701,décembre 2023,117687841,Beramadane Halima,9,1318.53
+19701,décembre 2023,117688047,Ouhamy Fatima,10,1435.16
+19701,décembre 2023,117881542,Ennghar Fatima,10,1341.9
+19701,décembre 2023,118345266,Guim Faiza,24,3211.08
+19701,décembre 2023,118413155,Marzak Ismail,1,139.95
+19701,décembre 2023,118413256,Akkoujane Hanane,26,3249.95
+19701,décembre 2023,118413357,Ghoumiri Salma,20,2340.28
+19701,décembre 2023,118531683,Touaya Malika,9,1265.6
+19701,décembre 2023,118681758,Essati Ahmed,25,4120.75
+19701,décembre 2023,118713555,Koubai Abdelhak,20,2456.9
+19701,décembre 2023,118781775,Tafroute Hedda,3,398.7
+19701,décembre 2023,118990962,El Azzouny Zahra,26,3288.83
+19701,décembre 2023,119171131,Boutartour Fatima,16,1920.43
+19701,décembre 2023,119254234,Moussaid Fatima Zahra,8,1059.17
+19701,décembre 2023,119342953,Bouda Mohamed,26,4190.73
+19701,décembre 2023,119343056,Elfadili Hajar,1,31.1
+19701,décembre 2023,119343157,Marouane Otmane,12,1796.03
+19701,décembre 2023,119448919,Mouradi Mariam,19,2192.55
+19701,décembre 2023,119529835,Lamzali Soumaya,5,614.26
+19701,décembre 2023,119665746,Redouane Amina,26,3716.46
+19701,décembre 2023,119738775,Alkaffiche Hafsa,15,1866.0
+19701,décembre 2023,119763475,Echaoui Malika,6,746.4
+19701,décembre 2023,119763854,Maali El Idrissi Hassna,9,1026.3
+19701,décembre 2023,119763955,Sdassi Hassna,7,870.8
+19701,décembre 2023,119908559,Bourahmaoui Mohamed,1,31.1
+19701,décembre 2023,119908751,Boulaouane Oussama,1,31.1
+19701,décembre 2023,120042579,Skouti Hachchouma,26,4377.33
+19701,décembre 2023,120139804,Rabouz Younes,17,2254.76
+19701,décembre 2023,120266752,Karim Rachida,6,676.43
+19701,décembre 2023,120588961,El Mouttchou Zahra,9,1159.21
+19701,décembre 2023,120766541,Bahloul Hafida,10,1319.19
+19701,décembre 2023,121356747,Boufrd Abdellah,11,1531.64
+19701,décembre 2023,121540142,Manssouri Souad,7,824.15
+19701,décembre 2023,121583043,El Maghraoui Fatiha,5,625.35
+19701,décembre 2023,121590840,Laasri Fatima,11,1584.2
+19701,décembre 2023,121612152,Tofy Bouchra,6,699.75
+19701,décembre 2023,121613609,Rafiq Said,17,2589.08
+19701,décembre 2023,122199633,Bana Khadija,8,1166.84
+19701,décembre 2023,122349154,Belguamha Oussama,19,2449.13
+19701,décembre 2023,122357858,Erresymy Boujemaa,17,2301.41
+19701,décembre 2023,122563656,El Mofaker Abdallah,3,427.63
+19701,décembre 2023,122675047,Ouhmouch Fatima,10,1466.69
+19701,décembre 2023,122991196,Akounad Fatima,12,1492.8
+19701,décembre 2023,123318068,Aarab Hakima,7,890.15
+19701,décembre 2023,123350060,Sayed Mina,25,3024.48
+19701,décembre 2023,123350367,Tamou Laaouiry,25,3040.03
+19701,décembre 2023,124268361,Aouissar Zaina,9,1267.69
+19701,décembre 2023,124278360,Ait Mansour Rakkouch,25,4019.68
+19701,décembre 2023,124816441,El Imrany Naima,9,1206.92
+19701,décembre 2023,124816946,Khardid Fatima,9,1233.28
+19701,décembre 2023,124817142,Outchich Khadija,10,1352.81
+19701,décembre 2023,125375363,Kadas Houssa,10,1353.35
+19701,décembre 2023,125557333,El Mahdaoui Fatiha,24,2915.63
+19701,décembre 2023,125644544,Akastam Fadma,4,617.91
+19701,décembre 2023,125644940,Lmamou Fatna,7,1001.86
+19701,décembre 2023,125700247,Imiri Mina,5,599.96
+19701,décembre 2023,125724346,Zghari Lahcen,26,4108.45
+19701,décembre 2023,125768600,El Khotaife Bahija,4,497.6
+19701,décembre 2023,126391798,Id Elmouden Abdellah,26,3752.28
+19701,décembre 2023,126559388,Ribhi Saadia,25,2993.38
+19701,décembre 2023,126929937,Hiyane Fatima,9,1229.86
+19701,décembre 2023,126930132,Lmhaidhad Essaadia,11,1518.05
+19701,décembre 2023,126988644,Ramli Souad,8,1106.92
+19701,décembre 2023,126988743,Boumahcen Rachida,3,436.64
+19701,décembre 2023,126989147,Akila Khaddouj,6,843.26
+19701,décembre 2023,127105536,Aksisse Fatima,10,1500.16
+19701,décembre 2023,127203231,El Aoud Khadija,8,1159.86
+19701,décembre 2023,127398941,El Mahfoudi Halima,8,1183.29
+19701,décembre 2023,127890207,Skouti Ibtissam,5,575.35
+19701,décembre 2023,127891603,Gannour Kawtar,2,248.8
+19701,décembre 2023,128021343,Gouirir Amina,10,1359.07
+19701,décembre 2023,128030146,Merzoug Mbarek,26,3762.79
+19701,décembre 2023,128030245,Abdelgheffar Saoud,26,6619.61
+19701,décembre 2023,128033041,Annane Nazha,10,1467.99
+19701,décembre 2023,128068345,Ben Brahim Fatima,26,8181.18
+19701,décembre 2023,128229640,Nimeriyne Zinba,3,355.1
+19701,décembre 2023,128240779,Loqmane Sabah,10,1335.73
+19701,décembre 2023,128559633,Derbal Malika,10,1386.43
+19701,décembre 2023,128568634,Driouich Zohra,10,1336.19
+19701,décembre 2023,129385574,Chejni Zahra,4,514.69
+19701,décembre 2023,129412864,El Ajani Aziza,9,1236.0
+19701,décembre 2023,129845247,Loumamin Mohammed,26,5457.66
+19701,décembre 2023,129866748,Ait Oubensaid Lahsen,26,3712.53
+19701,décembre 2023,130607811,Imajdine Elghalia,1,124.4
+19701,décembre 2023,131187000,Aissaoui Essaadia,1,124.4
+19701,décembre 2023,131632369,Fettane Mina,4,523.24
+19701,décembre 2023,131762101,Ouassou Aicha,25,3110.0
+19701,décembre 2023,132332497,Gasmi Naima,26,4112.98
+19701,décembre 2023,132769179,El Kasmi Rachida,8,1216.68
+19701,décembre 2023,132777172,Elmouhafid Zahra,2,264.35
+19701,décembre 2023,133472052,Boulbarj Lahcen,26,2970.02
+19701,décembre 2023,133627665,Bahssi Omar,26,4081.01
+19701,décembre 2023,134846545,Essakhi Maryam,9,1213.69
+19701,décembre 2023,134848046,Moumni Salha,5,705.28
+19701,décembre 2023,135093757,Benzaidi Aicha,9,1218.87
+19701,décembre 2023,135359547,Zerrabi Itto Ali,9,1203.67
+19701,décembre 2023,135422849,Tamaoualte Hafida,9,1220.49
+19701,décembre 2023,135529416,Lahnida Kaouthar,3,373.2
+19701,décembre 2023,135973678,Ach Hachar Brahim,26,3833.08
+19701,décembre 2023,136170182,El Aouad Fatima,26,3288.83
+19701,décembre 2023,136170281,Ejjabli El Houcin,11,1660.22
+19701,décembre 2023,136170380,Nasser Aicha,10,1197.35
+19701,décembre 2023,136376424,Essadik Fadma,18,2192.55
+19701,décembre 2023,136617069,Bougader Najat,4,481.4
+19701,décembre 2023,136648460,Essaadi Malika,23,2861.2
+19701,décembre 2023,136760537,Gabigabe Fatiha,9,1049.63
+19701,décembre 2023,136774538,Ettaoufiq Mahjouba,4,473.71
+19701,décembre 2023,136921116,El Khotaif Laila,21,2542.43
+19701,décembre 2023,137926477,Gsiba Noura,26,3164.43
+19701,décembre 2023,137965350,Laasri Halima,10,1465.3
+19701,décembre 2023,137965558,El Idrissi Fatiha,11,1464.4
+19701,décembre 2023,137982552,Chafiki Rabha,26,3607.61
+19701,décembre 2023,138044054,Hrichich Fatima,10,1512.5
+19701,décembre 2023,138044559,Goutaya Zhor,8,1030.74
+19701,décembre 2023,138051554,Ghanimi Lekbira,5,596.92
+19701,décembre 2023,138055358,Boutamni Hafida,10,1364.8
+19701,décembre 2023,138055952,Errachdy Milouda,5,675.42
+19701,décembre 2023,138056158,Ed Dardi Touria,9,1347.99
+19701,décembre 2023,138068335,Drissi My Hicham,26,3267.06
+19701,décembre 2023,138073855,Zouaghi Mina,9,1266.44
+19701,décembre 2023,138118354,Jagnour Aicha,10,1372.31
+19701,décembre 2023,138288157,Sobhi Fatima,11,1483.0
+19701,décembre 2023,138296655,Monsif Lalla Maryem,26,10249.93
+19701,décembre 2023,138302056,El Khammali Mahjouba,8,1137.33
+19701,décembre 2023,138336956,Barji Ilham,10,1244.0
+19701,décembre 2023,138400710,Ettoumi Nadia,3,373.2
+19701,décembre 2023,138402714,Bendahar Samira,8,995.2
+19701,décembre 2023,138436855,Thamir El Kbira,9,1215.66
+19701,décembre 2023,138489151,Allali Aicha,11,1619.08
+19701,décembre 2023,138735562,Bejtet Fatima,4,497.6
+19701,décembre 2023,138760270,Bellamrabet Fatima,2,202.15
+19701,décembre 2023,138798742,El Kattany Naima,24,3304.38
+19701,décembre 2023,139065231,Khafit Aicha,10,1496.9
+19701,décembre 2023,139375341,Eljabri Fadoi,26,6000.0
+19701,décembre 2023,139406422,El Aissaoui Kaoutar,26,3752.53
+19701,décembre 2023,139716842,Raguaoui Hadda,9,1270.56
+19701,décembre 2023,139717147,Akila Fatima,6,843.26
+19701,décembre 2023,139717444,Sebane Saadiya,6,973.88
+19701,décembre 2023,139727542,Oubarka Zahra,9,1130.3
+19701,décembre 2023,139746849,Belkasmi Ijjou,18,2590.4
+19701,décembre 2023,139748647,Essaa Fatna,9,1288.48
+19701,décembre 2023,139749942,Moujib Nora,7,976.67
+19701,décembre 2023,139750246,Ghazy Najat,10,1479.74
+19701,décembre 2023,139751046,Allali Aicha,9,1362.92
+19701,décembre 2023,139752044,El Moussaoui Yamna,10,1395.2
+19701,décembre 2023,139752747,Erradi Fatima,10,1336.19
+19701,décembre 2023,139755345,Aissaoui Khadija,9,1317.96
+19701,décembre 2023,139803946,El Kajji Malika,9,1296.32
+19701,décembre 2023,139805546,Zaghari Zahra,7,1016.78
+19701,décembre 2023,139814448,Goumate Malika,10,1384.46
+19701,décembre 2023,139819844,Manoual Fatima,7,977.89
+19701,décembre 2023,139847340,Moussaid Maunia,26,9785.35
+19701,décembre 2023,140750160,El Harch Hachouma,9,1255.0
+19701,décembre 2023,140750962,Kassine Raja,11,1634.11
+19701,décembre 2023,140802242,Oumaadani Fettouma,9,1389.24
+19701,décembre 2023,140803349,Adnani Fadma,8,1297.06
+19701,décembre 2023,140803448,Menouar Aicha,9,1312.92
+19701,décembre 2023,140810964,Chrami Mbarka,10,1403.06
+19701,décembre 2023,140811160,Ibbahmad Zinba,10,1360.32
+19701,décembre 2023,140817340,El Bassbassi Amina,3,371.89
+19701,décembre 2023,140818249,El Kharoufi Rachida,9,1311.8
+19701,décembre 2023,140824668,Kbari Arbia,9,1230.32
+19701,décembre 2023,140861149,Zen Rachida,26,8904.16
+19701,décembre 2023,140874845,Slimani Ajjiba,9,1390.55
+19701,décembre 2023,140937148,Awinat Fatima,9,1172.38
+19701,décembre 2023,141018442,Labiad Essaadia,10,1363.54
+19701,décembre 2023,141018541,Oumaste Rachida,9,1302.91
+19701,décembre 2023,141676779,Ech Chammakh Hanane,7,800.83
+19701,décembre 2023,141678676,Sergent Aicha,25,3040.03
+19701,décembre 2023,142396532,Lkas Zahra,10,1367.29
+19701,décembre 2023,142694689,Boulmane Fadma,4,489.83
+19701,décembre 2023,143589703,Elbajjany Maryem,26,3265.5
+19701,décembre 2023,143942513,Akhoulou Mustapha,1,31.1
+19701,décembre 2023,145132173,El Aboy Aicha,5,622.0
+19701,décembre 2023,146505668,Belabzar Zahra,0,0.0
+19701,décembre 2023,147322804,Ourit Fadma,23,2791.23
+19701,décembre 2023,147472949,Bour Khadija,10,1543.62
+19701,décembre 2023,147633947,Ezzeguydy Lakbyra,10,1397.17
+19701,décembre 2023,147636644,Ennadif Zoubida,11,1528.42
+19701,décembre 2023,147688348,El Abbadi M Barka,10,1449.55
+19701,décembre 2023,147703740,Halima Hani,5,733.9
+19701,décembre 2023,147705043,Zanzoun Hafida,9,1335.32
+19701,décembre 2023,147708146,Lakhdar Zahira,10,1573.79
+19701,décembre 2023,147709045,Assoul Rakia,9,1159.73
+19701,décembre 2023,147711941,El Chakech Khaddouja,8,1213.1
+19701,décembre 2023,147712147,Maadani Rabha,4,570.8
+19701,décembre 2023,147712543,Berrahal Hafida,6,773.32
+19701,décembre 2023,147712840,Amchak Fatima,3,478.81
+19701,décembre 2023,147946572,Aboughani Habiba,8,1042.89
+19701,décembre 2023,147951779,Ezzayyany Rabia,16,2052.6
+19701,décembre 2023,147975266,Marsli Mbarka,7,997.57
+19701,décembre 2023,147980067,El Asafar Yazzana,17,2114.8
+19701,décembre 2023,148557814,Nait Lahcen Hasna,25,3459.88
+19701,décembre 2023,148925369,Rioui Siham,26,3564.02
+19701,décembre 2023,149666804,Benrakia Abderrazaq,25,4097.43
+19701,décembre 2023,150046244,Benkhalti Zohra,10,1374.99
+19701,décembre 2023,150048042,Oumouss Khadija,10,1358.36
+19701,décembre 2023,150048141,El Aandi Khadija,7,1016.44
+19701,décembre 2023,150051243,Ait Fellah Nadia,10,1532.26
+19701,décembre 2023,150067042,El Assal Samira,10,1322.24
+19701,décembre 2023,150071944,Belloumane Zahra,0,0.0
+19701,décembre 2023,150073148,Farzouz Latifa,10,1338.15
+19701,décembre 2023,150091140,Najat Zafati,10,1320.98
+19701,décembre 2023,150107442,Chafiq Zinab,10,1333.14
+19701,décembre 2023,150115940,Benbakar Hafid,26,3712.53
+19701,décembre 2023,150123240,El Iishaki Khaddouj,2,327.26
+19701,décembre 2023,150139742,Fatiha Bouregga,9,1207.1
+19701,décembre 2023,150177148,M Bareka Souba,1,124.4
+19701,décembre 2023,150981648,El Ouardy Laazyza,3,371.01
+19701,décembre 2023,150994146,Rabha Draeif,5,725.69
+19701,décembre 2023,150994849,Oujgou Fatima,8,1012.69
+19701,décembre 2023,150997140,Taoudi Fettouma,7,1055.78
+19701,décembre 2023,150998346,Abrizoug Abdelkhalek,10,1389.11
+19701,décembre 2023,150998742,Laksir Jmiaa,26,3071.13
+19701,décembre 2023,151003342,Ahniguer Hnia,10,1390.72
+19701,décembre 2023,151005645,Talemsi Rahma,26,3288.83
+19701,décembre 2023,151034040,Benamer Hfida,26,3288.83
+19701,décembre 2023,151036749,Atbib Fadma,9,1246.06
+19701,décembre 2023,151037549,Awinat Fouzia,9,1402.68
+19701,décembre 2023,151037945,El Hajji Hafida,9,1239.8
+19701,décembre 2023,151038943,Boulhint Aziz,26,4027.74
+19701,décembre 2023,151039040,El Barhouli Naima,9,1334.57
+19701,décembre 2023,151039248,Dhaina Badya,23,2744.58
+19701,décembre 2023,151052240,El Madani Hafida,10,1546.48
+19701,décembre 2023,151052349,Khouaja Naima,10,1345.12
+19701,décembre 2023,151074848,Manar Aicha,9,1154.07
+19701,décembre 2023,151086497,Bouati Najat,26,3288.83
+19701,décembre 2023,151101047,Ezzahi Fatima,9,1279.85
+19701,décembre 2023,151153246,Zahe Habiba,8,999.62
+19701,décembre 2023,151408477,Elmamoun Habiba,10,1270.21
+19701,décembre 2023,151444174,Elbahar Zahra,26,3148.88
+19701,décembre 2023,151493139,Selloumi Zoubida,7,1300.05
+19701,décembre 2023,151743568,Ed Deryouch Fdila,9,1311.15
+19701,décembre 2023,151991646,Benbellkhir Fatima,9,1258.75
+19701,décembre 2023,152690437,El Qaddany Kabira,10,1607.94
+19701,décembre 2023,152866088,El Hachadi Ez Zahia,13,1617.2
+19701,décembre 2023,152876483,Elisaouy Halima,26,3413.23
+19701,décembre 2023,154635556,Tarbouch Hassna,10,1393.94
+19701,décembre 2023,154692325,El Fakir Aicha,13,1617.2
+19701,décembre 2023,154696251,Naboulsi Najia,3,405.56
+19701,décembre 2023,154697150,Rachidi Latifa,8,1096.09
+19701,décembre 2023,154715150,Bzira Aicha,10,1379.99
+19701,décembre 2023,154716653,El Bahraoui Rachida,9,1187.4
+19701,décembre 2023,154721355,Tafquirt Zahra,5,717.22
+19701,décembre 2023,154744753,Amakkachou Souad,20,2363.61
+19701,décembre 2023,154752828,Ezzine Najat,24,2915.63
+19701,décembre 2023,154829951,Kaya Fadna,8,1090.65
+19701,décembre 2023,154930857,Tmiti Nadia,9,1160.92
+19701,décembre 2023,155023130,Mechhour M Barka,9,1331.29
+19701,décembre 2023,155040457,Grimah Sabah,10,1571.52
+19701,décembre 2023,155074357,Bahami Hadj,26,12138.42
+19701,décembre 2023,155083051,Samini Rabia,12,1743.91
+19701,décembre 2023,155083259,Lalou Aicha,9,1185.97
+19701,décembre 2023,155114153,Touijir Rabiaa,9,1292.63
+19701,décembre 2023,155175759,El Kamouni Kabira,7,1013.05
+19701,décembre 2023,155209756,Ahrouch Bahia,10,1433.64
+19701,décembre 2023,155254454,Jouada Latifa,8,1064.28
+19701,décembre 2023,155266855,Arabi Hadda,9,1246.06
+19701,décembre 2023,155276359,Laassari Khadija,10,1394.13
+19701,décembre 2023,155284253,Fahmane Fatima,10,1374.99
+19701,décembre 2023,155321881,Amerssal Rachida,22,2713.48
+19701,décembre 2023,155348851,El Houaoui Nadia,25,3475.43
+19701,décembre 2023,155352555,Ait Zineb Samira,10,1590.66
+19701,décembre 2023,155825461,Ibenttalib Fatima,9,1190.51
+19701,décembre 2023,155845360,El Mouden Aicha,10,1250.89
+19701,décembre 2023,155857365,Gouir Halima,13,1617.2
+19701,décembre 2023,156789046,Aboudrare Samira,7,794.19
+19701,décembre 2023,156806849,El Bouinany Lahcen,1,155.5
+19701,décembre 2023,156868840,Mtai Saadia,9,1300.24
+19701,décembre 2023,156869947,Moumen Rabha,10,1582.38
+19701,décembre 2023,156881644,El Marbouky Noura,8,1075.63
+19701,décembre 2023,156925046,Gzouli Milouda,9,1210.11
+19701,décembre 2023,156927646,Addani Fatima,9,1272.7
+19701,décembre 2023,156929543,Abidi Khnata,10,1425.06
+19701,décembre 2023,156936746,Yassine Lekbira,8,1096.46
+19701,décembre 2023,156938940,Enabaoui Amina,10,1392.69
+19701,décembre 2023,157230217,Iziqui Fadma,5,622.0
+19701,décembre 2023,157446570,Bachkad Mohamed,19,2830.1
+19701,décembre 2023,157529842,Akbour Ali,1,124.4
+19701,décembre 2023,157631931,Safriti Bouchra,6,983.18
+19701,décembre 2023,157893110,Bellafqih Anasse,5,699.75
+19701,décembre 2023,159045544,Gaboun Aicha,8,1102.11
+19701,décembre 2023,159307689,Ben Barnia Smail,8,1009.88
+19701,décembre 2023,159686645,Laksir Fatima,26,3630.93
+19701,décembre 2023,159687049,El Masrouhy Fatima,10,1353.34
+19701,décembre 2023,159694341,Hammouni Fatima,9,1332.52
+19701,décembre 2023,159696446,Majid Hafida,2,259.38
+19701,décembre 2023,159696842,El Aissi Fatima,11,1664.47
+19701,décembre 2023,159714248,Moud Hasna,8,1023.07
+19701,décembre 2023,159724643,Ennaji Fatiha,6,775.21
+19701,décembre 2023,159752040,Oudaji Malika,9,1334.01
+19701,décembre 2023,159752149,Jaouada Fatima,5,784.28
+19701,décembre 2023,159770042,Malika Qerach,6,813.77
+19701,décembre 2023,159858145,Hanchar Amina,13,1547.23
+19701,décembre 2023,160366236,El Baroudi Rkia,3,421.91
+19701,décembre 2023,160371938,Oulhaj Nadia,6,806.16
+19701,décembre 2023,160433738,Ghazy Aicha,10,1545.68
+19701,décembre 2023,160434132,Bensaltana Mohamed,26,3712.55
+19701,décembre 2023,160846407,Lemharzi Fatima,26,3895.28
+19701,décembre 2023,162126441,Bouafoud Zahra,15,1866.0
+19701,décembre 2023,162875839,Mrimay Naima,9,1276.82
+19701,décembre 2023,163327871,Chouili Mouloud,25,3646.48
+19701,décembre 2023,164089537,Bounouiouira Sadia,9,1283.61
+19701,décembre 2023,164150130,Khanbouri Meriyem,8,1111.58
+19701,décembre 2023,164361629,Koubai Fatiha,4,450.95
+19701,décembre 2023,164361922,Essati Hicham,25,3817.53
+19701,décembre 2023,165198973,Zaali Fadma,20,2488.0
+19701,décembre 2023,165199377,Bouzarda Malika,25,3040.03
+19701,décembre 2023,165201362,Daaloul Eddaouia,10,1257.73
+19701,décembre 2023,165559542,Moussafii Zohra,8,901.9
+19701,décembre 2023,165559744,Moussafii Fatima,5,622.0
+19701,décembre 2023,165571575,Abourrigue Mohamed,21,3001.15
+19701,décembre 2023,165832638,Aalikouche Rabha,8,1301.93
+19701,décembre 2023,165833131,Boumarcid Fatima,10,1564.14
+19701,décembre 2023,165833339,Nakhasse Abdellah,26,5706.44
+19701,décembre 2023,166022270,Lourga Marim,9,1164.34
+19701,décembre 2023,166188056,Slimani Latifa,6,884.5
+19701,décembre 2023,167574128,Fertat Nawal,26,3366.58
+19701,décembre 2023,167996906,Bachar Yezza,26,3662.03
+19701,décembre 2023,168775398,El Mehdi Chouili,20,3234.4
+19701,décembre 2023,171371068,Ajaoui Jmiaa,26,4201.98
+19701,décembre 2023,171601313,El Moumen Siham,12,1492.8
+19701,décembre 2023,171943723,Essakhery Najat,7,870.8
+19701,décembre 2023,172592123,Bouhlal Atiqa,8,1074.98
+19701,décembre 2023,173133060,Essaadi Amina,25,3040.03
+19701,décembre 2023,173268073,Mhindat Zobida,10,1212.9
+19701,décembre 2023,173270094,Ait Oulahyane Fatima,12,1492.8
+19701,décembre 2023,173353098,Addi Hassan,26,3654.25
+19701,décembre 2023,173410524,Er Radouany Younes,7,995.2
+19701,décembre 2023,173694120,El Hadi Aziza,12,1508.35
+19701,décembre 2023,173861489,El Haiba Fatiha,19,2456.9
+19701,décembre 2023,174009351,Moti Ouardia,9,1240.34
+19701,décembre 2023,174027759,Nassid Zahra,9,1245.51
+19701,décembre 2023,174054059,Nafil Rabia,9,1284.86
+19701,décembre 2023,174261464,Tafrout Salha,9,1153.05
+19701,décembre 2023,174454887,Gnaoui Touria,5,622.0
+19701,décembre 2023,174838859,Harrab Hanane,8,1235.15
+19701,décembre 2023,174838958,Ezzahi Saida,9,1285.57
+19701,décembre 2023,174882872,Laagal Kabira,25,3164.43
+19701,décembre 2023,174907274,Bennaji Abdessalam,26,3786.27
+19701,décembre 2023,175306525,Benhaddo Fatima,23,2861.2
+19701,décembre 2023,175429699,Dihi Mina,15,1796.03
+19701,décembre 2023,175791832,El Hamraoui Fatima,9,1244.05
+19701,décembre 2023,176196026,El Haddayly Fatima,24,2868.98
+19701,décembre 2023,176294226,Jobni Touria,26,3288.83
+19701,décembre 2023,176419640,Elhafidi Nejma,17,2332.5
+19701,décembre 2023,176733635,Essaghir Zaina,9,1346.05
+19701,décembre 2023,176909632,Ennaira Fatima,9,1132.49
+19701,décembre 2023,176975534,Kharbouch Amina,2,204.74
+19701,décembre 2023,177038133,Radouani Daouia,10,1391.44
+19701,décembre 2023,177044338,Ghyat Aicha,9,1397.95
+19701,décembre 2023,177074955,El Kanouni Hakima,24,3032.26
+19701,décembre 2023,177108936,Ouakas Fatna,15,2021.5
+19701,décembre 2023,177399611,Eloulja Atika,6,676.43
+19701,décembre 2023,177466210,El Bour Mina,6,699.75
+19701,décembre 2023,178297150,Hidan Saadia,9,1230.85
+19701,décembre 2023,178666032,Fouad Fatima,9,1289.61
+19701,décembre 2023,178983139,Alkajji Saadia,9,1126.2
+19701,décembre 2023,180012125,Faral Hanane,7,870.8
+19701,décembre 2023,180062533,Abed Said,26,9032.24
+19701,décembre 2023,180063234,Bizbiz Yamna,6,796.49
+19701,décembre 2023,180076732,El Kiba Najat,10,1425.17
+19701,décembre 2023,180076930,Darouache Aziza,7,1064.79
+19701,décembre 2023,180077037,Barqach Samira,7,1065.96
+19701,décembre 2023,180129838,Essefiany Doha,10,1409.8
+19701,décembre 2023,180130231,Aaouimir Fatima,9,1145.01
+19701,décembre 2023,180163539,Abousse Fatima,10,1345.83
+19701,décembre 2023,180339651,Mabout Fatima,10,1389.29
+19701,décembre 2023,180339750,Essaifi Kabira,6,862.12
+19701,décembre 2023,180381256,Louriki El Mostapha,9,1071.46
+19701,décembre 2023,180766888,El Mouaatassim Aicha,26,3564.06
+19701,décembre 2023,180785888,El Faoual Saida,25,3553.18
+19701,décembre 2023,180802989,Iajib Halima,23,2791.23
+19701,décembre 2023,180819024,Hourou Lahcen,25,3242.18
+19701,décembre 2023,180819721,Habib Allah Brahim,18,2674.6
+19701,décembre 2023,180970416,Ajahoud Fatima,13,1570.55
+19701,décembre 2023,182117964,Tafroute Abdellah,26,3424.72
+19701,décembre 2023,182169056,Khalyl Aida,22,2666.83
+19701,décembre 2023,182566054,Adrouji Fatima,0,0.0
+19701,décembre 2023,182659065,Bounaji Rkia,5,622.0
+19701,décembre 2023,182696760,Mourtadi Malika,9,1275.86
+19701,décembre 2023,182744775,Ikirry Khaddouj,16,1873.78
+19701,décembre 2023,182775134,Fargouch Fadna,5,768.18
+19701,décembre 2023,182775431,Zarrouki Khadija,10,1551.11
+19701,décembre 2023,182776033,Outchich Malika,10,1433.58
+19701,décembre 2023,183238102,Belmkadam Ezzohra,19,2379.15
+19701,décembre 2023,183344828,Kibou Hakim,26,4400.66
+19701,décembre 2023,183783044,El Hail Fatiha,9,1119.6
+19701,décembre 2023,184601254,Achahboune Lakbir,26,3516.3
+19701,décembre 2023,184628852,Sailouh Chafiaa,11,1568.3
+19701,décembre 2023,185279951,Iben Ttlib Zahra,10,1400.92
+19701,décembre 2023,185283754,Elamraoui Hafida,10,1457.79
+19701,décembre 2023,185284455,Siasse Naima,11,1591.02
+19701,décembre 2023,185295957,Issguin Mimouna,3,445.81
+19701,décembre 2023,185296054,Anouimi Aida,8,1137.49
+19701,décembre 2023,185357351,Larouz Hafida,9,1154.07
+19701,décembre 2023,185522764,Elhadhoudi Saida,9,1236.04
+19701,décembre 2023,185557969,El Karba Maiyma,9,1153.9
+19701,décembre 2023,186170455,El Khabaz Abdellah,26,3118.52
+19701,décembre 2023,186403765,El Faroui Jmiaa,9,1269.48
+19701,décembre 2023,186499467,Daoy Bouchra,6,731.08
+19701,décembre 2023,186698879,Ouchene Souad,22,2534.65
+19701,décembre 2023,186882654,Biad Siham,4,491.59
+19701,décembre 2023,186887159,El Hanafi Saadia,11,1569.01
+19701,décembre 2023,187121390,Ben Arif Hamid,7,833.2
+19701,décembre 2023,187491058,Bouhdach Rachid,26,4289.08
+19701,décembre 2023,187646421,Hayad Hafida,26,3288.83
+19701,décembre 2023,187981752,Bamhand Khadija,9,1378.21
+19701,décembre 2023,187990654,Tita Zahira,9,1251.78
+19701,décembre 2023,188013926,Lafkihi Zoubida,1,24.14
+19701,décembre 2023,188016657,Chekkouj Rkia,8,1139.48
+19701,décembre 2023,188193786,Elhachadi Rachida,2,248.8
+19701,décembre 2023,188298734,Stiraoui Mannana,11,1598.15
+19701,décembre 2023,188316239,Alouani Mimouna,10,1457.55
+19701,décembre 2023,188500320,Mangui Fadma,23,2915.63
+19701,décembre 2023,188550762,Amannouch Samira,10,1414.24
+19701,décembre 2023,188599562,Bejtetyene Mohammed,26,3267.06
+19701,décembre 2023,188939750,Chalib Soumiya,8,1114.8
+19701,décembre 2023,189025235,Francisco Jacquemin Alice Marie,26,22000.0
+19701,décembre 2023,189044235,Essadi Aida,8,1223.17
+19701,décembre 2023,189096731,Taoukil Lakbira,3,447.78
+19701,décembre 2023,189121736,Zory Brahim,26,6064.23
+19701,décembre 2023,189362520,Atif Fatima,17,2044.83
+19701,décembre 2023,189814159,Biglou Mahjouba,3,419.24
+19701,décembre 2023,190813637,El Khiba Saadia,9,1459.38
+19701,décembre 2023,190814239,Toubi Ep Hnini Fettouma,10,1427.5
+19701,décembre 2023,191154519,Boudara Fatima,11,1586.37
+19701,décembre 2023,191161762,Khatib Najat,26,4328.73
+19701,décembre 2023,191261721,El Amrani Hayate,6,704.88
+19701,décembre 2023,191306703,Jafri Zahira,8,995.2
+19701,décembre 2023,192159592,El Hattoufi Mouhcine,25,3949.7
+19701,décembre 2023,192178336,Okayl Naima,8,1092.63
+19701,décembre 2023,192206434,El Kouri Zahra,12,1659.5
+19701,décembre 2023,193413591,Janah Zohra,26,3234.4
+19701,décembre 2023,193594007,Mosadaque Rkia,20,2503.55
+19701,décembre 2023,193959074,El Kamouni Saadia,8,1145.86
+19701,décembre 2023,194664838,Zoubir Brahim,26,12183.4
+19701,décembre 2023,194867474,Chakouk Aicha,9,1236.7
+19701,décembre 2023,195387024,Boukrab Soulaymane,26,3216.78
+19701,décembre 2023,195544129,Ezzaitouni Laghzal,15,1796.03
+19701,décembre 2023,195665687,Aberni Fatima,26,3288.83
+19701,décembre 2023,195721752,Ez Zeguydy Hafyda,7,1027.36
+19701,décembre 2023,195723659,Mourid Fouzia,9,1399.85
+19701,décembre 2023,195760255,Makriss Amina,9,1136.46
+19701,décembre 2023,196079837,Ballach Rkia,10,1333.68
+19701,décembre 2023,196371324,Belhour Khadija,10,1354.07
+19701,décembre 2023,196888361,Zegda Nora,6,730.85
+19701,décembre 2023,196930162,Ragmane Sabah,10,1495.33
+19701,décembre 2023,196984937,Bahi Fatiha,9,1283.26
+19701,décembre 2023,197098034,Ahbabou Latifa,9,1287.36
+19701,décembre 2023,197119715,Goumrani Rachida,7,1003.75
+19701,décembre 2023,197204954,Aoudi Layachi,26,3267.01
+19701,décembre 2023,197594397,Bejtet Driss,21,3110.01
+19701,décembre 2023,198349163,Zouhri Jaouad,23,3560.96
+19701,décembre 2023,198535639,Choukhad Saaida,11,1606.57
+19701,décembre 2023,198933354,Harrab Hasna,26,3055.58
+19701,décembre 2023,198958055,Ben Abbou Jawahir,8,1148.06
+19701,décembre 2023,198996360,Bour Hayat,6,835.12
+19701,décembre 2023,198996667,Mallaki Noura,6,715.3
+19701,décembre 2023,199515526,Oulhaj Naima,25,3608.2
+19701,décembre 2023,199649760,Oumakraze Hafida,8,1223.19
+19701,décembre 2023,199661863,Housny Ittoucha,9,1256.71
+19701,décembre 2023,199713028,Aredouain Rachida,10,1344.79
+19701,décembre 2023,927602804,Hlaouti El Mehdi,1,31.1
+19701,décembre 2023,973675714,Atiq Mohamed,26,4081.88

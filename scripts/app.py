@@ -11,7 +11,56 @@ st.set_page_config(page_title="ML Project Portfolio", layout="wide")
 
 # Sidebar Navigation
 st.sidebar.title("Navigation")
-app_mode = st.sidebar.radio("Go to", ["Company Classification", "Salary Prediction (Marouane)", "Salary Prediction (Asaad)"])
+app_mode = st.sidebar.radio("Go to", ["Home", "Company Classification", "Salary Prediction (Marouane)", "Salary Prediction (Asaad)"])
+
+# ==========================================
+# 0. Home / Dashboard
+# ==========================================
+def show_home():
+    st.title("🤖 Machine Learning Project Portfolio")
+    
+    st.markdown("""
+    ### Welcome!
+    This portfolio showcases three distinct Machine Learning projects integrated into a single application.
+    
+    #### 👥 Project Team
+    - **Abdelali Saadali**
+    - **Asaad FETHALLAH**
+    - **Marouane Mounir**
+    - **Muhammad Irfan Wahyudi**
+    
+    ---
+    
+    ### 🚀 Projects Overview
+    
+    #### 1. 🏢 Company Classification AI
+    *By Abdelali Saadali*
+    - **Goal**: Classify companies based on worker data patterns.
+    - **Algorithm**: K-Means Clustering (implemented from scratch).
+    - **Key Features**: Visualizes stability, seasonality, and potential anomalies in company workforce data.
+    
+    #### 2. 🇲🇦 Salary Prediction (Marouane)
+    *By Marouane Mounir*
+    - **Goal**: Predict IT salaries in the Moroccan market for 2025.
+    - **Algorithm**: Linear Regression (Gradient Descent from scratch).
+    - **Key Features**: Takes into account profile, experience, education, technology, and target company.
+    
+    #### 3. 💵 Salary Predictor (Asaad)
+    *By Asaad FETHALLAH*
+    - **Goal**: Predict employee salaries based on historical data.
+    - **Algorithm**: Linear Regression.
+    - **Key Features**: Predicts salary for specific employees based on month and year.
+    
+    ---
+    
+    ### 🛠️ Technologies Used
+    - **Python**: Core programming language.
+    - **Streamlit**: For building this interactive web application.
+    - **Scikit-learn / NumPy / Pandas**: For data processing and machine learning.
+    - **Matplotlib / Seaborn**: For data visualization.
+    
+    👈 **Use the sidebar to navigate between the projects.**
+    """)
 
 # ==========================================
 # 1. Company Classification App
@@ -249,7 +298,12 @@ def show_salary_prediction_asaad():
 # ==========================================
 # Main Routing
 # ==========================================
-if app_mode == "Company Classification":
+# ==========================================
+# Main Routing
+# ==========================================
+if app_mode == "Home":
+    show_home()
+elif app_mode == "Company Classification":
     show_company_classification()
 elif app_mode == "Salary Prediction (Marouane)":
     show_salary_prediction_marouane()
